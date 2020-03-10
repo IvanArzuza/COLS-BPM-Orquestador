@@ -1,0 +1,1765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Partition xmlns:m='http://xml.sap.com/moin'>
+<C n='sap.com/tc/esmp/model/wsdl2' i='1' v='1.0.0'/>
+<C n='sap.com/tc/esmp/model/xsd1' i='2' v='1.0.0'/>
+<M c='2' q='XSD1.dom.AttributesOfElement' i='469C6D4035B9BFE094A543902145984092982B55' se='1' ce='1' oe='-1'/>
+<M c='2' q='XSD1.dom.ChildsOfDomNode' i='469C6D40613622D8441C441A26178D080838F852' se='1' ce='1' oe='0'/>
+<M c='2' q='XSD1.dom.DomElement' i='469C6D40670B63EEEBF54DB92DD6F0D4D1644BCB'/>
+<M c='2' q='XSD1.dom.DomText' i='469C6D407EF59150AAB5477F1D8B918A40FEB328'/>
+<M c='2' q='XSD1.dom.DomAttribute' i='469C6D408272B53D2AC84E6D0570A7CA49DC813B'/>
+<M c='1' q='WSDL2.RefToMessageReference' i='469C6D5408F1AD6158A34CD622A08D7AABE4B004' se='1' ce='-1' oe='-1'/>
+<M c='1' q='WSDL2.RefToOperationForBinding' i='469C6D540C8B662AF8F648353A42B39C88AE6893' se='1' ce='-1' oe='-1'/>
+<M c='1' q='WSDL2.BindingMessageReference' i='469C6D541A781D5F83C942FB17CFB26D9A21B3D1' ova='documentations'/>
+<M c='1' q='WSDL2.Operation' i='469C6D542336D3238325485835BE887D3DB925E4' ova='documentations'/>
+<M c='1' q='WSDL2.OperationMessages' i='469C6D542583DABE300F4040142EBD161702DFB9' se='1' ce='1' oe='-1'/>
+<M c='1' q='WSDL2.TypesOfDescrption' i='469C6D543239E624E2A744E0276C9DB52825B820' se='1' ce='1' oe='-1'/>
+<M c='1' q='WSDL2.Binding' i='469C6D54338F51D141F1431A07B2AA99008CA6CB' ova='documentations'/>
+<M c='1' q='WSDL2.Interface' i='469C6D543CED80F183384DF10CB8E92951F3BF59' ova='documentations'/>
+<M c='1' q='WSDL2.MessageExchangePattern' i='469C6D543D0CA4D466EA4C3411EE9E47D593BA59'/>
+<M c='1' q='WSDL2.InterfacesOfDescription' i='469C6D5443AF689CEC9E4B4A2CFAC5AB2ABFF084' se='1' ce='-1' oe='-1'/>
+<M c='1' q='WSDL2.MessageReference' i='469C6D54523FDA47757C42780963964802DC4ED4' ova='documentations'/>
+<M c='1' q='WSDL2.BindingsOfDescription' i='469C6D54541BE56FA2A54E5D384B978C80356450' se='1' ce='-1' oe='-1'/>
+<M c='1' q='WSDL2.UnknownExtensibilityAttribute' i='469C6D54633F9BAE8E644386318EEA13093D8ED7'/>
+<M c='1' q='WSDL2.AttachedUnkownExtensibilityEntities' i='469C6D5464B0E57FD00E4BBC1BB4ECB98D18B78B' se='1' ce='1' oe='0'/>
+<M c='1' q='WSDL2.BindingForInterface' i='469C6D547C12ABFB6C414B2B0117FAA9A7240B6D' se='1' ce='-1' oe='-1'/>
+<M c='1' q='WSDL2.TypeOfBinding' i='469C6D54851920DDF7C7421416179589D6B4A51A' se='1' ce='1' oe='-1'/>
+<M c='1' q='WSDL2.BindingType' i='469C6D54909793E58CED46A501B5E54161ABFC6C'/>
+<M c='1' q='WSDL2.ReferenceToElement' i='469C6D549EB38FC4A7C54EE5206BE9EAEB589770' se='0' ce='-1' oe='-1'/>
+<M c='1' q='WSDL2.BindingOperation' i='469C6D54AF5EC2C60F6E4AFE0918A70FEA75874B' ova='documentations'/>
+<M c='1' q='WSDL2.InterfaceOperations' i='469C6D54B78F3A7360CE4FD733DFECD1E430C7E5' se='1' ce='1' oe='-1'/>
+<M c='1' q='WSDL2.UnknownExtensibilityElement' i='469C6D54B8C4CAFF388A43B62996FFBE5A3110F8'/>
+<M c='1' q='WSDL2.BindingMessageReferences' i='469C6D54E61D81D9A5A6408D050381B3E739DC70' se='1' ce='1' oe='-1'/>
+<M c='1' q='WSDL2.Types' i='469C6D54E85287AD24D549981284A12FBB2A3AF4' ova='documentations'/>
+<M c='1' q='WSDL2.OperationPattern' i='469C6D54EEA561C4114E42E91BA4ECBCA1F1EA05' se='1' ce='1' oe='-1'/>
+<M c='1' q='WSDL2.BindingOperations' i='469C6D54EFD58C59F37C49F20EA7B37C185BD961' se='1' ce='1' oe='-1'/>
+<M c='1' q='WSDL2.InlinedSchemas' i='469C6D54F15DDFD050684A982DBFB68BB21FD149' se='1' ce='-1' oe='-1'/>
+<M c='1' q='WSDL2.Description' i='469C6D54FBB42324714A40A71E648112EF918E5F' ova='documentations'/>
+<WSDL2.Description m:c='1' m:i='E012BF1E0914F6DE026A11EAC91600090FAA0001' documentations='E012BF1E0914F6DF026A11EA883C00090FAA0001' namespace='urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM' name='src/wsdl/BPM_ConsultaReservas_Out.wsdl' digest='d68388341db278d057776741cc3099a4'/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E0914F6DF026A11EA883C00090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/' name='documentation'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E012BF1E0914F6E0026A11EA903600090FAA0001' namespace='http://schemas.xmlsoap.org/ws/2004/09/policy' name='UsingPolicy' required='false'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E0914F6E2026A11EAAA4400090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/' name='required'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E09152FE9026A11EA9D8E00090FAA0001' data='true'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E012BF1E091592DA026A11EAC8FA00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='properties' required='false'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091592DC026A11EABCDE00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091592DD026A11EAADFF00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='category'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091592DE026A11EA855700090FAA0001' data='ifmmessif'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0915AF96026A11EA964700090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E0915AF97026A11EA982500090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='VersionID'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0915AF98026A11EA8FC200090FAA0001' data='b87610e0024611ea8295000000836292'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0915D0FE026A11EAA75B00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E0915D0FF026A11EAB26E00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='lifeCycleInfo'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0915D100026A11EA8F1700090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E0915F7CF026A11EAAF8F00090FAA0001' name='objectState'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0915F7D0026A11EA93DE00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E0915F7D1026A11EAB72700090FAA0001' name='objectstatus'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E0915F7D2026A11EAC24B00090FAA0001' namespace='' name='value'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0915F7D3026A11EAB75B00090FAA0001' data='A'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E09161C76026A11EAB07100090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E09161C77026A11EAB98500090FAA0001' name='personresponsible'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E09161C78026A11EA812A00090FAA0001' namespace='' name='value'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E09161C79026A11EA81CE00090FAA0001' data='tecivarz'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0916356A026A11EA9F7D00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E0916356B026A11EA8E2D00090FAA0001' name='changed'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E0916356C026A11EACD8F00090FAA0001' namespace='' name='by'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0916356D026A11EACB0300090FAA0001' data='tecivarz'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E09168025026A11EA9AD100090FAA0001' namespace='' name='on'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E09168026026A11EAA8BD00090FAA0001' data='1573231463091'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E09168027026A11EACB2800090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0916996C026A11EAC2FD00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E0916996D026A11EAADA900090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='runtimeVersion'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E0916996E026A11EA836700090FAA0001' namespace='' name='uri'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0916996F026A11EACEF300090FAA0001' data='urn:sap-com:soap:runtime:application:client'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E09169970026A11EA896D00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E0916ACB9026A11EACD9C00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='communicationProfile'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E0916ACBA026A11EA9FC000090FAA0001' namespace='' name='uri'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0916ACBB026A11EAC74800090FAA0001' data='prf_dt_if_com_stateless'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0916ACBC026A11EA9EE000090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E0916ACBD026A11EAA13C00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='securityProfile'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E0916ACBE026A11EAA37800090FAA0001' namespace='' name='uri'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0916F55F026A11EA879700090FAA0001' data='prf_dt_if_sec_basic'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0916F560026A11EAA1D000090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E0916F561026A11EAB31800090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='interfacePattern'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091703A3026A11EA873400090FAA0001' namespace='' name='p2p'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091703A4026A11EA8AB400090FAA0001' data='true'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091703A5026A11EAC73100090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091703A6026A11EA97F700090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='isSensitiveData'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091703A7026A11EA878E00090FAA0001' data='false'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091703A8026A11EABD3A00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091BCF7D026A11EA944900090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='classifications'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091BCF7E026A11EAB1B900090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091BCF7F026A11EA9B9700090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='classification'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091BD887026A11EA83A300090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091BD888026A11EA83E900090FAA0001' data='ObjectType'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091BD889026A11EAAEF800090FAA0001' namespace='' name='namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091BD88A026A11EA832B00090FAA0001' data='http://uddi.sap.com/classification'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091BD88B026A11EAA62A00090FAA0001' namespace='' name='uddikey'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091BD88C026A11EAC14A00090FAA0001' data='uddi:uddi.sap.com:categorization:object-type'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091C1B31026A11EAA68400090FAA0001' namespace='' name='valueCode'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091C1B32026A11EA9C5400090FAA0001' data='ifmmessif'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091C1B33026A11EA879700090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091C1B34026A11EA8B7700090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='classification'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091C1B35026A11EAC2F700090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091C1B36026A11EAA08C00090FAA0001' data='ObjectID'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091C2E90026A11EA827400090FAA0001' namespace='' name='namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091C2E91026A11EAC07800090FAA0001' data='http://uddi.sap.com/classification'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091C2E92026A11EAA97B00090FAA0001' namespace='' name='uddikey'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091C2E93026A11EAA45300090FAA0001' data='uddi:uddi.sap.com:categorization:object-id'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091C2E94026A11EAC35A00090FAA0001' namespace='' name='valueCode'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091C2E95026A11EA831F00090FAA0001' data='5b5d80f5d0ce3aac8c25b60a6dd42dfe'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091C6B8C026A11EAC9A600090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091C6B8D026A11EAC96F00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091C6B8E026A11EA956600090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='additionalAttributes'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091C6B8F026A11EACA9B00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091C8C0D026A11EAC7C100090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='methods'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091C8C0E026A11EAB00500090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091C8C0F026A11EAA9DF00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='method'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091C8C10026A11EAA6F100090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091C8C11026A11EA82B000090FAA0001' data='BPM_ConsultaReservas_Out'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091C8C12026A11EAC76700090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091CAB12026A11EAAD2D00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='isSynchron'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091CAB13026A11EA976F00090FAA0001' data='true'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091CAB14026A11EA88B800090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091CAB15026A11EABADB00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='isIdempotent'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091CAB16026A11EAB28000090FAA0001' data='false'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091CAB17026A11EA9E4900090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091CCB3A026A11EA8C0200090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='isInbound'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091CCB3B026A11EAA5A800090FAA0001' data='false'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091CCB3C026A11EAA52C00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091CCB3D026A11EA864D00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='interfaceCategory'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091CCB3E026A11EAAF5200090FAA0001' data='outbound'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091CCB3F026A11EAA64400090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091CF001026A11EA978C00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='communicationProfile'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091CF002026A11EA99B900090FAA0001' namespace='' name='uri'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091CF003026A11EAC66700090FAA0001' data='prf_dt_op_com_sync'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091CF004026A11EA81F000090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091CF005026A11EAB58800090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='contextobjects'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091CF006026A11EACECC00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091D1E34026A11EACB8800090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091D1E35026A11EABC4F00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091D1E36026A11EAC4C900090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='messages'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091D1E37026A11EA988800090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091D1E38026A11EA8DE900090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='message'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091D1E39026A11EAB67200090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091D3AC9026A11EAA4D200090FAA0001' data='p3.PartidaConsulta_Request'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091D3ACA026A11EAA18A00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091D3ACB026A11EA84E900090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='messType'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091D3ACC026A11EACD0000090FAA0001' data='ifmmessage'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091D3ACD026A11EABAB200090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091D3ACE026A11EA8E3700090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='keyElements'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091D6F1F026A11EA9EC300090FAA0001' data='&#10;          '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091D6F20026A11EAB95100090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='elem'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091D6F21026A11EACC4800090FAA0001' namespace='' name='id'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091D6F22026A11EA84BB00090FAA0001' data='NAME'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091D6F23026A11EABF8E00090FAA0001' data='PartidaConsulta_Request'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091D6F24026A11EAC93F00090FAA0001' data='&#10;          '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091D6F25026A11EACFD000090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='elem'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091D9608026A11EA952600090FAA0001' namespace='' name='id'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091D9609026A11EAA57500090FAA0001' data='NAMESPACE'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091D960A026A11EABE8000090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091D960B026A11EA994400090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091D960C026A11EA9CD500090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091DCEF2026A11EAB39400090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='technicalNamespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091DCEF3026A11EAB9D800090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091DCEF4026A11EAA0DE00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091DCEF5026A11EA8CA100090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='VersionID'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091DCEF6026A11EABDBB00090FAA0001' data='cbc58a13b55711e9a4c3000000836292'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091DCEF7026A11EAA09F00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091DCEF8026A11EAAEE400090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='xmlNamespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091DF8E3026A11EA86E900090FAA0001' data='urn:colsubsidio.com:legados:recaudos'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091DF8E4026A11EACFC500090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091DF8E5026A11EAB15C00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='dataType'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091DF8E6026A11EAABC900090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091DF8E7026A11EA96A100090FAA0001' data='PartidaConsulta_Req'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091DF8E8026A11EA9EF800090FAA0001' namespace='' name='namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091E1F6C026A11EABB7500090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091E1F6D026A11EA970800090FAA0001' namespace='' name='swcvId'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091E1F6E026A11EA8C3500090FAA0001' data='fe48eb20b30911e9a8dbe523c0a85b07'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091E1F6F026A11EAB38C00090FAA0001' namespace='' name='uri'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091E1F70026A11EA93F300090FAA0001' data='name=PartidaConsulta_Req~namespace=urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp~swcvId=fe48eb20b30911e9a8dbe523c0a85b07'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091E3E4B026A11EAA9AB00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091E3E4C026A11EAA0ED00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091E3E4D026A11EAA0BB00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='message'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091E3E4E026A11EABCC400090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091E3E4F026A11EAAEDA00090FAA0001' data='p3.ReservaConsulta_Response'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091E658D026A11EA8A0900090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091E658E026A11EAC0C500090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='messType'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091E658F026A11EA809200090FAA0001' data='ifmmessage'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091E6590026A11EAC5F700090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091E6591026A11EA9BE300090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='keyElements'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091E6592026A11EA9CBC00090FAA0001' data='&#10;          '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091E88EF026A11EACC2800090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='elem'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091E88F0026A11EAA63D00090FAA0001' namespace='' name='id'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091E88F1026A11EA9A2000090FAA0001' data='NAME'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091E88F2026A11EA8B6A00090FAA0001' data='ReservaConsulta_Response'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091E88F3026A11EA9B3F00090FAA0001' data='&#10;          '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091E88F4026A11EAC06E00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='elem'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091EA77D026A11EAC0B700090FAA0001' namespace='' name='id'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091EA77E026A11EACCBC00090FAA0001' data='NAMESPACE'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091EA77F026A11EAA97A00090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091EA780026A11EAADDB00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091EA781026A11EA977200090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091EA782026A11EAC05700090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='technicalNamespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091ECFDB026A11EA919900090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091ECFDC026A11EA800000090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091ECFDD026A11EA865800090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='VersionID'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091ECFDE026A11EA80B600090FAA0001' data='d8c4c798b55911e9af15000000836292'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091ECFDF026A11EABFB200090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091EF41E026A11EAC96A00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='xmlNamespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091EF41F026A11EAA04A00090FAA0001' data='urn:colsubsidio.com:legados:opera:recaudos'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091F32D5026A11EAA27F00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091F3CF3026A11EAA29300090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='dataType'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091F3CF4026A11EAB99F00090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091F3CF5026A11EAB63500090FAA0001' data='ReservaConsulta_Resp'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091F6F39026A11EACA2800090FAA0001' namespace='' name='namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091F6F3A026A11EABADB00090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091F6F3B026A11EAB77D00090FAA0001' namespace='' name='swcvId'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091F6F3C026A11EACC6900090FAA0001' data='fe48eb20b30911e9a8dbe523c0a85b07'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E091F9935026A11EAC6D100090FAA0001' namespace='' name='uri'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091F9936026A11EA88CB00090FAA0001' data='name=ReservaConsulta_Resp~namespace=urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp~swcvId=fe48eb20b30911e9a8dbe523c0a85b07'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091F9937026A11EAAA7000090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091F9938026A11EA996000090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091FB5BE026A11EA984600090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091FB5BF026A11EACD5D00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='matchingInterfaces'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091FB5C0026A11EABC5B00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091FB5C1026A11EA82E100090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='genericProperties'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091FB5C2026A11EAC02100090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091FB5C3026A11EACB0200090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='swcvinfo'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091FB5C4026A11EA9BC500090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091FE9A7026A11EA85D800090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='guid'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091FE9A8026A11EA87F900090FAA0001' data='fe48eb20b30911e9a8dbe523c0a85b07'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091FE9A9026A11EACF6E00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E091FE9AA026A11EAC9C200090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091FE9AB026A11EA830800090FAA0001' data='COL_I_RECREACIONYTURISMO_S, 1.0 of colsubsidio.com'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E091FE9AC026A11EAA64600090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0920075F026A11EABB2400090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E09200760026A11EAA0EA00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='folder'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E09200761026A11EA9BDB00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E09200762026A11EAC3A700090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='guid'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E092087A8026A11EA8AE000090FAA0001' data='6fd7b5fed3fb11e9899e000000836292'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E092087A9026A11EACFED00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0921163C026A11EAB0AE00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E0921163D026A11EA89A400090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='languages'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0921163E026A11EA917800090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E09214E4D026A11EA916A00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='language'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E09214E4E026A11EACC6900090FAA0001' namespace='' name='internalCode'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E09214E4F026A11EABDBE00090FAA0001' data='EN'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E09214E50026A11EAC84E00090FAA0001' namespace='' name='original'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0921837E026A11EAC4BA00090FAA0001' data='true'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0921AD48026A11EAC60000090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0921E5ED026A11EA975100090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E0921E5EE026A11EA8F4700090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='documentation'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E0921E5EF026A11EAB19F00090FAA0001' namespace='' name='type'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0921E5F0026A11EAB99700090FAA0001' data='I'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E092205E6026A11EA8F9D00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E092205E7026A11EAAF9600090FAA0001' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E092205E8026A11EAB66600090FAA0001' data='_ID_5b5d80f5d0ce3aac8c25b60a6dd42dfe_ifmmessif'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E092234E2026A11EABAA600090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E09224965026A11EAC6BC00090FAA0001' name='namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E09224966026A11EA923B00090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E092268EF026A11EAB7B500090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E092268F0026A11EABC1900090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E092268F1026A11EAA1A100090FAA0001' data='&#10;  '/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E012BF1E09232A51026A11EA8CA700090FAA0001' namespace='http://schemas.xmlsoap.org/ws/2004/09/policy' name='Policy' required='false'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E0923679C026A11EAC1C100090FAA0001' namespace='http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd' name='Id'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0923679D026A11EACB3B00090FAA0001' data='OP_BPM_ConsultaReservas_Out'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E012BF1E0923921F026A11EAACA200090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='definitions-name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E09239220026A11EACE6800090FAA0001' data='BPM_ConsultaReservas_Out'/>
+<WSDL2.Types m:c='1' m:i='E012BF1E0923B6DC026A11EA909D00090FAA0001'/>
+<WSDL2.Interface m:c='1' m:i='E012BF1E09667FE0026A11EA882C00090FAA0001' documentations='E012BF1E09667FE1026A11EA966000090FAA0001' namespace='urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM' name='BPM_ConsultaReservas_Out'/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E09667FE1026A11EA966000090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/' name='documentation'/>
+<WSDL2.Operation m:c='1' m:i='E012BF1E0966AA66026A11EAB2CA00090FAA0001' documentations='E012BF1E0967C1B3026A11EAA75C00090FAA0001' name='BPM_ConsultaReservas_Out'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E012BF1E0966AA67026A11EA82AA00090FAA0001' namespace='http://schemas.xmlsoap.org/ws/2004/09/policy' name='Policy' required='false'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0966AA69026A11EA806200090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E0966C76B026A11EA942A00090FAA0001' namespace='http://schemas.xmlsoap.org/ws/2004/09/policy' name='PolicyReference'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E0966C76C026A11EA94B400090FAA0001' namespace='' name='URI'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0966C76D026A11EAA34800090FAA0001' data='#OP_BPM_ConsultaReservas_Out'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0966C76E026A11EACB7000090FAA0001' data='&#10;      '/>
+<WSDL2.MessageReference m:c='1' m:i='E012BF1E09670296026A11EAA64800090FAA0001' direction='IN' messageLabel='In' contentModel='ELEMENT'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E012BF1E09670297026A11EAA7D800090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='inputOrOutputOrFault-name'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E012BF1E09673422026A11EA913600090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='message-name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E09673423026A11EAC6A800090FAA0001' data='p3.PartidaConsulta_Request'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E012BF1E09674B16026A11EAB31D00090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='message-namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E09674B17026A11EA99D500090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E012BF1E09674B18026A11EA870100090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='part-name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E09677D9F026A11EA9D1300090FAA0001' data='PartidaConsulta_Request'/>
+<WSDL2.MessageReference m:c='1' m:i='E012BF1E09677DA0026A11EAB1FF00090FAA0001' direction='OUT' messageLabel='Out' contentModel='ELEMENT'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E012BF1E09677DA1026A11EAB50000090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='inputOrOutputOrFault-name'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E012BF1E0967902E026A11EABA8C00090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='message-name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0967902F026A11EACA8900090FAA0001' data='p3.ReservaConsulta_Response'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E012BF1E09679030026A11EAC6F000090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='message-namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E09679031026A11EACE2D00090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E012BF1E09679032026A11EAC79E00090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='part-name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0967C1B2026A11EAAB5000090FAA0001' data='ReservaConsulta_Response'/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1E0967C1B3026A11EAA75C00090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/' name='documentation'/>
+<WSDL2.MessageExchangePattern m:c='1' m:i='E012BF1E0967C1B4026A11EA979900090FAA0001' kind='IN_OUT' pattern='http://www.w3.org/2006/01/wsdl/in-out'/>
+<WSDL2.Binding m:c='1' m:i='E012BF1E09693340026A11EA840C00090FAA0001' namespace='urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM' name='BPM_ConsultaReservas_OutBinding'/>
+<WSDL2.BindingType m:c='1' m:i='E012BF1E09693341026A11EAC8EF00090FAA0001' kind='SOAP' type='http://www.w3.org/2006/01/wsdl/soap'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E012BF1E09693FB1026A11EA947600090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/soap/' name='binding' required='false'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E096970E9026A11EA9DBD00090FAA0001' namespace='' name='style'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E096970EA026A11EAC08F00090FAA0001' data='document'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E096970EB026A11EA8F2300090FAA0001' namespace='' name='transport'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E096970EC026A11EAA83700090FAA0001' data='http://schemas.xmlsoap.org/soap/http'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0969A507026A11EAC70400090FAA0001' data='&lt;soap:binding xmlns:soap=&quot;http://schemas.xmlsoap.org/wsdl/soap/&quot; style=&quot;document&quot; transport=&quot;http://schemas.xmlsoap.org/soap/http&quot;/&gt;'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E0969A508026A11EA9FA800090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='childrenAsText'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E0969CB28026A11EA885800090FAA0001' data='true'/>
+<WSDL2.BindingOperation m:c='1' m:i='E012BF1E096A12F6026A11EA8E5E00090FAA0001'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E012BF1E096A12F7026A11EA8CE600090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/soap/' name='operation' required='false'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E096A12F9026A11EAC7D500090FAA0001' namespace='' name='soapAction'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E096A12FA026A11EAB61600090FAA0001' data='http://sap.com/xi/WebService/soap1.1'/>
+<WSDL2.BindingMessageReference m:c='1' m:i='E012BF1E096A3C33026A11EAB6EB00090FAA0001'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E012BF1E096A5129026A11EAB39800090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/soap/' name='body' required='false'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E096A512B026A11EAAD0900090FAA0001' namespace='' name='use'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E096A512C026A11EACE2200090FAA0001' data='literal'/>
+<WSDL2.BindingMessageReference m:c='1' m:i='E012BF1E096ABB5E026A11EAC8C200090FAA0001'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E012BF1E096ABB5F026A11EA8A6500090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/soap/' name='body' required='false'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1E096ABB61026A11EAA89500090FAA0001' namespace='' name='use'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1E096ABB62026A11EAA5B400090FAA0001' data='literal'/>
+<WSDL2.Description m:c='1' m:i='E012BF1ED03178BA026911EAC20500090FAA0001' documentations='E012BF1ED031E48A026911EAC6BD00090FAA0001' namespace='urn:colsubsidio.com:recreacionyturismo:gestionreservas:bpm' name='src/wsdl/ConsultaReservas_In.wsdl' digest='f4ae2dc15dca2f1a9be8f9ddeabcd958'/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED031E48A026911EAC6BD00090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/' name='documentation'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E012BF1ED0325347026911EAB90300090FAA0001' namespace='http://schemas.xmlsoap.org/ws/2004/09/policy' name='UsingPolicy' required='false'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED032BE1B026911EA844E00090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/' name='required'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED032D8E8026911EAC48700090FAA0001' data='true'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E012BF1ED033BED1026911EA8B8800090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='properties' required='false'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED033DBA6026911EAB7CC00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED033DBA7026911EABCF100090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='category'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED033FABE026911EA9CCD00090FAA0001' data='ifmmessif'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED033FABF026911EAB33400090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03444F0026911EAA13900090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='VersionID'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03444F1026911EAB8E400090FAA0001' data='08b35d72024811eab43b000000836292'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03444F2026911EA898700090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03491CF026911EA874300090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='lifeCycleInfo'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03491D0026911EA966100090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03491D1026911EACFA600090FAA0001' name='objectState'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED034A00B026911EA901B00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED034A00C026911EAC1B200090FAA0001' name='objectstatus'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED034A00D026911EA906F00090FAA0001' namespace='' name='value'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED034A00E026911EAA77700090FAA0001' data='A'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED034D7F5026911EA99C900090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED034D7F6026911EA80EB00090FAA0001' name='personresponsible'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED034E99A026911EA908A00090FAA0001' namespace='' name='value'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED034E99B026911EABBFF00090FAA0001' data='tecivarz'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED035190F026911EACD7800090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED0351910026911EAA49800090FAA0001' name='changed'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED0354ACE026911EA9F0200090FAA0001' namespace='' name='by'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0354ACF026911EACF0C00090FAA0001' data='tecivarz'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED0356632026911EABF8400090FAA0001' namespace='' name='on'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03588CC026911EAA7A100090FAA0001' data='1573232027481'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED035C40E026911EAB71A00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED035D8F1026911EA876F00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED035D8F2026911EAC3C800090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='runtimeVersion'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03603D9026911EACE1200090FAA0001' namespace='' name='uri'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03603DA026911EA999900090FAA0001' data='urn:sap-com:soap:xms:application:xip'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED036AE1F026911EABF8500090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED036AE20026911EAC07100090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='communicationProfile'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED036AE21026911EACA6A00090FAA0001' namespace='' name='uri'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED036AE22026911EAC15700090FAA0001' data='prf_dt_if_com_stateless'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0372091026911EAA0A000090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED0372092026911EACA8C00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='securityProfile'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED0372093026911EACB9600090FAA0001' namespace='' name='uri'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03733C8026911EAA58500090FAA0001' data='prf_dt_if_sec_basic'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03733C9026911EA93A100090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03778EF026911EAA36700090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='interfacePattern'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03778F0026911EA8DC900090FAA0001' namespace='' name='p2p'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03778F1026911EA85E500090FAA0001' data='true'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0378F95026911EAA70800090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED0378F96026911EAC61A00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='isSensitiveData'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED037AA21026911EABB0E00090FAA0001' data='false'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED037AA22026911EACEDF00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED037AA23026911EA811600090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='classifications'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED037AA24026911EABF5100090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED037E85D026911EA818D00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='classification'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED037E85E026911EAAB1000090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED037E85F026911EAA86000090FAA0001' data='ObjectType'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED038039B026911EAB83400090FAA0001' namespace='' name='namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED038039C026911EAC6D700090FAA0001' data='http://uddi.sap.com/classification'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED038039D026911EA809100090FAA0001' namespace='' name='uddikey'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03838CF026911EA9D9000090FAA0001' data='uddi:uddi.sap.com:categorization:object-type'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03838D0026911EAADBF00090FAA0001' namespace='' name='valueCode'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03838D1026911EAB8E200090FAA0001' data='ifmmessif'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0384F80026911EAB26800090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED0384F81026911EACAAD00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='classification'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED0384F82026911EAAE8500090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0384F83026911EA982900090FAA0001' data='ObjectID'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03878E8026911EACDCC00090FAA0001' namespace='' name='namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0389331026911EAAC7C00090FAA0001' data='http://uddi.sap.com/classification'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED0389332026911EA93B900090FAA0001' namespace='' name='uddikey'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0389333026911EAC53500090FAA0001' data='uddi:uddi.sap.com:categorization:object-id'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED038BC83026911EAA2BB00090FAA0001' namespace='' name='valueCode'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED038BC84026911EA97E400090FAA0001' data='a32b7f633e7e398f88a3f5ec75d305df'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED038E303026911EA833D00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED038E304026911EACC3D00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED038E305026911EAC63100090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='additionalAttributes'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0390814026911EABE1D00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED0390815026911EAB0AD00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='methods'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0390816026911EA8C0400090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED0394DE6026911EA8A2E00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='method'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED0394DE7026911EAC13200090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0394DE8026911EAAA3E00090FAA0001' data='ConsultaReservas_In'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03962DE026911EACDE100090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03962DF026911EABC9600090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='isSynchron'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03962E0026911EAC2EC00090FAA0001' data='true'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED039845D026911EAA67700090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED039845E026911EA87AC00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='isIdempotent'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED039845F026911EA876600090FAA0001' data='false'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED039B38C026911EABCA200090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED039B38D026911EAB9FB00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='isInbound'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED039B38E026911EAB9E300090FAA0001' data='true'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED039E319026911EAA41C00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED039E31A026911EA9A0E00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='interfaceCategory'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED039E31B026911EA835B00090FAA0001' data='inbound'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03A0C1A026911EA8B4B00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03A0C1B026911EA84AD00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='communicationProfile'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03A0C1C026911EAB3AB00090FAA0001' namespace='' name='uri'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03A0C1D026911EAA3F200090FAA0001' data='prf_dt_op_com_sync'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03A179F026911EABDA400090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03A5670026911EAC1C500090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='contextobjects'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03A5671026911EAB0CF00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03A5672026911EA8CD000090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03A68F0026911EAAAD600090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03A68F1026911EA9DCA00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='messages'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03A68F2026911EA95DE00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03A98BE026911EAB9B200090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='message'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03A98BF026911EAA57000090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03A98C0026911EA901C00090FAA0001' data='p3.PartidaConsulta_Request'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03AB7F1026911EAA3E100090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03AB7F2026911EA961700090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='messType'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03AB7F3026911EAC5EE00090FAA0001' data='ifmmessage'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03ADE39026911EA830200090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03ADE3A026911EAC66E00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='keyElements'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03ADE3B026911EAC06500090FAA0001' data='&#10;          '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03ADE3C026911EAAB0400090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='elem'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03ADE3D026911EA989400090FAA0001' namespace='' name='id'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03AFFFB026911EACE8000090FAA0001' data='NAME'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03AFFFC026911EA9D4600090FAA0001' data='PartidaConsulta_Request'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03B3E9D026911EACBA500090FAA0001' data='&#10;          '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03B3E9E026911EAA3B500090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='elem'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03B3E9F026911EA8A5A00090FAA0001' namespace='' name='id'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03B5E4D026911EA895000090FAA0001' data='NAMESPACE'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03B5E4E026911EA8E7E00090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03B8405026911EAAD5D00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03BA25A026911EAC3CD00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03BA25B026911EAB80300090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='technicalNamespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03C0689026911EAA05400090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03C068A026911EA8F6A00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03C1B16026911EAC78400090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='VersionID'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03C1B17026911EA823F00090FAA0001' data='cbc58a13b55711e9a4c3000000836292'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03C574E026911EA87F700090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03C574F026911EAA7E700090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='xmlNamespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03C5750026911EAAA2500090FAA0001' data='urn:colsubsidio.com:legados:recaudos'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03C6A72026911EAC08700090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03C6A73026911EAB35300090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='dataType'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03C6A74026911EA8A9900090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03C952F026911EA84ED00090FAA0001' data='PartidaConsulta_Req'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03C9530026911EAA5E000090FAA0001' namespace='' name='namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03CB073026911EA855200090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03CB074026911EAB6DB00090FAA0001' namespace='' name='swcvId'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03CB075026911EA8FFB00090FAA0001' data='ed99d4b0b30911e9a801e523c0a85b07'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03CF8E6026911EAB80F00090FAA0001' namespace='' name='uri'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03CF8E7026911EAB5A000090FAA0001' data='name=PartidaConsulta_Req~namespace=urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp~swcvId=ed99d4b0b30911e9a801e523c0a85b07'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03D0F71026911EACE8A00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03D0F72026911EA8F4400090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03D3026026911EAAA5000090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='message'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03D3027026911EABCAA00090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03D3028026911EAC09E00090FAA0001' data='p3.ReservaConsulta_Response'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03D5D49026911EACDD600090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03D5D4A026911EA8B8900090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='messType'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03D5D4B026911EAAEE400090FAA0001' data='ifmmessage'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03D6EDB026911EACBE800090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03D6EDC026911EAC0CF00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='keyElements'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03D6EDD026911EAA77900090FAA0001' data='&#10;          '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03DAB93026911EAA9CF00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='elem'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03DAB94026911EAAC2100090FAA0001' namespace='' name='id'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03DAB95026911EA9FC600090FAA0001' data='NAME'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03DAB96026911EA90B900090FAA0001' data='ReservaConsulta_Response'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03DD225026911EABDD900090FAA0001' data='&#10;          '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03DD226026911EAA90700090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='elem'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03DD227026911EACD4600090FAA0001' namespace='' name='id'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03DF739026911EAB83B00090FAA0001' data='NAMESPACE'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03DF73A026911EA9C1100090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03DF73B026911EAA6B200090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03E1513026911EACDCA00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03E1514026911EAA19C00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='technicalNamespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03E1515026911EAB02100090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03E47B9026911EACF1300090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03E47BA026911EABE9000090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='VersionID'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03E95B9026911EA94FE00090FAA0001' data='d8c4c798b55911e9af15000000836292'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03EAAE3026911EA858F00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03EAAE4026911EA863A00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='xmlNamespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03EAAE5026911EAA88900090FAA0001' data='urn:colsubsidio.com:legados:opera:recaudos'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03EF0F0026911EABB3B00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03EF0F1026911EAA4B500090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='dataType'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03EF0F2026911EAAC4200090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03EF0F3026911EA94B100090FAA0001' data='ReservaConsulta_Resp'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03F1152026911EAC60400090FAA0001' namespace='' name='namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03F1153026911EA85D400090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03F2F01026911EAA5E500090FAA0001' namespace='' name='swcvId'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03F2F02026911EAB63400090FAA0001' data='ed99d4b0b30911e9a801e523c0a85b07'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED03F5CDA026911EAC0B600090FAA0001' namespace='' name='uri'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03F5CDB026911EA989500090FAA0001' data='name=ReservaConsulta_Resp~namespace=urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp~swcvId=ed99d4b0b30911e9a801e523c0a85b07'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03FB006026911EA99A700090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03FC21D026911EA922700090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED03FE279026911EACBAB00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED03FE27A026911EA9FC000090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='matchingInterfaces'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0401DB2026911EAC88400090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED0404904026911EAAC6800090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='genericProperties'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0404905026911EAC87300090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED0404906026911EA8ADF00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='swcvinfo'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0404907026911EA827700090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED04069F6026911EABC5500090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='guid'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED04069F7026911EAAE3D00090FAA0001' data='ed99d4b0b30911e9a801e523c0a85b07'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED040A016026911EAB0EE00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED040A017026911EACEEE00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED040A018026911EAC6D000090FAA0001' data='COL_I_RECREACIONYTURISMO_R, 1.0 of colsubsidio.com'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED040C51A026911EA8DC300090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED040DC80026911EAA35300090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED040DC81026911EAB51A00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='folder'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED040DC82026911EAA8EB00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED0411046026911EAB3BF00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='guid'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0411047026911EABACB00090FAA0001' data='54bb6e4600b211ea8a8e000000836292'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0416306026911EA94BA00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0416307026911EAB70D00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED0416308026911EAA8AE00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='languages'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0416D83026911EA832800090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED0416D84026911EABAAF00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='language'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED0416D85026911EA9AC000090FAA0001' namespace='' name='internalCode'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0416D86026911EA910500090FAA0001' data='EN'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED04193CE026911EABBE900090FAA0001' namespace='' name='original'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED04193CF026911EAC2F600090FAA0001' data='true'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED041C2D9026911EAC95200090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED041C2DA026911EAB55100090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED041E1D1026911EAB65B00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='documentation'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED0421839026911EABD9B00090FAA0001' namespace='' name='type'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED042183A026911EAA30500090FAA0001' data='I'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED04246C8026911EA84E600090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED04246C9026911EA84E200090FAA0001' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED04246CA026911EAAD4400090FAA0001' data='_ID_a32b7f633e7e398f88a3f5ec75d305df_ifmmessif'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED04260DC026911EAC98500090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED04260DD026911EAA93200090FAA0001' name='namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED04260DE026911EAC00400090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:bpm'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED04291A7026911EAACCC00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED04291A8026911EA855900090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED04291A9026911EA90BD00090FAA0001' data='&#10;  '/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E012BF1ED0431BBD026911EAB83E00090FAA0001' namespace='http://schemas.xmlsoap.org/ws/2004/09/policy' name='Policy' required='false'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED0434B87026911EAB8F800090FAA0001' namespace='http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd' name='Id'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0434B88026911EAA8C600090FAA0001' data='OP_ConsultaReservas_In'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E012BF1ED043E5A2026911EAC38100090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='definitions-name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED04400F4026911EAA76500090FAA0001' data='ConsultaReservas_In'/>
+<WSDL2.Types m:c='1' m:i='E012BF1ED044B608026911EA934900090FAA0001'/>
+<WSDL2.Interface m:c='1' m:i='E012BF1ED0938FC6026911EA889400090FAA0001' documentations='E012BF1ED0938FC7026911EAC50C00090FAA0001' namespace='urn:colsubsidio.com:recreacionyturismo:gestionreservas:bpm' name='ConsultaReservas_In'/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED0938FC7026911EAC50C00090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/' name='documentation'/>
+<WSDL2.Operation m:c='1' m:i='E012BF1ED093EA67026911EAB35300090FAA0001' documentations='E012BF1ED09533F5026911EA9D1D00090FAA0001' name='ConsultaReservas_In'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E012BF1ED093EA68026911EAA37A00090FAA0001' namespace='http://schemas.xmlsoap.org/ws/2004/09/policy' name='Policy' required='false'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED093FDE1026911EAB43100090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED093FDE2026911EAABBD00090FAA0001' namespace='http://schemas.xmlsoap.org/ws/2004/09/policy' name='PolicyReference'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED093FDE3026911EA98CB00090FAA0001' namespace='' name='URI'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED093FDE4026911EAC62000090FAA0001' data='#OP_ConsultaReservas_In'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0942264026911EAAA9000090FAA0001' data='&#10;      '/>
+<WSDL2.MessageReference m:c='1' m:i='E012BF1ED0948A6F026911EAB4C200090FAA0001' direction='IN' messageLabel='In' contentModel='ELEMENT'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E012BF1ED0948A70026911EAC9DE00090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='inputOrOutputOrFault-name'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E012BF1ED094949E026911EABD7F00090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='message-name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED094949F026911EABD4900090FAA0001' data='p3.PartidaConsulta_Request'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E012BF1ED09494A0026911EACADB00090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='message-namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED09494A1026911EAC7D300090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:bpm'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E012BF1ED094EB5A026911EA996100090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='part-name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED094EB5B026911EA915100090FAA0001' data='PartidaConsulta_Request'/>
+<WSDL2.MessageReference m:c='1' m:i='E012BF1ED094EB5C026911EAA5B000090FAA0001' direction='OUT' messageLabel='Out' contentModel='ELEMENT'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E012BF1ED0950A79026911EAC42200090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='inputOrOutputOrFault-name'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E012BF1ED0950A7A026911EACD4200090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='message-name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0950A7B026911EAAACF00090FAA0001' data='p3.ReservaConsulta_Response'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E012BF1ED0950A7C026911EA90FA00090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='message-namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0950A7D026911EAB5A900090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:bpm'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E012BF1ED0950A7E026911EAA95400090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='part-name'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED09533F4026911EA838400090FAA0001' data='ReservaConsulta_Response'/>
+<XSD1.dom.DomElement m:c='2' m:i='E012BF1ED09533F5026911EA9D1D00090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/' name='documentation'/>
+<WSDL2.MessageExchangePattern m:c='1' m:i='E012BF1ED09533F6026911EA97D100090FAA0001' kind='IN_OUT' pattern='http://www.w3.org/2006/01/wsdl/in-out'/>
+<WSDL2.Binding m:c='1' m:i='E012BF1ED0968FCE026911EA801E00090FAA0001' namespace='urn:colsubsidio.com:recreacionyturismo:gestionreservas:bpm' name='ConsultaReservas_InBinding'/>
+<WSDL2.BindingType m:c='1' m:i='E012BF1ED096BF5E026911EA994A00090FAA0001' kind='SOAP' type='http://www.w3.org/2006/01/wsdl/soap'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E012BF1ED096E4E0026911EAA67500090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/soap/' name='binding' required='false'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED096E4E2026911EABAD800090FAA0001' namespace='' name='style'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED096E4E3026911EACD3B00090FAA0001' data='document'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED096E4E4026911EA9E7A00090FAA0001' namespace='' name='transport'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED096E4E5026911EACA6000090FAA0001' data='http://schemas.xmlsoap.org/soap/http'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0973B2A026911EA9B9900090FAA0001' data='&lt;soap:binding xmlns:soap=&quot;http://schemas.xmlsoap.org/wsdl/soap/&quot; style=&quot;document&quot; transport=&quot;http://schemas.xmlsoap.org/soap/http&quot;/&gt;'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED0973B2B026911EAB24600090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='childrenAsText'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0973B2C026911EAAF2400090FAA0001' data='true'/>
+<WSDL2.BindingOperation m:c='1' m:i='E012BF1ED0979A4A026911EABA1600090FAA0001'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E012BF1ED097BF2B026911EAA21B00090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/soap/' name='operation' required='false'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED097BF2D026911EAAF2E00090FAA0001' namespace='' name='soapAction'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED097BF2E026911EABEED00090FAA0001' data='http://sap.com/xi/WebService/soap1.1'/>
+<WSDL2.BindingMessageReference m:c='1' m:i='E012BF1ED098073B026911EA97B700090FAA0001'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E012BF1ED098073C026911EAA02400090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/soap/' name='body' required='false'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED098073E026911EAA75800090FAA0001' namespace='' name='use'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED098073F026911EAA29100090FAA0001' data='literal'/>
+<WSDL2.BindingMessageReference m:c='1' m:i='E012BF1ED0983812026911EAC5D800090FAA0001'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E012BF1ED0983813026911EABB5F00090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/soap/' name='body' required='false'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E012BF1ED0983AD0026911EAA7F500090FAA0001' namespace='' name='use'/>
+<XSD1.dom.DomText m:c='2' m:i='E012BF1ED0983AD1026911EACFDF00090FAA0001' data='literal'/>
+<WSDL2.Description m:c='1' m:i='E0E1B8C6D56105070AE311EAA1EC00090FAA0001' documentations='E0E1B8C6D5615B210AE311EAB69300090FAA0001' namespace='urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM' name='src/wsdl/AplicarCargoReserva_Out.wsdl' digest='c5c450c2e7833ec57db2377a5f6f1c7b'/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D5615B210AE311EAB69300090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/' name='documentation'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E0E1B8C6D561DA8A0AE311EA81F000090FAA0001' namespace='http://schemas.xmlsoap.org/ws/2004/09/policy' name='UsingPolicy' required='false'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D561F4BD0AE311EA873200090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/' name='required'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56252DE0AE311EA9DA500090FAA0001' data='true'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='properties' required='false'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D563DE2E0AE311EA99F800090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D563EE9C0AE311EABBE800090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='category'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D563EE9D0AE311EAAFB700090FAA0001' data='ifmmessif'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D563EE9E0AE311EA952F00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D563EE9F0AE311EA9F9A00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='VersionID'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D563EEA00AE311EACD8200090FAA0001' data='1e86fb21da4d11e9865e000000836292'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56429240AE311EA8EDF00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56429250AE311EABF3300090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='lifeCycleInfo'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56429260AE311EAB89E00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56429270AE311EACBB000090FAA0001' name='objectState'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56429280AE311EA8A3600090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56429290AE311EAA88B00090FAA0001' name='objectstatus'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D564292A0AE311EAAC5A00090FAA0001' namespace='' name='value'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D564292B0AE311EAA15500090FAA0001' data='A'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56456FF0AE311EA92FB00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56457000AE311EA9A9E00090FAA0001' name='personresponsible'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D56457010AE311EACE3000090FAA0001' namespace='' name='value'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56457020AE311EA94BC00090FAA0001' data='tecivarz'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56457030AE311EA9DB700090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56457040AE311EA92DC00090FAA0001' name='changed'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D5647F760AE311EA88B000090FAA0001' namespace='' name='by'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5647F770AE311EAC4DB00090FAA0001' data='tecivarz'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D5647F780AE311EAA31A00090FAA0001' namespace='' name='on'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5647F790AE311EAB92500090FAA0001' data='1568836174280'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5647F7A0AE311EABC4300090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5647F7B0AE311EA9F5F00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D5647F7C0AE311EAB96E00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='runtimeVersion'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D56485360AE311EAA84900090FAA0001' namespace='' name='uri'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56485370AE311EA89B400090FAA0001' data='urn:sap-com:soap:runtime:application:client'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56485380AE311EA886300090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56485390AE311EA800300090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='communicationProfile'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D564853A0AE311EAB94800090FAA0001' namespace='' name='uri'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D564853B0AE311EAA33D00090FAA0001' data='prf_dt_if_com_stateless'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D564C6060AE311EAA6CD00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D564C6070AE311EA800800090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='securityProfile'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D564C6080AE311EA8D7000090FAA0001' namespace='' name='uri'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D564C6090AE311EAC54200090FAA0001' data='prf_dt_if_sec_basic'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D564C60A0AE311EABF9E00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D564C60B0AE311EAB0A800090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='interfacePattern'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D564C60C0AE311EABC3A00090FAA0001' namespace='' name='p2p'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D564C60D0AE311EA847B00090FAA0001' data='true'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D564E2460AE311EAB93E00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D564E2470AE311EABD7D00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='isSensitiveData'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D564E2480AE311EAC3D000090FAA0001' data='false'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D564E2490AE311EAC53800090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D564E24A0AE311EA826100090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='classifications'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D564E24B0AE311EAB8BD00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D564E24C0AE311EA9DA400090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='classification'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D564E24D0AE311EAC68600090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D564E24E0AE311EA9FA200090FAA0001' data='ObjectType'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D564E24F0AE311EAC8DB00090FAA0001' namespace='' name='namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D564E2500AE311EA9A5B00090FAA0001' data='http://uddi.sap.com/classification'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D56511650AE311EAA15200090FAA0001' namespace='' name='uddikey'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56511660AE311EACCC700090FAA0001' data='uddi:uddi.sap.com:categorization:object-type'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D56511670AE311EAB8D900090FAA0001' namespace='' name='valueCode'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56511680AE311EAB2D900090FAA0001' data='ifmmessif'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56511690AE311EA92C500090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D565116A0AE311EAC36500090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='classification'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D565116B0AE311EAC42700090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565116C0AE311EAB0BC00090FAA0001' data='ObjectID'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D565116D0AE311EAC0B700090FAA0001' namespace='' name='namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565116E0AE311EAB80400090FAA0001' data='http://uddi.sap.com/classification'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D56521140AE311EA87DE00090FAA0001' namespace='' name='uddikey'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56521150AE311EABCB400090FAA0001' data='uddi:uddi.sap.com:categorization:object-id'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D56521160AE311EA937600090FAA0001' namespace='' name='valueCode'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56521170AE311EAB30100090FAA0001' data='0b1f55e855273d95a4b714594fbe8fe2'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56521180AE311EAC2A500090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56521190AE311EAC3EC00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D565211A0AE311EAA25600090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='additionalAttributes'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565211B0AE311EA8B0400090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D565211C0AE311EAC0C500090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='methods'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565211D0AE311EAB50C00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D5654E670AE311EAC90500090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='method'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D5654E680AE311EAA2D100090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5654E690AE311EA953600090FAA0001' data='AplicarCargoReserva_Out'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5654E6A0AE311EAC23800090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D5654E6B0AE311EA887A00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='isSynchron'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5654E6C0AE311EA82AE00090FAA0001' data='true'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5654E6D0AE311EABD0400090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D5654E6E0AE311EACE3800090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='isIdempotent'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5654E6F0AE311EAC92200090FAA0001' data='false'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5654E700AE311EAB0CC00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56572C30AE311EAA3AA00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='isInbound'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56572C40AE311EABBD500090FAA0001' data='false'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56572C50AE311EAB85300090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56572C60AE311EA8FE200090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='interfaceCategory'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56572C70AE311EAB07600090FAA0001' data='outbound'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56572C80AE311EAB69C00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56572C90AE311EAA56C00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='communicationProfile'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D56572CA0AE311EAC51100090FAA0001' namespace='' name='uri'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56572CB0AE311EAB6BC00090FAA0001' data='prf_dt_op_com_sync'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56572CC0AE311EAB2C600090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56572CD0AE311EA829800090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='contextobjects'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565B9EB0AE311EA8C4D00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565B9EC0AE311EAC34700090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565B9ED0AE311EA822800090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D565B9EE0AE311EAC9FA00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='messages'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565B9EF0AE311EA90FD00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D565B9F00AE311EA882A00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='message'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D565B9F10AE311EABA5F00090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565C0450AE311EAB9F600090FAA0001' data='p3.AplicarCargoReserva_Response'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565C0460AE311EA95A800090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D565C0470AE311EA8F6000090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='messType'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565C0480AE311EA81DA00090FAA0001' data='ifmmessage'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565C0490AE311EA99F400090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D565C04A0AE311EACB9D00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='keyElements'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565C04B0AE311EAB02A00090FAA0001' data='&#10;          '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D565C04C0AE311EAC29200090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='elem'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D565C04D0AE311EACD4600090FAA0001' namespace='' name='id'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565F0C30AE311EA90B300090FAA0001' data='NAME'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565F0C40AE311EABCA000090FAA0001' data='AplicarCargoReserva_Response'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565F0C50AE311EA9F7100090FAA0001' data='&#10;          '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D565F0C60AE311EA939200090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='elem'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D565F0C70AE311EACA2600090FAA0001' namespace='' name='id'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565F0C80AE311EA957B00090FAA0001' data='NAMESPACE'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565F0C90AE311EAAA5B00090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D565F0CA0AE311EABE3D00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5662E880AE311EA8D0800090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D5662E890AE311EA800E00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='technicalNamespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5662E8A0AE311EAC9BC00090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5662E8B0AE311EAC9FE00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D5662E8C0AE311EAB85E00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='VersionID'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5662E8D0AE311EA9A1B00090FAA0001' data='6d8c7c67b47c11e99610000000836292'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5662E8E0AE311EAC43D00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D5662E8F0AE311EA8C5400090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='xmlNamespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5662E900AE311EAA77500090FAA0001' data='urn:colsubsidio.com:erp:aplicarcargo'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56640FC0AE311EA815C00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56640FD0AE311EAAE0900090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='dataType'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D56663930AE311EA865A00090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56663940AE311EA956400090FAA0001' data='MensajeRespuestaBaseDTO'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D5668F9F0AE311EAA4BE00090FAA0001' namespace='' name='namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5668FA00AE311EAA9C500090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D5668FA10AE311EACB7700090FAA0001' namespace='' name='swcvId'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5668FA20AE311EABA8800090FAA0001' data='fe48eb20b30911e9a8dbe523c0a85b07'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D566EAE80AE311EA88B000090FAA0001' namespace='' name='uri'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D566EAE90AE311EA9F8C00090FAA0001' data='name=MensajeRespuestaBaseDTO~namespace=urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp~swcvId=fe48eb20b30911e9a8dbe523c0a85b07'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D566FA210AE311EAB7C800090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5674BE00AE311EA923A00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D5674BE10AE311EA948300090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='message'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D5677D830AE311EA973D00090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D567AE0E0AE311EAC8EA00090FAA0001' data='p3.AplicarCargoReserva_Request'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D567C0F30AE311EAC38B00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D567F23C0AE311EA8FD900090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='messType'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D567F23D0AE311EAC31E00090FAA0001' data='ifmmessage'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D568607D0AE311EACE3200090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D5688DBB0AE311EA9FAD00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='keyElements'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D568B81C0AE311EA922300090FAA0001' data='&#10;          '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D568CB0F0AE311EAB83000090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='elem'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D5690ABD0AE311EAB79F00090FAA0001' namespace='' name='id'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5692EF10AE311EA947400090FAA0001' data='NAME'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5692EF20AE311EAC08200090FAA0001' data='AplicarCargoReserva_Request'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5692EF30AE311EABD8400090FAA0001' data='&#10;          '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D5692EF40AE311EA8F4A00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='elem'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D569440B0AE311EAB1F400090FAA0001' namespace='' name='id'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D569440C0AE311EA934400090FAA0001' data='NAMESPACE'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D569440D0AE311EA8F4C00090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D569440E0AE311EA8C9A00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D569440F0AE311EAC00800090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D569790C0AE311EAAAD500090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='technicalNamespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D569790D0AE311EAA7DB00090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56990020AE311EAA26600090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56990030AE311EAB6C300090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='VersionID'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D569D22A0AE311EAC3E200090FAA0001' data='3a20babab47c11e9aac3000000836292'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D569D22B0AE311EAA57300090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D569D22C0AE311EA90CB00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='xmlNamespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D569D22D0AE311EAB4E400090FAA0001' data='urn:colsubsidio.com:erp:aplicarcargo'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D569F8A80AE311EAABA800090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D569F8A90AE311EAB70500090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='dataType'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D56A16A70AE311EA86F200090FAA0001' namespace='' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56A16A80AE311EAA92600090FAA0001' data='AplicarCargoReserva_Req'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D56A3C370AE311EABA1000090FAA0001' namespace='' name='namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56A55050AE311EA897B00090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D56AA4220AE311EAAFE700090FAA0001' namespace='' name='swcvId'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56AA4230AE311EA858500090FAA0001' data='fe48eb20b30911e9a8dbe523c0a85b07'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D56AE9240AE311EA9FF900090FAA0001' namespace='' name='uri'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56AF6D20AE311EAC18400090FAA0001' data='name=AplicarCargoReserva_Req~namespace=urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp~swcvId=fe48eb20b30911e9a8dbe523c0a85b07'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56B30070AE311EA93E700090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56B4C470AE311EAC7E000090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56B81BE0AE311EAAF3C00090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56B8AAA0AE311EAC95D00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='matchingInterfaces'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56BC2860AE311EABF3400090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56BF1A50AE311EAC15900090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='genericProperties'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56C1FA90AE311EABC4000090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56C1FAA0AE311EA960C00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='swcvinfo'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56C1FAB0AE311EABD4700090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56C5C9A0AE311EA889C00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='guid'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56C5C9B0AE311EAB7B000090FAA0001' data='fe48eb20b30911e9a8dbe523c0a85b07'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56C5C9C0AE311EAAE0C00090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56C5C9D0AE311EABEE100090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56C5C9E0AE311EA9A8200090FAA0001' data='COL_I_RECREACIONYTURISMO_S, 1.0 of colsubsidio.com'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56C5C9F0AE311EA908300090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56C886A0AE311EA954100090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56C886B0AE311EAA51700090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='folder'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56C886C0AE311EA9D8700090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56C886D0AE311EAB1CA00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='guid'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56CBDDC0AE311EA9C2F00090FAA0001' data='ebf48878da4c11e9ac9b000000836292'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56CBDDD0AE311EA837A00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56CE12A0AE311EABBCE00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56CE12B0AE311EA887900090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='languages'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56CFED10AE311EAB96100090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56CFED20AE311EAA99A00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='language'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D56CFED30AE311EA99FA00090FAA0001' namespace='' name='internalCode'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56CFED40AE311EA9FEA00090FAA0001' data='EN'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D56CFED50AE311EA9A9F00090FAA0001' namespace='' name='original'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56CFED60AE311EA835C00090FAA0001' data='true'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56D2FFC0AE311EAB4CC00090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56D2FFD0AE311EAB09900090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56D2FFE0AE311EACE3C00090FAA0001' namespace='urn:com-sap:ifr:v2:wsdl' name='documentation'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D56D2FFF0AE311EA8B0B00090FAA0001' namespace='' name='type'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56D30000AE311EACBDD00090FAA0001' data='I'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56D30010AE311EA9B1300090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56D45A00AE311EACFE400090FAA0001' name='name'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56D45A10AE311EAC68B00090FAA0001' data='_ID_0b1f55e855273d95a4b714594fbe8fe2_ifmmessif'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56D79F10AE311EA870700090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D56D79F20AE311EAC8AA00090FAA0001' name='namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56D79F30AE311EAC7ED00090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56D862A0AE311EAB2C000090FAA0001' data='&#10;      '/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56D862B0AE311EA8E5100090FAA0001' data='&#10;    '/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56DC9900AE311EABF4A00090FAA0001' data='&#10;  '/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E0E1B8C6D56E36540AE311EAA89D00090FAA0001' namespace='http://schemas.xmlsoap.org/ws/2004/09/policy' name='Policy' required='false'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D56E36560AE311EAC93E00090FAA0001' namespace='http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd' name='Id'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56E36570AE311EAA46D00090FAA0001' data='OP_AplicarCargoReserva_Out'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E0E1B8C6D56EAF1D0AE311EA853300090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='definitions-name'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D56EAF1E0AE311EA940600090FAA0001' data='AplicarCargoReserva_Out'/>
+<WSDL2.Types m:c='1' m:i='E0E1B8C6D56F65AB0AE311EA8C8600090FAA0001'/>
+<WSDL2.Interface m:c='1' m:i='E0E1B8C6D58CABF60AE311EAA44A00090FAA0001' documentations='E0E1B8C6D58CABF70AE311EAA05900090FAA0001' namespace='urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM' name='AplicarCargoReserva_Out'/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D58CABF70AE311EAA05900090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/' name='documentation'/>
+<WSDL2.Operation m:c='1' m:i='E0E1B8C6D58CF5450AE311EABF1400090FAA0001' documentations='E0E1B8C6D58DEC140AE311EAB18900090FAA0001' name='AplicarCargoReserva_Out'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E0E1B8C6D58CF5460AE311EAAC8F00090FAA0001' namespace='http://schemas.xmlsoap.org/ws/2004/09/policy' name='Policy' required='false'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D58D387A0AE311EAB23300090FAA0001' data='&#10;        '/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D58D387B0AE311EACAEB00090FAA0001' namespace='http://schemas.xmlsoap.org/ws/2004/09/policy' name='PolicyReference'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D58D387C0AE311EA9E9500090FAA0001' namespace='' name='URI'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D58D387D0AE311EAC2E800090FAA0001' data='#OP_AplicarCargoReserva_Out'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D58D387E0AE311EAB3E000090FAA0001' data='&#10;      '/>
+<WSDL2.MessageReference m:c='1' m:i='E0E1B8C6D58D8C300AE311EABF4D00090FAA0001' direction='IN' messageLabel='In' contentModel='ELEMENT'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E0E1B8C6D58D8C310AE311EABB2B00090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='inputOrOutputOrFault-name'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E0E1B8C6D58D8C320AE311EACA8700090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='message-name'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D58D8C330AE311EA843E00090FAA0001' data='p3.AplicarCargoReserva_Request'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E0E1B8C6D58DA1920AE311EACA7D00090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='message-namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D58DA1930AE311EA9DB100090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E0E1B8C6D58DDA1D0AE311EAB31300090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='part-name'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D58DDA1E0AE311EAB39800090FAA0001' data='AplicarCargoReserva_Request'/>
+<WSDL2.MessageReference m:c='1' m:i='E0E1B8C6D58DDA1F0AE311EAB77400090FAA0001' direction='OUT' messageLabel='Out' contentModel='ELEMENT'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E0E1B8C6D58DEC0D0AE311EAC96100090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='inputOrOutputOrFault-name'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E0E1B8C6D58DEC0E0AE311EA83CA00090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='message-name'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D58DEC0F0AE311EAC65400090FAA0001' data='p3.AplicarCargoReserva_Response'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E0E1B8C6D58DEC100AE311EABD9500090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='message-namespace'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D58DEC110AE311EA988D00090FAA0001' data='urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM'/>
+<WSDL2.UnknownExtensibilityAttribute m:c='1' m:i='E0E1B8C6D58DEC120AE311EAA2DA00090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='part-name'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D58DEC130AE311EA943100090FAA0001' data='AplicarCargoReserva_Response'/>
+<XSD1.dom.DomElement m:c='2' m:i='E0E1B8C6D58DEC140AE311EAB18900090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/' name='documentation'/>
+<WSDL2.MessageExchangePattern m:c='1' m:i='E0E1B8C6D58E12820AE311EA922F00090FAA0001' kind='IN_OUT' pattern='http://www.w3.org/2006/01/wsdl/in-out'/>
+<WSDL2.Binding m:c='1' m:i='E0E1B8C6D590BC9F0AE311EAC35600090FAA0001' namespace='urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM' name='AplicarCargoReserva_OutBinding'/>
+<WSDL2.BindingType m:c='1' m:i='E0E1B8C6D590D3200AE311EAB16D00090FAA0001' kind='SOAP' type='http://www.w3.org/2006/01/wsdl/soap'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E0E1B8C6D591122A0AE311EA9D1700090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/soap/' name='binding' required='false'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D591122C0AE311EA9C1A00090FAA0001' namespace='' name='style'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D591122D0AE311EA8DB100090FAA0001' data='document'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D591122E0AE311EA816B00090FAA0001' namespace='' name='transport'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D591122F0AE311EAB0C800090FAA0001' data='http://schemas.xmlsoap.org/soap/http'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5914E320AE311EAB58700090FAA0001' data='&lt;soap:binding xmlns:soap=&quot;http://schemas.xmlsoap.org/wsdl/soap/&quot; style=&quot;document&quot; transport=&quot;http://schemas.xmlsoap.org/soap/http&quot;/&gt;'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D5914E330AE311EAC3EB00090FAA0001' namespace='http://sap.com/tc/esmp/tools/wsdl1import' name='childrenAsText'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5914E340AE311EA933700090FAA0001' data='true'/>
+<WSDL2.BindingOperation m:c='1' m:i='E0E1B8C6D591CF3D0AE311EABB5D00090FAA0001'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E0E1B8C6D5921BC80AE311EABA9100090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/soap/' name='operation' required='false'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D5921BCA0AE311EA862B00090FAA0001' namespace='' name='soapAction'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5921BCB0AE311EA972700090FAA0001' data='http://sap.com/xi/WebService/soap1.1'/>
+<WSDL2.BindingMessageReference m:c='1' m:i='E0E1B8C6D5925DD00AE311EAB5F300090FAA0001'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E0E1B8C6D5929DCB0AE311EA99C600090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/soap/' name='body' required='false'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D5929DCD0AE311EAA09500090FAA0001' namespace='' name='use'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D5929DCE0AE311EAB25F00090FAA0001' data='literal'/>
+<WSDL2.BindingMessageReference m:c='1' m:i='E0E1B8C6D592C7090AE311EA8A5800090FAA0001'/>
+<WSDL2.UnknownExtensibilityElement m:c='1' m:i='E0E1B8C6D592C70A0AE311EABD9600090FAA0001' namespace='http://schemas.xmlsoap.org/wsdl/soap/' name='body' required='false'/>
+<XSD1.dom.DomAttribute m:c='2' m:i='E0E1B8C6D592ED310AE311EA9B8600090FAA0001' namespace='' name='use'/>
+<XSD1.dom.DomText m:c='2' m:i='E0E1B8C6D592ED320AE311EAA81900090FAA0001' data='literal'/>
+<XSD1.dom.AttributesOfElement c='2'>
+<L f='E012BF1E0914F6E2026A11EAAA4400090FAA0001' s='E012BF1E0914F6E0026A11EA903600090FAA0001'/>
+<L f='E012BF1E0915F7D2026A11EAC24B00090FAA0001' s='E012BF1E0915F7D1026A11EAB72700090FAA0001'/>
+<L f='E012BF1E09161C78026A11EA812A00090FAA0001' s='E012BF1E09161C77026A11EAB98500090FAA0001'/>
+<L f='E012BF1E0916356C026A11EACD8F00090FAA0001' s='E012BF1E0916356B026A11EA8E2D00090FAA0001'/>
+<L f='E012BF1E09168025026A11EA9AD100090FAA0001' s='E012BF1E0916356B026A11EA8E2D00090FAA0001'/>
+<L f='E012BF1E0916996E026A11EA836700090FAA0001' s='E012BF1E0916996D026A11EAADA900090FAA0001'/>
+<L f='E012BF1E0916ACBA026A11EA9FC000090FAA0001' s='E012BF1E0916ACB9026A11EACD9C00090FAA0001'/>
+<L f='E012BF1E0916ACBE026A11EAA37800090FAA0001' s='E012BF1E0916ACBD026A11EAA13C00090FAA0001'/>
+<L f='E012BF1E091703A3026A11EA873400090FAA0001' s='E012BF1E0916F561026A11EAB31800090FAA0001'/>
+<L f='E012BF1E091BD887026A11EA83A300090FAA0001' s='E012BF1E091BCF7F026A11EA9B9700090FAA0001'/>
+<L f='E012BF1E091BD889026A11EAAEF800090FAA0001' s='E012BF1E091BCF7F026A11EA9B9700090FAA0001'/>
+<L f='E012BF1E091BD88B026A11EAA62A00090FAA0001' s='E012BF1E091BCF7F026A11EA9B9700090FAA0001'/>
+<L f='E012BF1E091C1B31026A11EAA68400090FAA0001' s='E012BF1E091BCF7F026A11EA9B9700090FAA0001'/>
+<L f='E012BF1E091C1B35026A11EAC2F700090FAA0001' s='E012BF1E091C1B34026A11EA8B7700090FAA0001'/>
+<L f='E012BF1E091C2E90026A11EA827400090FAA0001' s='E012BF1E091C1B34026A11EA8B7700090FAA0001'/>
+<L f='E012BF1E091C2E92026A11EAA97B00090FAA0001' s='E012BF1E091C1B34026A11EA8B7700090FAA0001'/>
+<L f='E012BF1E091C2E94026A11EAC35A00090FAA0001' s='E012BF1E091C1B34026A11EA8B7700090FAA0001'/>
+<L f='E012BF1E091C8C10026A11EAA6F100090FAA0001' s='E012BF1E091C8C0F026A11EAA9DF00090FAA0001'/>
+<L f='E012BF1E091CF002026A11EA99B900090FAA0001' s='E012BF1E091CF001026A11EA978C00090FAA0001'/>
+<L f='E012BF1E091D1E39026A11EAB67200090FAA0001' s='E012BF1E091D1E38026A11EA8DE900090FAA0001'/>
+<L f='E012BF1E091D6F21026A11EACC4800090FAA0001' s='E012BF1E091D6F20026A11EAB95100090FAA0001'/>
+<L f='E012BF1E091D9608026A11EA952600090FAA0001' s='E012BF1E091D6F25026A11EACFD000090FAA0001'/>
+<L f='E012BF1E091DF8E6026A11EAABC900090FAA0001' s='E012BF1E091DF8E5026A11EAB15C00090FAA0001'/>
+<L f='E012BF1E091DF8E8026A11EA9EF800090FAA0001' s='E012BF1E091DF8E5026A11EAB15C00090FAA0001'/>
+<L f='E012BF1E091E1F6D026A11EA970800090FAA0001' s='E012BF1E091DF8E5026A11EAB15C00090FAA0001'/>
+<L f='E012BF1E091E1F6F026A11EAB38C00090FAA0001' s='E012BF1E091DF8E5026A11EAB15C00090FAA0001'/>
+<L f='E012BF1E091E3E4E026A11EABCC400090FAA0001' s='E012BF1E091E3E4D026A11EAA0BB00090FAA0001'/>
+<L f='E012BF1E091E88F0026A11EAA63D00090FAA0001' s='E012BF1E091E88EF026A11EACC2800090FAA0001'/>
+<L f='E012BF1E091EA77D026A11EAC0B700090FAA0001' s='E012BF1E091E88F4026A11EAC06E00090FAA0001'/>
+<L f='E012BF1E091F3CF4026A11EAB99F00090FAA0001' s='E012BF1E091F3CF3026A11EAA29300090FAA0001'/>
+<L f='E012BF1E091F6F39026A11EACA2800090FAA0001' s='E012BF1E091F3CF3026A11EAA29300090FAA0001'/>
+<L f='E012BF1E091F6F3B026A11EAB77D00090FAA0001' s='E012BF1E091F3CF3026A11EAA29300090FAA0001'/>
+<L f='E012BF1E091F9935026A11EAC6D100090FAA0001' s='E012BF1E091F3CF3026A11EAA29300090FAA0001'/>
+<L f='E012BF1E09214E4E026A11EACC6900090FAA0001' s='E012BF1E09214E4D026A11EA916A00090FAA0001'/>
+<L f='E012BF1E09214E50026A11EAC84E00090FAA0001' s='E012BF1E09214E4D026A11EA916A00090FAA0001'/>
+<L f='E012BF1E0921E5EF026A11EAB19F00090FAA0001' s='E012BF1E0921E5EE026A11EA8F4700090FAA0001'/>
+<L f='E012BF1E0923679C026A11EAC1C100090FAA0001' s='E012BF1E09232A51026A11EA8CA700090FAA0001'/>
+<L f='E012BF1E0966C76C026A11EA94B400090FAA0001' s='E012BF1E0966C76B026A11EA942A00090FAA0001'/>
+<L f='E012BF1E096970E9026A11EA9DBD00090FAA0001' s='E012BF1E09693FB1026A11EA947600090FAA0001'/>
+<L f='E012BF1E096970EB026A11EA8F2300090FAA0001' s='E012BF1E09693FB1026A11EA947600090FAA0001'/>
+<L f='E012BF1E0969A508026A11EA9FA800090FAA0001' s='E012BF1E09693FB1026A11EA947600090FAA0001'/>
+<L f='E012BF1E096A12F9026A11EAC7D500090FAA0001' s='E012BF1E096A12F7026A11EA8CE600090FAA0001'/>
+<L f='E012BF1E096A512B026A11EAAD0900090FAA0001' s='E012BF1E096A5129026A11EAB39800090FAA0001'/>
+<L f='E012BF1E096ABB61026A11EAA89500090FAA0001' s='E012BF1E096ABB5F026A11EA8A6500090FAA0001'/>
+<L f='E012BF1ED032BE1B026911EA844E00090FAA0001' s='E012BF1ED0325347026911EAB90300090FAA0001'/>
+<L f='E012BF1ED034A00D026911EA906F00090FAA0001' s='E012BF1ED034A00C026911EAC1B200090FAA0001'/>
+<L f='E012BF1ED034E99A026911EA908A00090FAA0001' s='E012BF1ED034D7F6026911EA80EB00090FAA0001'/>
+<L f='E012BF1ED0354ACE026911EA9F0200090FAA0001' s='E012BF1ED0351910026911EAA49800090FAA0001'/>
+<L f='E012BF1ED0356632026911EABF8400090FAA0001' s='E012BF1ED0351910026911EAA49800090FAA0001'/>
+<L f='E012BF1ED03603D9026911EACE1200090FAA0001' s='E012BF1ED035D8F2026911EAC3C800090FAA0001'/>
+<L f='E012BF1ED036AE21026911EACA6A00090FAA0001' s='E012BF1ED036AE20026911EAC07100090FAA0001'/>
+<L f='E012BF1ED0372093026911EACB9600090FAA0001' s='E012BF1ED0372092026911EACA8C00090FAA0001'/>
+<L f='E012BF1ED03778F0026911EA8DC900090FAA0001' s='E012BF1ED03778EF026911EAA36700090FAA0001'/>
+<L f='E012BF1ED037E85E026911EAAB1000090FAA0001' s='E012BF1ED037E85D026911EA818D00090FAA0001'/>
+<L f='E012BF1ED038039B026911EAB83400090FAA0001' s='E012BF1ED037E85D026911EA818D00090FAA0001'/>
+<L f='E012BF1ED038039D026911EA809100090FAA0001' s='E012BF1ED037E85D026911EA818D00090FAA0001'/>
+<L f='E012BF1ED03838D0026911EAADBF00090FAA0001' s='E012BF1ED037E85D026911EA818D00090FAA0001'/>
+<L f='E012BF1ED0384F82026911EAAE8500090FAA0001' s='E012BF1ED0384F81026911EACAAD00090FAA0001'/>
+<L f='E012BF1ED03878E8026911EACDCC00090FAA0001' s='E012BF1ED0384F81026911EACAAD00090FAA0001'/>
+<L f='E012BF1ED0389332026911EA93B900090FAA0001' s='E012BF1ED0384F81026911EACAAD00090FAA0001'/>
+<L f='E012BF1ED038BC83026911EAA2BB00090FAA0001' s='E012BF1ED0384F81026911EACAAD00090FAA0001'/>
+<L f='E012BF1ED0394DE7026911EAC13200090FAA0001' s='E012BF1ED0394DE6026911EA8A2E00090FAA0001'/>
+<L f='E012BF1ED03A0C1C026911EAB3AB00090FAA0001' s='E012BF1ED03A0C1B026911EA84AD00090FAA0001'/>
+<L f='E012BF1ED03A98BF026911EAA57000090FAA0001' s='E012BF1ED03A98BE026911EAB9B200090FAA0001'/>
+<L f='E012BF1ED03ADE3D026911EA989400090FAA0001' s='E012BF1ED03ADE3C026911EAAB0400090FAA0001'/>
+<L f='E012BF1ED03B3E9F026911EA8A5A00090FAA0001' s='E012BF1ED03B3E9E026911EAA3B500090FAA0001'/>
+<L f='E012BF1ED03C6A74026911EA8A9900090FAA0001' s='E012BF1ED03C6A73026911EAB35300090FAA0001'/>
+<L f='E012BF1ED03C9530026911EAA5E000090FAA0001' s='E012BF1ED03C6A73026911EAB35300090FAA0001'/>
+<L f='E012BF1ED03CB074026911EAB6DB00090FAA0001' s='E012BF1ED03C6A73026911EAB35300090FAA0001'/>
+<L f='E012BF1ED03CF8E6026911EAB80F00090FAA0001' s='E012BF1ED03C6A73026911EAB35300090FAA0001'/>
+<L f='E012BF1ED03D3027026911EABCAA00090FAA0001' s='E012BF1ED03D3026026911EAAA5000090FAA0001'/>
+<L f='E012BF1ED03DAB94026911EAAC2100090FAA0001' s='E012BF1ED03DAB93026911EAA9CF00090FAA0001'/>
+<L f='E012BF1ED03DD227026911EACD4600090FAA0001' s='E012BF1ED03DD226026911EAA90700090FAA0001'/>
+<L f='E012BF1ED03EF0F2026911EAAC4200090FAA0001' s='E012BF1ED03EF0F1026911EAA4B500090FAA0001'/>
+<L f='E012BF1ED03F1152026911EAC60400090FAA0001' s='E012BF1ED03EF0F1026911EAA4B500090FAA0001'/>
+<L f='E012BF1ED03F2F01026911EAA5E500090FAA0001' s='E012BF1ED03EF0F1026911EAA4B500090FAA0001'/>
+<L f='E012BF1ED03F5CDA026911EAC0B600090FAA0001' s='E012BF1ED03EF0F1026911EAA4B500090FAA0001'/>
+<L f='E012BF1ED0416D85026911EA9AC000090FAA0001' s='E012BF1ED0416D84026911EABAAF00090FAA0001'/>
+<L f='E012BF1ED04193CE026911EABBE900090FAA0001' s='E012BF1ED0416D84026911EABAAF00090FAA0001'/>
+<L f='E012BF1ED0421839026911EABD9B00090FAA0001' s='E012BF1ED041E1D1026911EAB65B00090FAA0001'/>
+<L f='E012BF1ED0434B87026911EAB8F800090FAA0001' s='E012BF1ED0431BBD026911EAB83E00090FAA0001'/>
+<L f='E012BF1ED093FDE3026911EA98CB00090FAA0001' s='E012BF1ED093FDE2026911EAABBD00090FAA0001'/>
+<L f='E012BF1ED096E4E2026911EABAD800090FAA0001' s='E012BF1ED096E4E0026911EAA67500090FAA0001'/>
+<L f='E012BF1ED096E4E4026911EA9E7A00090FAA0001' s='E012BF1ED096E4E0026911EAA67500090FAA0001'/>
+<L f='E012BF1ED0973B2B026911EAB24600090FAA0001' s='E012BF1ED096E4E0026911EAA67500090FAA0001'/>
+<L f='E012BF1ED097BF2D026911EAAF2E00090FAA0001' s='E012BF1ED097BF2B026911EAA21B00090FAA0001'/>
+<L f='E012BF1ED098073E026911EAA75800090FAA0001' s='E012BF1ED098073C026911EAA02400090FAA0001'/>
+<L f='E012BF1ED0983AD0026911EAA7F500090FAA0001' s='E012BF1ED0983813026911EABB5F00090FAA0001'/>
+<L f='E0E1B8C6D561F4BD0AE311EA873200090FAA0001' s='E0E1B8C6D561DA8A0AE311EA81F000090FAA0001'/>
+<L f='E0E1B8C6D564292A0AE311EAAC5A00090FAA0001' s='E0E1B8C6D56429290AE311EAA88B00090FAA0001'/>
+<L f='E0E1B8C6D56457010AE311EACE3000090FAA0001' s='E0E1B8C6D56457000AE311EA9A9E00090FAA0001'/>
+<L f='E0E1B8C6D5647F760AE311EA88B000090FAA0001' s='E0E1B8C6D56457040AE311EA92DC00090FAA0001'/>
+<L f='E0E1B8C6D5647F780AE311EAA31A00090FAA0001' s='E0E1B8C6D56457040AE311EA92DC00090FAA0001'/>
+<L f='E0E1B8C6D56485360AE311EAA84900090FAA0001' s='E0E1B8C6D5647F7C0AE311EAB96E00090FAA0001'/>
+<L f='E0E1B8C6D564853A0AE311EAB94800090FAA0001' s='E0E1B8C6D56485390AE311EA800300090FAA0001'/>
+<L f='E0E1B8C6D564C6080AE311EA8D7000090FAA0001' s='E0E1B8C6D564C6070AE311EA800800090FAA0001'/>
+<L f='E0E1B8C6D564C60C0AE311EABC3A00090FAA0001' s='E0E1B8C6D564C60B0AE311EAB0A800090FAA0001'/>
+<L f='E0E1B8C6D564E24D0AE311EAC68600090FAA0001' s='E0E1B8C6D564E24C0AE311EA9DA400090FAA0001'/>
+<L f='E0E1B8C6D564E24F0AE311EAC8DB00090FAA0001' s='E0E1B8C6D564E24C0AE311EA9DA400090FAA0001'/>
+<L f='E0E1B8C6D56511650AE311EAA15200090FAA0001' s='E0E1B8C6D564E24C0AE311EA9DA400090FAA0001'/>
+<L f='E0E1B8C6D56511670AE311EAB8D900090FAA0001' s='E0E1B8C6D564E24C0AE311EA9DA400090FAA0001'/>
+<L f='E0E1B8C6D565116B0AE311EAC42700090FAA0001' s='E0E1B8C6D565116A0AE311EAC36500090FAA0001'/>
+<L f='E0E1B8C6D565116D0AE311EAC0B700090FAA0001' s='E0E1B8C6D565116A0AE311EAC36500090FAA0001'/>
+<L f='E0E1B8C6D56521140AE311EA87DE00090FAA0001' s='E0E1B8C6D565116A0AE311EAC36500090FAA0001'/>
+<L f='E0E1B8C6D56521160AE311EA937600090FAA0001' s='E0E1B8C6D565116A0AE311EAC36500090FAA0001'/>
+<L f='E0E1B8C6D5654E680AE311EAA2D100090FAA0001' s='E0E1B8C6D5654E670AE311EAC90500090FAA0001'/>
+<L f='E0E1B8C6D56572CA0AE311EAC51100090FAA0001' s='E0E1B8C6D56572C90AE311EAA56C00090FAA0001'/>
+<L f='E0E1B8C6D565B9F10AE311EABA5F00090FAA0001' s='E0E1B8C6D565B9F00AE311EA882A00090FAA0001'/>
+<L f='E0E1B8C6D565C04D0AE311EACD4600090FAA0001' s='E0E1B8C6D565C04C0AE311EAC29200090FAA0001'/>
+<L f='E0E1B8C6D565F0C70AE311EACA2600090FAA0001' s='E0E1B8C6D565F0C60AE311EA939200090FAA0001'/>
+<L f='E0E1B8C6D56663930AE311EA865A00090FAA0001' s='E0E1B8C6D56640FD0AE311EAAE0900090FAA0001'/>
+<L f='E0E1B8C6D5668F9F0AE311EAA4BE00090FAA0001' s='E0E1B8C6D56640FD0AE311EAAE0900090FAA0001'/>
+<L f='E0E1B8C6D5668FA10AE311EACB7700090FAA0001' s='E0E1B8C6D56640FD0AE311EAAE0900090FAA0001'/>
+<L f='E0E1B8C6D566EAE80AE311EA88B000090FAA0001' s='E0E1B8C6D56640FD0AE311EAAE0900090FAA0001'/>
+<L f='E0E1B8C6D5677D830AE311EA973D00090FAA0001' s='E0E1B8C6D5674BE10AE311EA948300090FAA0001'/>
+<L f='E0E1B8C6D5690ABD0AE311EAB79F00090FAA0001' s='E0E1B8C6D568CB0F0AE311EAB83000090FAA0001'/>
+<L f='E0E1B8C6D569440B0AE311EAB1F400090FAA0001' s='E0E1B8C6D5692EF40AE311EA8F4A00090FAA0001'/>
+<L f='E0E1B8C6D56A16A70AE311EA86F200090FAA0001' s='E0E1B8C6D569F8A90AE311EAB70500090FAA0001'/>
+<L f='E0E1B8C6D56A3C370AE311EABA1000090FAA0001' s='E0E1B8C6D569F8A90AE311EAB70500090FAA0001'/>
+<L f='E0E1B8C6D56AA4220AE311EAAFE700090FAA0001' s='E0E1B8C6D569F8A90AE311EAB70500090FAA0001'/>
+<L f='E0E1B8C6D56AE9240AE311EA9FF900090FAA0001' s='E0E1B8C6D569F8A90AE311EAB70500090FAA0001'/>
+<L f='E0E1B8C6D56CFED30AE311EA99FA00090FAA0001' s='E0E1B8C6D56CFED20AE311EAA99A00090FAA0001'/>
+<L f='E0E1B8C6D56CFED50AE311EA9A9F00090FAA0001' s='E0E1B8C6D56CFED20AE311EAA99A00090FAA0001'/>
+<L f='E0E1B8C6D56D2FFF0AE311EA8B0B00090FAA0001' s='E0E1B8C6D56D2FFE0AE311EACE3C00090FAA0001'/>
+<L f='E0E1B8C6D56E36560AE311EAC93E00090FAA0001' s='E0E1B8C6D56E36540AE311EAA89D00090FAA0001'/>
+<L f='E0E1B8C6D58D387C0AE311EA9E9500090FAA0001' s='E0E1B8C6D58D387B0AE311EACAEB00090FAA0001'/>
+<L f='E0E1B8C6D591122C0AE311EA9C1A00090FAA0001' s='E0E1B8C6D591122A0AE311EA9D1700090FAA0001'/>
+<L f='E0E1B8C6D591122E0AE311EA816B00090FAA0001' s='E0E1B8C6D591122A0AE311EA9D1700090FAA0001'/>
+<L f='E0E1B8C6D5914E330AE311EAC3EB00090FAA0001' s='E0E1B8C6D591122A0AE311EA9D1700090FAA0001'/>
+<L f='E0E1B8C6D5921BCA0AE311EA862B00090FAA0001' s='E0E1B8C6D5921BC80AE311EABA9100090FAA0001'/>
+<L f='E0E1B8C6D5929DCD0AE311EAA09500090FAA0001' s='E0E1B8C6D5929DCB0AE311EA99C600090FAA0001'/>
+<L f='E0E1B8C6D592ED310AE311EA9B8600090FAA0001' s='E0E1B8C6D592C70A0AE311EABD9600090FAA0001'/>
+</XSD1.dom.AttributesOfElement>
+<XSD1.dom.ChildsOfDomNode c='2'>
+<L f='E012BF1E09152FE9026A11EA9D8E00090FAA0001' s='E012BF1E0914F6E2026A11EAAA4400090FAA0001'/>
+<L f='E012BF1E091592DC026A11EABCDE00090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E091592DD026A11EAADFF00090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E0915AF96026A11EA964700090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E0915AF97026A11EA982500090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E0915D0FE026A11EAA75B00090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E0915D0FF026A11EAB26E00090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E0916996C026A11EAC2FD00090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E0916996D026A11EAADA900090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E09169970026A11EA896D00090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E0916ACB9026A11EACD9C00090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E0916ACBC026A11EA9EE000090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E0916ACBD026A11EAA13C00090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E0916F560026A11EAA1D000090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E0916F561026A11EAB31800090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E091703A5026A11EAC73100090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E091703A6026A11EA97F700090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E091703A8026A11EABD3A00090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E091BCF7D026A11EA944900090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E091C6B8D026A11EAC96F00090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E091C6B8E026A11EA956600090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E091C6B8F026A11EACA9B00090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E091C8C0D026A11EAC7C100090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E091D1E35026A11EABC4F00090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E091D1E36026A11EAC4C900090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E091FB5BE026A11EA984600090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E091FB5BF026A11EACD5D00090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E091FB5C0026A11EABC5B00090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E091FB5C1026A11EA82E100090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E092268F1026A11EAA1A100090FAA0001' s='E012BF1E091592DA026A11EAC8FA00090FAA0001'/>
+<L f='E012BF1E091592DE026A11EA855700090FAA0001' s='E012BF1E091592DD026A11EAADFF00090FAA0001'/>
+<L f='E012BF1E0915AF98026A11EA8FC200090FAA0001' s='E012BF1E0915AF97026A11EA982500090FAA0001'/>
+<L f='E012BF1E0915D100026A11EA8F1700090FAA0001' s='E012BF1E0915D0FF026A11EAB26E00090FAA0001'/>
+<L f='E012BF1E0915F7CF026A11EAAF8F00090FAA0001' s='E012BF1E0915D0FF026A11EAB26E00090FAA0001'/>
+<L f='E012BF1E0915F7D0026A11EA93DE00090FAA0001' s='E012BF1E0915D0FF026A11EAB26E00090FAA0001'/>
+<L f='E012BF1E0915F7D1026A11EAB72700090FAA0001' s='E012BF1E0915D0FF026A11EAB26E00090FAA0001'/>
+<L f='E012BF1E09161C76026A11EAB07100090FAA0001' s='E012BF1E0915D0FF026A11EAB26E00090FAA0001'/>
+<L f='E012BF1E09161C77026A11EAB98500090FAA0001' s='E012BF1E0915D0FF026A11EAB26E00090FAA0001'/>
+<L f='E012BF1E0916356A026A11EA9F7D00090FAA0001' s='E012BF1E0915D0FF026A11EAB26E00090FAA0001'/>
+<L f='E012BF1E0916356B026A11EA8E2D00090FAA0001' s='E012BF1E0915D0FF026A11EAB26E00090FAA0001'/>
+<L f='E012BF1E09168027026A11EACB2800090FAA0001' s='E012BF1E0915D0FF026A11EAB26E00090FAA0001'/>
+<L f='E012BF1E0915F7D3026A11EAB75B00090FAA0001' s='E012BF1E0915F7D2026A11EAC24B00090FAA0001'/>
+<L f='E012BF1E09161C79026A11EA81CE00090FAA0001' s='E012BF1E09161C78026A11EA812A00090FAA0001'/>
+<L f='E012BF1E0916356D026A11EACB0300090FAA0001' s='E012BF1E0916356C026A11EACD8F00090FAA0001'/>
+<L f='E012BF1E09168026026A11EAA8BD00090FAA0001' s='E012BF1E09168025026A11EA9AD100090FAA0001'/>
+<L f='E012BF1E0916996F026A11EACEF300090FAA0001' s='E012BF1E0916996E026A11EA836700090FAA0001'/>
+<L f='E012BF1E0916ACBB026A11EAC74800090FAA0001' s='E012BF1E0916ACBA026A11EA9FC000090FAA0001'/>
+<L f='E012BF1E0916F55F026A11EA879700090FAA0001' s='E012BF1E0916ACBE026A11EAA37800090FAA0001'/>
+<L f='E012BF1E091703A4026A11EA8AB400090FAA0001' s='E012BF1E091703A3026A11EA873400090FAA0001'/>
+<L f='E012BF1E091703A7026A11EA878E00090FAA0001' s='E012BF1E091703A6026A11EA97F700090FAA0001'/>
+<L f='E012BF1E091BCF7E026A11EAB1B900090FAA0001' s='E012BF1E091BCF7D026A11EA944900090FAA0001'/>
+<L f='E012BF1E091BCF7F026A11EA9B9700090FAA0001' s='E012BF1E091BCF7D026A11EA944900090FAA0001'/>
+<L f='E012BF1E091C1B33026A11EA879700090FAA0001' s='E012BF1E091BCF7D026A11EA944900090FAA0001'/>
+<L f='E012BF1E091C1B34026A11EA8B7700090FAA0001' s='E012BF1E091BCF7D026A11EA944900090FAA0001'/>
+<L f='E012BF1E091C6B8C026A11EAC9A600090FAA0001' s='E012BF1E091BCF7D026A11EA944900090FAA0001'/>
+<L f='E012BF1E091BD888026A11EA83E900090FAA0001' s='E012BF1E091BD887026A11EA83A300090FAA0001'/>
+<L f='E012BF1E091BD88A026A11EA832B00090FAA0001' s='E012BF1E091BD889026A11EAAEF800090FAA0001'/>
+<L f='E012BF1E091BD88C026A11EAC14A00090FAA0001' s='E012BF1E091BD88B026A11EAA62A00090FAA0001'/>
+<L f='E012BF1E091C1B32026A11EA9C5400090FAA0001' s='E012BF1E091C1B31026A11EAA68400090FAA0001'/>
+<L f='E012BF1E091C1B36026A11EAA08C00090FAA0001' s='E012BF1E091C1B35026A11EAC2F700090FAA0001'/>
+<L f='E012BF1E091C2E91026A11EAC07800090FAA0001' s='E012BF1E091C2E90026A11EA827400090FAA0001'/>
+<L f='E012BF1E091C2E93026A11EAA45300090FAA0001' s='E012BF1E091C2E92026A11EAA97B00090FAA0001'/>
+<L f='E012BF1E091C2E95026A11EA831F00090FAA0001' s='E012BF1E091C2E94026A11EAC35A00090FAA0001'/>
+<L f='E012BF1E091C8C0E026A11EAB00500090FAA0001' s='E012BF1E091C8C0D026A11EAC7C100090FAA0001'/>
+<L f='E012BF1E091C8C0F026A11EAA9DF00090FAA0001' s='E012BF1E091C8C0D026A11EAC7C100090FAA0001'/>
+<L f='E012BF1E091D1E34026A11EACB8800090FAA0001' s='E012BF1E091C8C0D026A11EAC7C100090FAA0001'/>
+<L f='E012BF1E091C8C12026A11EAC76700090FAA0001' s='E012BF1E091C8C0F026A11EAA9DF00090FAA0001'/>
+<L f='E012BF1E091CAB12026A11EAAD2D00090FAA0001' s='E012BF1E091C8C0F026A11EAA9DF00090FAA0001'/>
+<L f='E012BF1E091CAB14026A11EA88B800090FAA0001' s='E012BF1E091C8C0F026A11EAA9DF00090FAA0001'/>
+<L f='E012BF1E091CAB15026A11EABADB00090FAA0001' s='E012BF1E091C8C0F026A11EAA9DF00090FAA0001'/>
+<L f='E012BF1E091CAB17026A11EA9E4900090FAA0001' s='E012BF1E091C8C0F026A11EAA9DF00090FAA0001'/>
+<L f='E012BF1E091CCB3A026A11EA8C0200090FAA0001' s='E012BF1E091C8C0F026A11EAA9DF00090FAA0001'/>
+<L f='E012BF1E091CCB3C026A11EAA52C00090FAA0001' s='E012BF1E091C8C0F026A11EAA9DF00090FAA0001'/>
+<L f='E012BF1E091CCB3D026A11EA864D00090FAA0001' s='E012BF1E091C8C0F026A11EAA9DF00090FAA0001'/>
+<L f='E012BF1E091CCB3F026A11EAA64400090FAA0001' s='E012BF1E091C8C0F026A11EAA9DF00090FAA0001'/>
+<L f='E012BF1E091CF001026A11EA978C00090FAA0001' s='E012BF1E091C8C0F026A11EAA9DF00090FAA0001'/>
+<L f='E012BF1E091CF004026A11EA81F000090FAA0001' s='E012BF1E091C8C0F026A11EAA9DF00090FAA0001'/>
+<L f='E012BF1E091CF005026A11EAB58800090FAA0001' s='E012BF1E091C8C0F026A11EAA9DF00090FAA0001'/>
+<L f='E012BF1E091CF006026A11EACECC00090FAA0001' s='E012BF1E091C8C0F026A11EAA9DF00090FAA0001'/>
+<L f='E012BF1E091C8C11026A11EA82B000090FAA0001' s='E012BF1E091C8C10026A11EAA6F100090FAA0001'/>
+<L f='E012BF1E091CAB13026A11EA976F00090FAA0001' s='E012BF1E091CAB12026A11EAAD2D00090FAA0001'/>
+<L f='E012BF1E091CAB16026A11EAB28000090FAA0001' s='E012BF1E091CAB15026A11EABADB00090FAA0001'/>
+<L f='E012BF1E091CCB3B026A11EAA5A800090FAA0001' s='E012BF1E091CCB3A026A11EA8C0200090FAA0001'/>
+<L f='E012BF1E091CCB3E026A11EAAF5200090FAA0001' s='E012BF1E091CCB3D026A11EA864D00090FAA0001'/>
+<L f='E012BF1E091CF003026A11EAC66700090FAA0001' s='E012BF1E091CF002026A11EA99B900090FAA0001'/>
+<L f='E012BF1E091D1E37026A11EA988800090FAA0001' s='E012BF1E091D1E36026A11EAC4C900090FAA0001'/>
+<L f='E012BF1E091D1E38026A11EA8DE900090FAA0001' s='E012BF1E091D1E36026A11EAC4C900090FAA0001'/>
+<L f='E012BF1E091E3E4C026A11EAA0ED00090FAA0001' s='E012BF1E091D1E36026A11EAC4C900090FAA0001'/>
+<L f='E012BF1E091E3E4D026A11EAA0BB00090FAA0001' s='E012BF1E091D1E36026A11EAC4C900090FAA0001'/>
+<L f='E012BF1E091F9938026A11EA996000090FAA0001' s='E012BF1E091D1E36026A11EAC4C900090FAA0001'/>
+<L f='E012BF1E091D3ACA026A11EAA18A00090FAA0001' s='E012BF1E091D1E38026A11EA8DE900090FAA0001'/>
+<L f='E012BF1E091D3ACB026A11EA84E900090FAA0001' s='E012BF1E091D1E38026A11EA8DE900090FAA0001'/>
+<L f='E012BF1E091D3ACD026A11EABAB200090FAA0001' s='E012BF1E091D1E38026A11EA8DE900090FAA0001'/>
+<L f='E012BF1E091D3ACE026A11EA8E3700090FAA0001' s='E012BF1E091D1E38026A11EA8DE900090FAA0001'/>
+<L f='E012BF1E091D960C026A11EA9CD500090FAA0001' s='E012BF1E091D1E38026A11EA8DE900090FAA0001'/>
+<L f='E012BF1E091DCEF2026A11EAB39400090FAA0001' s='E012BF1E091D1E38026A11EA8DE900090FAA0001'/>
+<L f='E012BF1E091DCEF4026A11EAA0DE00090FAA0001' s='E012BF1E091D1E38026A11EA8DE900090FAA0001'/>
+<L f='E012BF1E091DCEF5026A11EA8CA100090FAA0001' s='E012BF1E091D1E38026A11EA8DE900090FAA0001'/>
+<L f='E012BF1E091DCEF7026A11EAA09F00090FAA0001' s='E012BF1E091D1E38026A11EA8DE900090FAA0001'/>
+<L f='E012BF1E091DCEF8026A11EAAEE400090FAA0001' s='E012BF1E091D1E38026A11EA8DE900090FAA0001'/>
+<L f='E012BF1E091DF8E4026A11EACFC500090FAA0001' s='E012BF1E091D1E38026A11EA8DE900090FAA0001'/>
+<L f='E012BF1E091DF8E5026A11EAB15C00090FAA0001' s='E012BF1E091D1E38026A11EA8DE900090FAA0001'/>
+<L f='E012BF1E091E3E4B026A11EAA9AB00090FAA0001' s='E012BF1E091D1E38026A11EA8DE900090FAA0001'/>
+<L f='E012BF1E091D3AC9026A11EAA4D200090FAA0001' s='E012BF1E091D1E39026A11EAB67200090FAA0001'/>
+<L f='E012BF1E091D3ACC026A11EACD0000090FAA0001' s='E012BF1E091D3ACB026A11EA84E900090FAA0001'/>
+<L f='E012BF1E091D6F1F026A11EA9EC300090FAA0001' s='E012BF1E091D3ACE026A11EA8E3700090FAA0001'/>
+<L f='E012BF1E091D6F20026A11EAB95100090FAA0001' s='E012BF1E091D3ACE026A11EA8E3700090FAA0001'/>
+<L f='E012BF1E091D6F24026A11EAC93F00090FAA0001' s='E012BF1E091D3ACE026A11EA8E3700090FAA0001'/>
+<L f='E012BF1E091D6F25026A11EACFD000090FAA0001' s='E012BF1E091D3ACE026A11EA8E3700090FAA0001'/>
+<L f='E012BF1E091D960B026A11EA994400090FAA0001' s='E012BF1E091D3ACE026A11EA8E3700090FAA0001'/>
+<L f='E012BF1E091D6F23026A11EABF8E00090FAA0001' s='E012BF1E091D6F20026A11EAB95100090FAA0001'/>
+<L f='E012BF1E091D6F22026A11EA84BB00090FAA0001' s='E012BF1E091D6F21026A11EACC4800090FAA0001'/>
+<L f='E012BF1E091D960A026A11EABE8000090FAA0001' s='E012BF1E091D6F25026A11EACFD000090FAA0001'/>
+<L f='E012BF1E091D9609026A11EAA57500090FAA0001' s='E012BF1E091D9608026A11EA952600090FAA0001'/>
+<L f='E012BF1E091DCEF3026A11EAB9D800090FAA0001' s='E012BF1E091DCEF2026A11EAB39400090FAA0001'/>
+<L f='E012BF1E091DCEF6026A11EABDBB00090FAA0001' s='E012BF1E091DCEF5026A11EA8CA100090FAA0001'/>
+<L f='E012BF1E091DF8E3026A11EA86E900090FAA0001' s='E012BF1E091DCEF8026A11EAAEE400090FAA0001'/>
+<L f='E012BF1E091DF8E7026A11EA96A100090FAA0001' s='E012BF1E091DF8E6026A11EAABC900090FAA0001'/>
+<L f='E012BF1E091E1F6C026A11EABB7500090FAA0001' s='E012BF1E091DF8E8026A11EA9EF800090FAA0001'/>
+<L f='E012BF1E091E1F6E026A11EA8C3500090FAA0001' s='E012BF1E091E1F6D026A11EA970800090FAA0001'/>
+<L f='E012BF1E091E1F70026A11EA93F300090FAA0001' s='E012BF1E091E1F6F026A11EAB38C00090FAA0001'/>
+<L f='E012BF1E091E658D026A11EA8A0900090FAA0001' s='E012BF1E091E3E4D026A11EAA0BB00090FAA0001'/>
+<L f='E012BF1E091E658E026A11EAC0C500090FAA0001' s='E012BF1E091E3E4D026A11EAA0BB00090FAA0001'/>
+<L f='E012BF1E091E6590026A11EAC5F700090FAA0001' s='E012BF1E091E3E4D026A11EAA0BB00090FAA0001'/>
+<L f='E012BF1E091E6591026A11EA9BE300090FAA0001' s='E012BF1E091E3E4D026A11EAA0BB00090FAA0001'/>
+<L f='E012BF1E091EA781026A11EA977200090FAA0001' s='E012BF1E091E3E4D026A11EAA0BB00090FAA0001'/>
+<L f='E012BF1E091EA782026A11EAC05700090FAA0001' s='E012BF1E091E3E4D026A11EAA0BB00090FAA0001'/>
+<L f='E012BF1E091ECFDC026A11EA800000090FAA0001' s='E012BF1E091E3E4D026A11EAA0BB00090FAA0001'/>
+<L f='E012BF1E091ECFDD026A11EA865800090FAA0001' s='E012BF1E091E3E4D026A11EAA0BB00090FAA0001'/>
+<L f='E012BF1E091ECFDF026A11EABFB200090FAA0001' s='E012BF1E091E3E4D026A11EAA0BB00090FAA0001'/>
+<L f='E012BF1E091EF41E026A11EAC96A00090FAA0001' s='E012BF1E091E3E4D026A11EAA0BB00090FAA0001'/>
+<L f='E012BF1E091F32D5026A11EAA27F00090FAA0001' s='E012BF1E091E3E4D026A11EAA0BB00090FAA0001'/>
+<L f='E012BF1E091F3CF3026A11EAA29300090FAA0001' s='E012BF1E091E3E4D026A11EAA0BB00090FAA0001'/>
+<L f='E012BF1E091F9937026A11EAAA7000090FAA0001' s='E012BF1E091E3E4D026A11EAA0BB00090FAA0001'/>
+<L f='E012BF1E091E3E4F026A11EAAEDA00090FAA0001' s='E012BF1E091E3E4E026A11EABCC400090FAA0001'/>
+<L f='E012BF1E091E658F026A11EA809200090FAA0001' s='E012BF1E091E658E026A11EAC0C500090FAA0001'/>
+<L f='E012BF1E091E6592026A11EA9CBC00090FAA0001' s='E012BF1E091E6591026A11EA9BE300090FAA0001'/>
+<L f='E012BF1E091E88EF026A11EACC2800090FAA0001' s='E012BF1E091E6591026A11EA9BE300090FAA0001'/>
+<L f='E012BF1E091E88F3026A11EA9B3F00090FAA0001' s='E012BF1E091E6591026A11EA9BE300090FAA0001'/>
+<L f='E012BF1E091E88F4026A11EAC06E00090FAA0001' s='E012BF1E091E6591026A11EA9BE300090FAA0001'/>
+<L f='E012BF1E091EA780026A11EAADDB00090FAA0001' s='E012BF1E091E6591026A11EA9BE300090FAA0001'/>
+<L f='E012BF1E091E88F2026A11EA8B6A00090FAA0001' s='E012BF1E091E88EF026A11EACC2800090FAA0001'/>
+<L f='E012BF1E091E88F1026A11EA9A2000090FAA0001' s='E012BF1E091E88F0026A11EAA63D00090FAA0001'/>
+<L f='E012BF1E091EA77F026A11EAA97A00090FAA0001' s='E012BF1E091E88F4026A11EAC06E00090FAA0001'/>
+<L f='E012BF1E091EA77E026A11EACCBC00090FAA0001' s='E012BF1E091EA77D026A11EAC0B700090FAA0001'/>
+<L f='E012BF1E091ECFDB026A11EA919900090FAA0001' s='E012BF1E091EA782026A11EAC05700090FAA0001'/>
+<L f='E012BF1E091ECFDE026A11EA80B600090FAA0001' s='E012BF1E091ECFDD026A11EA865800090FAA0001'/>
+<L f='E012BF1E091EF41F026A11EAA04A00090FAA0001' s='E012BF1E091EF41E026A11EAC96A00090FAA0001'/>
+<L f='E012BF1E091F3CF5026A11EAB63500090FAA0001' s='E012BF1E091F3CF4026A11EAB99F00090FAA0001'/>
+<L f='E012BF1E091F6F3A026A11EABADB00090FAA0001' s='E012BF1E091F6F39026A11EACA2800090FAA0001'/>
+<L f='E012BF1E091F6F3C026A11EACC6900090FAA0001' s='E012BF1E091F6F3B026A11EAB77D00090FAA0001'/>
+<L f='E012BF1E091F9936026A11EA88CB00090FAA0001' s='E012BF1E091F9935026A11EAC6D100090FAA0001'/>
+<L f='E012BF1E091FB5C2026A11EAC02100090FAA0001' s='E012BF1E091FB5C1026A11EA82E100090FAA0001'/>
+<L f='E012BF1E091FB5C3026A11EACB0200090FAA0001' s='E012BF1E091FB5C1026A11EA82E100090FAA0001'/>
+<L f='E012BF1E0920075F026A11EABB2400090FAA0001' s='E012BF1E091FB5C1026A11EA82E100090FAA0001'/>
+<L f='E012BF1E09200760026A11EAA0EA00090FAA0001' s='E012BF1E091FB5C1026A11EA82E100090FAA0001'/>
+<L f='E012BF1E0921163C026A11EAB0AE00090FAA0001' s='E012BF1E091FB5C1026A11EA82E100090FAA0001'/>
+<L f='E012BF1E0921163D026A11EA89A400090FAA0001' s='E012BF1E091FB5C1026A11EA82E100090FAA0001'/>
+<L f='E012BF1E0921E5ED026A11EA975100090FAA0001' s='E012BF1E091FB5C1026A11EA82E100090FAA0001'/>
+<L f='E012BF1E0921E5EE026A11EA8F4700090FAA0001' s='E012BF1E091FB5C1026A11EA82E100090FAA0001'/>
+<L f='E012BF1E092268F0026A11EABC1900090FAA0001' s='E012BF1E091FB5C1026A11EA82E100090FAA0001'/>
+<L f='E012BF1E091FB5C4026A11EA9BC500090FAA0001' s='E012BF1E091FB5C3026A11EACB0200090FAA0001'/>
+<L f='E012BF1E091FE9A7026A11EA85D800090FAA0001' s='E012BF1E091FB5C3026A11EACB0200090FAA0001'/>
+<L f='E012BF1E091FE9A9026A11EACF6E00090FAA0001' s='E012BF1E091FB5C3026A11EACB0200090FAA0001'/>
+<L f='E012BF1E091FE9AA026A11EAC9C200090FAA0001' s='E012BF1E091FB5C3026A11EACB0200090FAA0001'/>
+<L f='E012BF1E091FE9AC026A11EAA64600090FAA0001' s='E012BF1E091FB5C3026A11EACB0200090FAA0001'/>
+<L f='E012BF1E091FE9A8026A11EA87F900090FAA0001' s='E012BF1E091FE9A7026A11EA85D800090FAA0001'/>
+<L f='E012BF1E091FE9AB026A11EA830800090FAA0001' s='E012BF1E091FE9AA026A11EAC9C200090FAA0001'/>
+<L f='E012BF1E09200761026A11EA9BDB00090FAA0001' s='E012BF1E09200760026A11EAA0EA00090FAA0001'/>
+<L f='E012BF1E09200762026A11EAC3A700090FAA0001' s='E012BF1E09200760026A11EAA0EA00090FAA0001'/>
+<L f='E012BF1E092087A9026A11EACFED00090FAA0001' s='E012BF1E09200760026A11EAA0EA00090FAA0001'/>
+<L f='E012BF1E092087A8026A11EA8AE000090FAA0001' s='E012BF1E09200762026A11EAC3A700090FAA0001'/>
+<L f='E012BF1E0921163E026A11EA917800090FAA0001' s='E012BF1E0921163D026A11EA89A400090FAA0001'/>
+<L f='E012BF1E09214E4D026A11EA916A00090FAA0001' s='E012BF1E0921163D026A11EA89A400090FAA0001'/>
+<L f='E012BF1E0921AD48026A11EAC60000090FAA0001' s='E012BF1E0921163D026A11EA89A400090FAA0001'/>
+<L f='E012BF1E09214E4F026A11EABDBE00090FAA0001' s='E012BF1E09214E4E026A11EACC6900090FAA0001'/>
+<L f='E012BF1E0921837E026A11EAC4BA00090FAA0001' s='E012BF1E09214E50026A11EAC84E00090FAA0001'/>
+<L f='E012BF1E092205E6026A11EA8F9D00090FAA0001' s='E012BF1E0921E5EE026A11EA8F4700090FAA0001'/>
+<L f='E012BF1E092205E7026A11EAAF9600090FAA0001' s='E012BF1E0921E5EE026A11EA8F4700090FAA0001'/>
+<L f='E012BF1E092234E2026A11EABAA600090FAA0001' s='E012BF1E0921E5EE026A11EA8F4700090FAA0001'/>
+<L f='E012BF1E09224965026A11EAC6BC00090FAA0001' s='E012BF1E0921E5EE026A11EA8F4700090FAA0001'/>
+<L f='E012BF1E092268EF026A11EAB7B500090FAA0001' s='E012BF1E0921E5EE026A11EA8F4700090FAA0001'/>
+<L f='E012BF1E0921E5F0026A11EAB99700090FAA0001' s='E012BF1E0921E5EF026A11EAB19F00090FAA0001'/>
+<L f='E012BF1E092205E8026A11EAB66600090FAA0001' s='E012BF1E092205E7026A11EAAF9600090FAA0001'/>
+<L f='E012BF1E09224966026A11EA923B00090FAA0001' s='E012BF1E09224965026A11EAC6BC00090FAA0001'/>
+<L f='E012BF1E0923679D026A11EACB3B00090FAA0001' s='E012BF1E0923679C026A11EAC1C100090FAA0001'/>
+<L f='E012BF1E09239220026A11EACE6800090FAA0001' s='E012BF1E0923921F026A11EAACA200090FAA0001'/>
+<L f='E012BF1E0966AA69026A11EA806200090FAA0001' s='E012BF1E0966AA67026A11EA82AA00090FAA0001'/>
+<L f='E012BF1E0966C76B026A11EA942A00090FAA0001' s='E012BF1E0966AA67026A11EA82AA00090FAA0001'/>
+<L f='E012BF1E0966C76E026A11EACB7000090FAA0001' s='E012BF1E0966AA67026A11EA82AA00090FAA0001'/>
+<L f='E012BF1E0966C76D026A11EAA34800090FAA0001' s='E012BF1E0966C76C026A11EA94B400090FAA0001'/>
+<L f='E012BF1E09673423026A11EAC6A800090FAA0001' s='E012BF1E09673422026A11EA913600090FAA0001'/>
+<L f='E012BF1E09674B17026A11EA99D500090FAA0001' s='E012BF1E09674B16026A11EAB31D00090FAA0001'/>
+<L f='E012BF1E09677D9F026A11EA9D1300090FAA0001' s='E012BF1E09674B18026A11EA870100090FAA0001'/>
+<L f='E012BF1E0967902F026A11EACA8900090FAA0001' s='E012BF1E0967902E026A11EABA8C00090FAA0001'/>
+<L f='E012BF1E09679031026A11EACE2D00090FAA0001' s='E012BF1E09679030026A11EAC6F000090FAA0001'/>
+<L f='E012BF1E0967C1B2026A11EAAB5000090FAA0001' s='E012BF1E09679032026A11EAC79E00090FAA0001'/>
+<L f='E012BF1E0969A507026A11EAC70400090FAA0001' s='E012BF1E09693FB1026A11EA947600090FAA0001'/>
+<L f='E012BF1E096970EA026A11EAC08F00090FAA0001' s='E012BF1E096970E9026A11EA9DBD00090FAA0001'/>
+<L f='E012BF1E096970EC026A11EAA83700090FAA0001' s='E012BF1E096970EB026A11EA8F2300090FAA0001'/>
+<L f='E012BF1E0969CB28026A11EA885800090FAA0001' s='E012BF1E0969A508026A11EA9FA800090FAA0001'/>
+<L f='E012BF1E096A12FA026A11EAB61600090FAA0001' s='E012BF1E096A12F9026A11EAC7D500090FAA0001'/>
+<L f='E012BF1E096A512C026A11EACE2200090FAA0001' s='E012BF1E096A512B026A11EAAD0900090FAA0001'/>
+<L f='E012BF1E096ABB62026A11EAA5B400090FAA0001' s='E012BF1E096ABB61026A11EAA89500090FAA0001'/>
+<L f='E012BF1ED032D8E8026911EAC48700090FAA0001' s='E012BF1ED032BE1B026911EA844E00090FAA0001'/>
+<L f='E012BF1ED033DBA6026911EAB7CC00090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED033DBA7026911EABCF100090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED033FABF026911EAB33400090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED03444F0026911EAA13900090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED03444F2026911EA898700090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED03491CF026911EA874300090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED035D8F1026911EA876F00090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED035D8F2026911EAC3C800090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED036AE1F026911EABF8500090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED036AE20026911EAC07100090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED0372091026911EAA0A000090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED0372092026911EACA8C00090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED03733C9026911EA93A100090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED03778EF026911EAA36700090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED0378F95026911EAA70800090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED0378F96026911EAC61A00090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED037AA22026911EACEDF00090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED037AA23026911EA811600090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED038E304026911EACC3D00090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED038E305026911EAC63100090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED0390814026911EABE1D00090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED0390815026911EAB0AD00090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED03A68F0026911EAAAD600090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED03A68F1026911EA9DCA00090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED03FE279026911EACBAB00090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED03FE27A026911EA9FC000090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED0401DB2026911EAC88400090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED0404904026911EAAC6800090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED04291A9026911EA90BD00090FAA0001' s='E012BF1ED033BED1026911EA8B8800090FAA0001'/>
+<L f='E012BF1ED033FABE026911EA9CCD00090FAA0001' s='E012BF1ED033DBA7026911EABCF100090FAA0001'/>
+<L f='E012BF1ED03444F1026911EAB8E400090FAA0001' s='E012BF1ED03444F0026911EAA13900090FAA0001'/>
+<L f='E012BF1ED03491D0026911EA966100090FAA0001' s='E012BF1ED03491CF026911EA874300090FAA0001'/>
+<L f='E012BF1ED03491D1026911EACFA600090FAA0001' s='E012BF1ED03491CF026911EA874300090FAA0001'/>
+<L f='E012BF1ED034A00B026911EA901B00090FAA0001' s='E012BF1ED03491CF026911EA874300090FAA0001'/>
+<L f='E012BF1ED034A00C026911EAC1B200090FAA0001' s='E012BF1ED03491CF026911EA874300090FAA0001'/>
+<L f='E012BF1ED034D7F5026911EA99C900090FAA0001' s='E012BF1ED03491CF026911EA874300090FAA0001'/>
+<L f='E012BF1ED034D7F6026911EA80EB00090FAA0001' s='E012BF1ED03491CF026911EA874300090FAA0001'/>
+<L f='E012BF1ED035190F026911EACD7800090FAA0001' s='E012BF1ED03491CF026911EA874300090FAA0001'/>
+<L f='E012BF1ED0351910026911EAA49800090FAA0001' s='E012BF1ED03491CF026911EA874300090FAA0001'/>
+<L f='E012BF1ED035C40E026911EAB71A00090FAA0001' s='E012BF1ED03491CF026911EA874300090FAA0001'/>
+<L f='E012BF1ED034A00E026911EAA77700090FAA0001' s='E012BF1ED034A00D026911EA906F00090FAA0001'/>
+<L f='E012BF1ED034E99B026911EABBFF00090FAA0001' s='E012BF1ED034E99A026911EA908A00090FAA0001'/>
+<L f='E012BF1ED0354ACF026911EACF0C00090FAA0001' s='E012BF1ED0354ACE026911EA9F0200090FAA0001'/>
+<L f='E012BF1ED03588CC026911EAA7A100090FAA0001' s='E012BF1ED0356632026911EABF8400090FAA0001'/>
+<L f='E012BF1ED03603DA026911EA999900090FAA0001' s='E012BF1ED03603D9026911EACE1200090FAA0001'/>
+<L f='E012BF1ED036AE22026911EAC15700090FAA0001' s='E012BF1ED036AE21026911EACA6A00090FAA0001'/>
+<L f='E012BF1ED03733C8026911EAA58500090FAA0001' s='E012BF1ED0372093026911EACB9600090FAA0001'/>
+<L f='E012BF1ED03778F1026911EA85E500090FAA0001' s='E012BF1ED03778F0026911EA8DC900090FAA0001'/>
+<L f='E012BF1ED037AA21026911EABB0E00090FAA0001' s='E012BF1ED0378F96026911EAC61A00090FAA0001'/>
+<L f='E012BF1ED037AA24026911EABF5100090FAA0001' s='E012BF1ED037AA23026911EA811600090FAA0001'/>
+<L f='E012BF1ED037E85D026911EA818D00090FAA0001' s='E012BF1ED037AA23026911EA811600090FAA0001'/>
+<L f='E012BF1ED0384F80026911EAB26800090FAA0001' s='E012BF1ED037AA23026911EA811600090FAA0001'/>
+<L f='E012BF1ED0384F81026911EACAAD00090FAA0001' s='E012BF1ED037AA23026911EA811600090FAA0001'/>
+<L f='E012BF1ED038E303026911EA833D00090FAA0001' s='E012BF1ED037AA23026911EA811600090FAA0001'/>
+<L f='E012BF1ED037E85F026911EAA86000090FAA0001' s='E012BF1ED037E85E026911EAAB1000090FAA0001'/>
+<L f='E012BF1ED038039C026911EAC6D700090FAA0001' s='E012BF1ED038039B026911EAB83400090FAA0001'/>
+<L f='E012BF1ED03838CF026911EA9D9000090FAA0001' s='E012BF1ED038039D026911EA809100090FAA0001'/>
+<L f='E012BF1ED03838D1026911EAB8E200090FAA0001' s='E012BF1ED03838D0026911EAADBF00090FAA0001'/>
+<L f='E012BF1ED0384F83026911EA982900090FAA0001' s='E012BF1ED0384F82026911EAAE8500090FAA0001'/>
+<L f='E012BF1ED0389331026911EAAC7C00090FAA0001' s='E012BF1ED03878E8026911EACDCC00090FAA0001'/>
+<L f='E012BF1ED0389333026911EAC53500090FAA0001' s='E012BF1ED0389332026911EA93B900090FAA0001'/>
+<L f='E012BF1ED038BC84026911EA97E400090FAA0001' s='E012BF1ED038BC83026911EAA2BB00090FAA0001'/>
+<L f='E012BF1ED0390816026911EA8C0400090FAA0001' s='E012BF1ED0390815026911EAB0AD00090FAA0001'/>
+<L f='E012BF1ED0394DE6026911EA8A2E00090FAA0001' s='E012BF1ED0390815026911EAB0AD00090FAA0001'/>
+<L f='E012BF1ED03A5672026911EA8CD000090FAA0001' s='E012BF1ED0390815026911EAB0AD00090FAA0001'/>
+<L f='E012BF1ED03962DE026911EACDE100090FAA0001' s='E012BF1ED0394DE6026911EA8A2E00090FAA0001'/>
+<L f='E012BF1ED03962DF026911EABC9600090FAA0001' s='E012BF1ED0394DE6026911EA8A2E00090FAA0001'/>
+<L f='E012BF1ED039845D026911EAA67700090FAA0001' s='E012BF1ED0394DE6026911EA8A2E00090FAA0001'/>
+<L f='E012BF1ED039845E026911EA87AC00090FAA0001' s='E012BF1ED0394DE6026911EA8A2E00090FAA0001'/>
+<L f='E012BF1ED039B38C026911EABCA200090FAA0001' s='E012BF1ED0394DE6026911EA8A2E00090FAA0001'/>
+<L f='E012BF1ED039B38D026911EAB9FB00090FAA0001' s='E012BF1ED0394DE6026911EA8A2E00090FAA0001'/>
+<L f='E012BF1ED039E319026911EAA41C00090FAA0001' s='E012BF1ED0394DE6026911EA8A2E00090FAA0001'/>
+<L f='E012BF1ED039E31A026911EA9A0E00090FAA0001' s='E012BF1ED0394DE6026911EA8A2E00090FAA0001'/>
+<L f='E012BF1ED03A0C1A026911EA8B4B00090FAA0001' s='E012BF1ED0394DE6026911EA8A2E00090FAA0001'/>
+<L f='E012BF1ED03A0C1B026911EA84AD00090FAA0001' s='E012BF1ED0394DE6026911EA8A2E00090FAA0001'/>
+<L f='E012BF1ED03A179F026911EABDA400090FAA0001' s='E012BF1ED0394DE6026911EA8A2E00090FAA0001'/>
+<L f='E012BF1ED03A5670026911EAC1C500090FAA0001' s='E012BF1ED0394DE6026911EA8A2E00090FAA0001'/>
+<L f='E012BF1ED03A5671026911EAB0CF00090FAA0001' s='E012BF1ED0394DE6026911EA8A2E00090FAA0001'/>
+<L f='E012BF1ED0394DE8026911EAAA3E00090FAA0001' s='E012BF1ED0394DE7026911EAC13200090FAA0001'/>
+<L f='E012BF1ED03962E0026911EAC2EC00090FAA0001' s='E012BF1ED03962DF026911EABC9600090FAA0001'/>
+<L f='E012BF1ED039845F026911EA876600090FAA0001' s='E012BF1ED039845E026911EA87AC00090FAA0001'/>
+<L f='E012BF1ED039B38E026911EAB9E300090FAA0001' s='E012BF1ED039B38D026911EAB9FB00090FAA0001'/>
+<L f='E012BF1ED039E31B026911EA835B00090FAA0001' s='E012BF1ED039E31A026911EA9A0E00090FAA0001'/>
+<L f='E012BF1ED03A0C1D026911EAA3F200090FAA0001' s='E012BF1ED03A0C1C026911EAB3AB00090FAA0001'/>
+<L f='E012BF1ED03A68F2026911EA95DE00090FAA0001' s='E012BF1ED03A68F1026911EA9DCA00090FAA0001'/>
+<L f='E012BF1ED03A98BE026911EAB9B200090FAA0001' s='E012BF1ED03A68F1026911EA9DCA00090FAA0001'/>
+<L f='E012BF1ED03D0F72026911EA8F4400090FAA0001' s='E012BF1ED03A68F1026911EA9DCA00090FAA0001'/>
+<L f='E012BF1ED03D3026026911EAAA5000090FAA0001' s='E012BF1ED03A68F1026911EA9DCA00090FAA0001'/>
+<L f='E012BF1ED03FC21D026911EA922700090FAA0001' s='E012BF1ED03A68F1026911EA9DCA00090FAA0001'/>
+<L f='E012BF1ED03AB7F1026911EAA3E100090FAA0001' s='E012BF1ED03A98BE026911EAB9B200090FAA0001'/>
+<L f='E012BF1ED03AB7F2026911EA961700090FAA0001' s='E012BF1ED03A98BE026911EAB9B200090FAA0001'/>
+<L f='E012BF1ED03ADE39026911EA830200090FAA0001' s='E012BF1ED03A98BE026911EAB9B200090FAA0001'/>
+<L f='E012BF1ED03ADE3A026911EAC66E00090FAA0001' s='E012BF1ED03A98BE026911EAB9B200090FAA0001'/>
+<L f='E012BF1ED03BA25A026911EAC3CD00090FAA0001' s='E012BF1ED03A98BE026911EAB9B200090FAA0001'/>
+<L f='E012BF1ED03BA25B026911EAB80300090FAA0001' s='E012BF1ED03A98BE026911EAB9B200090FAA0001'/>
+<L f='E012BF1ED03C068A026911EA8F6A00090FAA0001' s='E012BF1ED03A98BE026911EAB9B200090FAA0001'/>
+<L f='E012BF1ED03C1B16026911EAC78400090FAA0001' s='E012BF1ED03A98BE026911EAB9B200090FAA0001'/>
+<L f='E012BF1ED03C574E026911EA87F700090FAA0001' s='E012BF1ED03A98BE026911EAB9B200090FAA0001'/>
+<L f='E012BF1ED03C574F026911EAA7E700090FAA0001' s='E012BF1ED03A98BE026911EAB9B200090FAA0001'/>
+<L f='E012BF1ED03C6A72026911EAC08700090FAA0001' s='E012BF1ED03A98BE026911EAB9B200090FAA0001'/>
+<L f='E012BF1ED03C6A73026911EAB35300090FAA0001' s='E012BF1ED03A98BE026911EAB9B200090FAA0001'/>
+<L f='E012BF1ED03D0F71026911EACE8A00090FAA0001' s='E012BF1ED03A98BE026911EAB9B200090FAA0001'/>
+<L f='E012BF1ED03A98C0026911EA901C00090FAA0001' s='E012BF1ED03A98BF026911EAA57000090FAA0001'/>
+<L f='E012BF1ED03AB7F3026911EAC5EE00090FAA0001' s='E012BF1ED03AB7F2026911EA961700090FAA0001'/>
+<L f='E012BF1ED03ADE3B026911EAC06500090FAA0001' s='E012BF1ED03ADE3A026911EAC66E00090FAA0001'/>
+<L f='E012BF1ED03ADE3C026911EAAB0400090FAA0001' s='E012BF1ED03ADE3A026911EAC66E00090FAA0001'/>
+<L f='E012BF1ED03B3E9D026911EACBA500090FAA0001' s='E012BF1ED03ADE3A026911EAC66E00090FAA0001'/>
+<L f='E012BF1ED03B3E9E026911EAA3B500090FAA0001' s='E012BF1ED03ADE3A026911EAC66E00090FAA0001'/>
+<L f='E012BF1ED03B8405026911EAAD5D00090FAA0001' s='E012BF1ED03ADE3A026911EAC66E00090FAA0001'/>
+<L f='E012BF1ED03AFFFC026911EA9D4600090FAA0001' s='E012BF1ED03ADE3C026911EAAB0400090FAA0001'/>
+<L f='E012BF1ED03AFFFB026911EACE8000090FAA0001' s='E012BF1ED03ADE3D026911EA989400090FAA0001'/>
+<L f='E012BF1ED03B5E4E026911EA8E7E00090FAA0001' s='E012BF1ED03B3E9E026911EAA3B500090FAA0001'/>
+<L f='E012BF1ED03B5E4D026911EA895000090FAA0001' s='E012BF1ED03B3E9F026911EA8A5A00090FAA0001'/>
+<L f='E012BF1ED03C0689026911EAA05400090FAA0001' s='E012BF1ED03BA25B026911EAB80300090FAA0001'/>
+<L f='E012BF1ED03C1B17026911EA823F00090FAA0001' s='E012BF1ED03C1B16026911EAC78400090FAA0001'/>
+<L f='E012BF1ED03C5750026911EAAA2500090FAA0001' s='E012BF1ED03C574F026911EAA7E700090FAA0001'/>
+<L f='E012BF1ED03C952F026911EA84ED00090FAA0001' s='E012BF1ED03C6A74026911EA8A9900090FAA0001'/>
+<L f='E012BF1ED03CB073026911EA855200090FAA0001' s='E012BF1ED03C9530026911EAA5E000090FAA0001'/>
+<L f='E012BF1ED03CB075026911EA8FFB00090FAA0001' s='E012BF1ED03CB074026911EAB6DB00090FAA0001'/>
+<L f='E012BF1ED03CF8E7026911EAB5A000090FAA0001' s='E012BF1ED03CF8E6026911EAB80F00090FAA0001'/>
+<L f='E012BF1ED03D5D49026911EACDD600090FAA0001' s='E012BF1ED03D3026026911EAAA5000090FAA0001'/>
+<L f='E012BF1ED03D5D4A026911EA8B8900090FAA0001' s='E012BF1ED03D3026026911EAAA5000090FAA0001'/>
+<L f='E012BF1ED03D6EDB026911EACBE800090FAA0001' s='E012BF1ED03D3026026911EAAA5000090FAA0001'/>
+<L f='E012BF1ED03D6EDC026911EAC0CF00090FAA0001' s='E012BF1ED03D3026026911EAAA5000090FAA0001'/>
+<L f='E012BF1ED03E1513026911EACDCA00090FAA0001' s='E012BF1ED03D3026026911EAAA5000090FAA0001'/>
+<L f='E012BF1ED03E1514026911EAA19C00090FAA0001' s='E012BF1ED03D3026026911EAAA5000090FAA0001'/>
+<L f='E012BF1ED03E47B9026911EACF1300090FAA0001' s='E012BF1ED03D3026026911EAAA5000090FAA0001'/>
+<L f='E012BF1ED03E47BA026911EABE9000090FAA0001' s='E012BF1ED03D3026026911EAAA5000090FAA0001'/>
+<L f='E012BF1ED03EAAE3026911EA858F00090FAA0001' s='E012BF1ED03D3026026911EAAA5000090FAA0001'/>
+<L f='E012BF1ED03EAAE4026911EA863A00090FAA0001' s='E012BF1ED03D3026026911EAAA5000090FAA0001'/>
+<L f='E012BF1ED03EF0F0026911EABB3B00090FAA0001' s='E012BF1ED03D3026026911EAAA5000090FAA0001'/>
+<L f='E012BF1ED03EF0F1026911EAA4B500090FAA0001' s='E012BF1ED03D3026026911EAAA5000090FAA0001'/>
+<L f='E012BF1ED03FB006026911EA99A700090FAA0001' s='E012BF1ED03D3026026911EAAA5000090FAA0001'/>
+<L f='E012BF1ED03D3028026911EAC09E00090FAA0001' s='E012BF1ED03D3027026911EABCAA00090FAA0001'/>
+<L f='E012BF1ED03D5D4B026911EAAEE400090FAA0001' s='E012BF1ED03D5D4A026911EA8B8900090FAA0001'/>
+<L f='E012BF1ED03D6EDD026911EAA77900090FAA0001' s='E012BF1ED03D6EDC026911EAC0CF00090FAA0001'/>
+<L f='E012BF1ED03DAB93026911EAA9CF00090FAA0001' s='E012BF1ED03D6EDC026911EAC0CF00090FAA0001'/>
+<L f='E012BF1ED03DD225026911EABDD900090FAA0001' s='E012BF1ED03D6EDC026911EAC0CF00090FAA0001'/>
+<L f='E012BF1ED03DD226026911EAA90700090FAA0001' s='E012BF1ED03D6EDC026911EAC0CF00090FAA0001'/>
+<L f='E012BF1ED03DF73B026911EAA6B200090FAA0001' s='E012BF1ED03D6EDC026911EAC0CF00090FAA0001'/>
+<L f='E012BF1ED03DAB96026911EA90B900090FAA0001' s='E012BF1ED03DAB93026911EAA9CF00090FAA0001'/>
+<L f='E012BF1ED03DAB95026911EA9FC600090FAA0001' s='E012BF1ED03DAB94026911EAAC2100090FAA0001'/>
+<L f='E012BF1ED03DF73A026911EA9C1100090FAA0001' s='E012BF1ED03DD226026911EAA90700090FAA0001'/>
+<L f='E012BF1ED03DF739026911EAB83B00090FAA0001' s='E012BF1ED03DD227026911EACD4600090FAA0001'/>
+<L f='E012BF1ED03E1515026911EAB02100090FAA0001' s='E012BF1ED03E1514026911EAA19C00090FAA0001'/>
+<L f='E012BF1ED03E95B9026911EA94FE00090FAA0001' s='E012BF1ED03E47BA026911EABE9000090FAA0001'/>
+<L f='E012BF1ED03EAAE5026911EAA88900090FAA0001' s='E012BF1ED03EAAE4026911EA863A00090FAA0001'/>
+<L f='E012BF1ED03EF0F3026911EA94B100090FAA0001' s='E012BF1ED03EF0F2026911EAAC4200090FAA0001'/>
+<L f='E012BF1ED03F1153026911EA85D400090FAA0001' s='E012BF1ED03F1152026911EAC60400090FAA0001'/>
+<L f='E012BF1ED03F2F02026911EAB63400090FAA0001' s='E012BF1ED03F2F01026911EAA5E500090FAA0001'/>
+<L f='E012BF1ED03F5CDB026911EA989500090FAA0001' s='E012BF1ED03F5CDA026911EAC0B600090FAA0001'/>
+<L f='E012BF1ED0404905026911EAC87300090FAA0001' s='E012BF1ED0404904026911EAAC6800090FAA0001'/>
+<L f='E012BF1ED0404906026911EA8ADF00090FAA0001' s='E012BF1ED0404904026911EAAC6800090FAA0001'/>
+<L f='E012BF1ED040DC80026911EAA35300090FAA0001' s='E012BF1ED0404904026911EAAC6800090FAA0001'/>
+<L f='E012BF1ED040DC81026911EAB51A00090FAA0001' s='E012BF1ED0404904026911EAAC6800090FAA0001'/>
+<L f='E012BF1ED0416307026911EAB70D00090FAA0001' s='E012BF1ED0404904026911EAAC6800090FAA0001'/>
+<L f='E012BF1ED0416308026911EAA8AE00090FAA0001' s='E012BF1ED0404904026911EAAC6800090FAA0001'/>
+<L f='E012BF1ED041C2DA026911EAB55100090FAA0001' s='E012BF1ED0404904026911EAAC6800090FAA0001'/>
+<L f='E012BF1ED041E1D1026911EAB65B00090FAA0001' s='E012BF1ED0404904026911EAAC6800090FAA0001'/>
+<L f='E012BF1ED04291A8026911EA855900090FAA0001' s='E012BF1ED0404904026911EAAC6800090FAA0001'/>
+<L f='E012BF1ED0404907026911EA827700090FAA0001' s='E012BF1ED0404906026911EA8ADF00090FAA0001'/>
+<L f='E012BF1ED04069F6026911EABC5500090FAA0001' s='E012BF1ED0404906026911EA8ADF00090FAA0001'/>
+<L f='E012BF1ED040A016026911EAB0EE00090FAA0001' s='E012BF1ED0404906026911EA8ADF00090FAA0001'/>
+<L f='E012BF1ED040A017026911EACEEE00090FAA0001' s='E012BF1ED0404906026911EA8ADF00090FAA0001'/>
+<L f='E012BF1ED040C51A026911EA8DC300090FAA0001' s='E012BF1ED0404906026911EA8ADF00090FAA0001'/>
+<L f='E012BF1ED04069F7026911EAAE3D00090FAA0001' s='E012BF1ED04069F6026911EABC5500090FAA0001'/>
+<L f='E012BF1ED040A018026911EAC6D000090FAA0001' s='E012BF1ED040A017026911EACEEE00090FAA0001'/>
+<L f='E012BF1ED040DC82026911EAA8EB00090FAA0001' s='E012BF1ED040DC81026911EAB51A00090FAA0001'/>
+<L f='E012BF1ED0411046026911EAB3BF00090FAA0001' s='E012BF1ED040DC81026911EAB51A00090FAA0001'/>
+<L f='E012BF1ED0416306026911EA94BA00090FAA0001' s='E012BF1ED040DC81026911EAB51A00090FAA0001'/>
+<L f='E012BF1ED0411047026911EABACB00090FAA0001' s='E012BF1ED0411046026911EAB3BF00090FAA0001'/>
+<L f='E012BF1ED0416D83026911EA832800090FAA0001' s='E012BF1ED0416308026911EAA8AE00090FAA0001'/>
+<L f='E012BF1ED0416D84026911EABAAF00090FAA0001' s='E012BF1ED0416308026911EAA8AE00090FAA0001'/>
+<L f='E012BF1ED041C2D9026911EAC95200090FAA0001' s='E012BF1ED0416308026911EAA8AE00090FAA0001'/>
+<L f='E012BF1ED0416D86026911EA910500090FAA0001' s='E012BF1ED0416D85026911EA9AC000090FAA0001'/>
+<L f='E012BF1ED04193CF026911EAC2F600090FAA0001' s='E012BF1ED04193CE026911EABBE900090FAA0001'/>
+<L f='E012BF1ED04246C8026911EA84E600090FAA0001' s='E012BF1ED041E1D1026911EAB65B00090FAA0001'/>
+<L f='E012BF1ED04246C9026911EA84E200090FAA0001' s='E012BF1ED041E1D1026911EAB65B00090FAA0001'/>
+<L f='E012BF1ED04260DC026911EAC98500090FAA0001' s='E012BF1ED041E1D1026911EAB65B00090FAA0001'/>
+<L f='E012BF1ED04260DD026911EAA93200090FAA0001' s='E012BF1ED041E1D1026911EAB65B00090FAA0001'/>
+<L f='E012BF1ED04291A7026911EAACCC00090FAA0001' s='E012BF1ED041E1D1026911EAB65B00090FAA0001'/>
+<L f='E012BF1ED042183A026911EAA30500090FAA0001' s='E012BF1ED0421839026911EABD9B00090FAA0001'/>
+<L f='E012BF1ED04246CA026911EAAD4400090FAA0001' s='E012BF1ED04246C9026911EA84E200090FAA0001'/>
+<L f='E012BF1ED04260DE026911EAC00400090FAA0001' s='E012BF1ED04260DD026911EAA93200090FAA0001'/>
+<L f='E012BF1ED0434B88026911EAA8C600090FAA0001' s='E012BF1ED0434B87026911EAB8F800090FAA0001'/>
+<L f='E012BF1ED04400F4026911EAA76500090FAA0001' s='E012BF1ED043E5A2026911EAC38100090FAA0001'/>
+<L f='E012BF1ED093FDE1026911EAB43100090FAA0001' s='E012BF1ED093EA68026911EAA37A00090FAA0001'/>
+<L f='E012BF1ED093FDE2026911EAABBD00090FAA0001' s='E012BF1ED093EA68026911EAA37A00090FAA0001'/>
+<L f='E012BF1ED0942264026911EAAA9000090FAA0001' s='E012BF1ED093EA68026911EAA37A00090FAA0001'/>
+<L f='E012BF1ED093FDE4026911EAC62000090FAA0001' s='E012BF1ED093FDE3026911EA98CB00090FAA0001'/>
+<L f='E012BF1ED094949F026911EABD4900090FAA0001' s='E012BF1ED094949E026911EABD7F00090FAA0001'/>
+<L f='E012BF1ED09494A1026911EAC7D300090FAA0001' s='E012BF1ED09494A0026911EACADB00090FAA0001'/>
+<L f='E012BF1ED094EB5B026911EA915100090FAA0001' s='E012BF1ED094EB5A026911EA996100090FAA0001'/>
+<L f='E012BF1ED0950A7B026911EAAACF00090FAA0001' s='E012BF1ED0950A7A026911EACD4200090FAA0001'/>
+<L f='E012BF1ED0950A7D026911EAB5A900090FAA0001' s='E012BF1ED0950A7C026911EA90FA00090FAA0001'/>
+<L f='E012BF1ED09533F4026911EA838400090FAA0001' s='E012BF1ED0950A7E026911EAA95400090FAA0001'/>
+<L f='E012BF1ED0973B2A026911EA9B9900090FAA0001' s='E012BF1ED096E4E0026911EAA67500090FAA0001'/>
+<L f='E012BF1ED096E4E3026911EACD3B00090FAA0001' s='E012BF1ED096E4E2026911EABAD800090FAA0001'/>
+<L f='E012BF1ED096E4E5026911EACA6000090FAA0001' s='E012BF1ED096E4E4026911EA9E7A00090FAA0001'/>
+<L f='E012BF1ED0973B2C026911EAAF2400090FAA0001' s='E012BF1ED0973B2B026911EAB24600090FAA0001'/>
+<L f='E012BF1ED097BF2E026911EABEED00090FAA0001' s='E012BF1ED097BF2D026911EAAF2E00090FAA0001'/>
+<L f='E012BF1ED098073F026911EAA29100090FAA0001' s='E012BF1ED098073E026911EAA75800090FAA0001'/>
+<L f='E012BF1ED0983AD1026911EACFDF00090FAA0001' s='E012BF1ED0983AD0026911EAA7F500090FAA0001'/>
+<L f='E0E1B8C6D56252DE0AE311EA9DA500090FAA0001' s='E0E1B8C6D561F4BD0AE311EA873200090FAA0001'/>
+<L f='E0E1B8C6D563DE2E0AE311EA99F800090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D563EE9C0AE311EABBE800090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D563EE9E0AE311EA952F00090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D563EE9F0AE311EA9F9A00090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D56429240AE311EA8EDF00090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D56429250AE311EABF3300090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D5647F7B0AE311EA9F5F00090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D5647F7C0AE311EAB96E00090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D56485380AE311EA886300090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D56485390AE311EA800300090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D564C6060AE311EAA6CD00090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D564C6070AE311EA800800090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D564C60A0AE311EABF9E00090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D564C60B0AE311EAB0A800090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D564E2460AE311EAB93E00090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D564E2470AE311EABD7D00090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D564E2490AE311EAC53800090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D564E24A0AE311EA826100090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D56521190AE311EAC3EC00090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D565211A0AE311EAA25600090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D565211B0AE311EA8B0400090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D565211C0AE311EAC0C500090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D565B9ED0AE311EA822800090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D565B9EE0AE311EAC9FA00090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D56B81BE0AE311EAAF3C00090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D56B8AAA0AE311EAC95D00090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D56BC2860AE311EABF3400090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D56BF1A50AE311EAC15900090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D56DC9900AE311EABF4A00090FAA0001' s='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001'/>
+<L f='E0E1B8C6D563EE9D0AE311EAAFB700090FAA0001' s='E0E1B8C6D563EE9C0AE311EABBE800090FAA0001'/>
+<L f='E0E1B8C6D563EEA00AE311EACD8200090FAA0001' s='E0E1B8C6D563EE9F0AE311EA9F9A00090FAA0001'/>
+<L f='E0E1B8C6D56429260AE311EAB89E00090FAA0001' s='E0E1B8C6D56429250AE311EABF3300090FAA0001'/>
+<L f='E0E1B8C6D56429270AE311EACBB000090FAA0001' s='E0E1B8C6D56429250AE311EABF3300090FAA0001'/>
+<L f='E0E1B8C6D56429280AE311EA8A3600090FAA0001' s='E0E1B8C6D56429250AE311EABF3300090FAA0001'/>
+<L f='E0E1B8C6D56429290AE311EAA88B00090FAA0001' s='E0E1B8C6D56429250AE311EABF3300090FAA0001'/>
+<L f='E0E1B8C6D56456FF0AE311EA92FB00090FAA0001' s='E0E1B8C6D56429250AE311EABF3300090FAA0001'/>
+<L f='E0E1B8C6D56457000AE311EA9A9E00090FAA0001' s='E0E1B8C6D56429250AE311EABF3300090FAA0001'/>
+<L f='E0E1B8C6D56457030AE311EA9DB700090FAA0001' s='E0E1B8C6D56429250AE311EABF3300090FAA0001'/>
+<L f='E0E1B8C6D56457040AE311EA92DC00090FAA0001' s='E0E1B8C6D56429250AE311EABF3300090FAA0001'/>
+<L f='E0E1B8C6D5647F7A0AE311EABC4300090FAA0001' s='E0E1B8C6D56429250AE311EABF3300090FAA0001'/>
+<L f='E0E1B8C6D564292B0AE311EAA15500090FAA0001' s='E0E1B8C6D564292A0AE311EAAC5A00090FAA0001'/>
+<L f='E0E1B8C6D56457020AE311EA94BC00090FAA0001' s='E0E1B8C6D56457010AE311EACE3000090FAA0001'/>
+<L f='E0E1B8C6D5647F770AE311EAC4DB00090FAA0001' s='E0E1B8C6D5647F760AE311EA88B000090FAA0001'/>
+<L f='E0E1B8C6D5647F790AE311EAB92500090FAA0001' s='E0E1B8C6D5647F780AE311EAA31A00090FAA0001'/>
+<L f='E0E1B8C6D56485370AE311EA89B400090FAA0001' s='E0E1B8C6D56485360AE311EAA84900090FAA0001'/>
+<L f='E0E1B8C6D564853B0AE311EAA33D00090FAA0001' s='E0E1B8C6D564853A0AE311EAB94800090FAA0001'/>
+<L f='E0E1B8C6D564C6090AE311EAC54200090FAA0001' s='E0E1B8C6D564C6080AE311EA8D7000090FAA0001'/>
+<L f='E0E1B8C6D564C60D0AE311EA847B00090FAA0001' s='E0E1B8C6D564C60C0AE311EABC3A00090FAA0001'/>
+<L f='E0E1B8C6D564E2480AE311EAC3D000090FAA0001' s='E0E1B8C6D564E2470AE311EABD7D00090FAA0001'/>
+<L f='E0E1B8C6D564E24B0AE311EAB8BD00090FAA0001' s='E0E1B8C6D564E24A0AE311EA826100090FAA0001'/>
+<L f='E0E1B8C6D564E24C0AE311EA9DA400090FAA0001' s='E0E1B8C6D564E24A0AE311EA826100090FAA0001'/>
+<L f='E0E1B8C6D56511690AE311EA92C500090FAA0001' s='E0E1B8C6D564E24A0AE311EA826100090FAA0001'/>
+<L f='E0E1B8C6D565116A0AE311EAC36500090FAA0001' s='E0E1B8C6D564E24A0AE311EA826100090FAA0001'/>
+<L f='E0E1B8C6D56521180AE311EAC2A500090FAA0001' s='E0E1B8C6D564E24A0AE311EA826100090FAA0001'/>
+<L f='E0E1B8C6D564E24E0AE311EA9FA200090FAA0001' s='E0E1B8C6D564E24D0AE311EAC68600090FAA0001'/>
+<L f='E0E1B8C6D564E2500AE311EA9A5B00090FAA0001' s='E0E1B8C6D564E24F0AE311EAC8DB00090FAA0001'/>
+<L f='E0E1B8C6D56511660AE311EACCC700090FAA0001' s='E0E1B8C6D56511650AE311EAA15200090FAA0001'/>
+<L f='E0E1B8C6D56511680AE311EAB2D900090FAA0001' s='E0E1B8C6D56511670AE311EAB8D900090FAA0001'/>
+<L f='E0E1B8C6D565116C0AE311EAB0BC00090FAA0001' s='E0E1B8C6D565116B0AE311EAC42700090FAA0001'/>
+<L f='E0E1B8C6D565116E0AE311EAB80400090FAA0001' s='E0E1B8C6D565116D0AE311EAC0B700090FAA0001'/>
+<L f='E0E1B8C6D56521150AE311EABCB400090FAA0001' s='E0E1B8C6D56521140AE311EA87DE00090FAA0001'/>
+<L f='E0E1B8C6D56521170AE311EAB30100090FAA0001' s='E0E1B8C6D56521160AE311EA937600090FAA0001'/>
+<L f='E0E1B8C6D565211D0AE311EAB50C00090FAA0001' s='E0E1B8C6D565211C0AE311EAC0C500090FAA0001'/>
+<L f='E0E1B8C6D5654E670AE311EAC90500090FAA0001' s='E0E1B8C6D565211C0AE311EAC0C500090FAA0001'/>
+<L f='E0E1B8C6D565B9EC0AE311EAC34700090FAA0001' s='E0E1B8C6D565211C0AE311EAC0C500090FAA0001'/>
+<L f='E0E1B8C6D5654E6A0AE311EAC23800090FAA0001' s='E0E1B8C6D5654E670AE311EAC90500090FAA0001'/>
+<L f='E0E1B8C6D5654E6B0AE311EA887A00090FAA0001' s='E0E1B8C6D5654E670AE311EAC90500090FAA0001'/>
+<L f='E0E1B8C6D5654E6D0AE311EABD0400090FAA0001' s='E0E1B8C6D5654E670AE311EAC90500090FAA0001'/>
+<L f='E0E1B8C6D5654E6E0AE311EACE3800090FAA0001' s='E0E1B8C6D5654E670AE311EAC90500090FAA0001'/>
+<L f='E0E1B8C6D5654E700AE311EAB0CC00090FAA0001' s='E0E1B8C6D5654E670AE311EAC90500090FAA0001'/>
+<L f='E0E1B8C6D56572C30AE311EAA3AA00090FAA0001' s='E0E1B8C6D5654E670AE311EAC90500090FAA0001'/>
+<L f='E0E1B8C6D56572C50AE311EAB85300090FAA0001' s='E0E1B8C6D5654E670AE311EAC90500090FAA0001'/>
+<L f='E0E1B8C6D56572C60AE311EA8FE200090FAA0001' s='E0E1B8C6D5654E670AE311EAC90500090FAA0001'/>
+<L f='E0E1B8C6D56572C80AE311EAB69C00090FAA0001' s='E0E1B8C6D5654E670AE311EAC90500090FAA0001'/>
+<L f='E0E1B8C6D56572C90AE311EAA56C00090FAA0001' s='E0E1B8C6D5654E670AE311EAC90500090FAA0001'/>
+<L f='E0E1B8C6D56572CC0AE311EAB2C600090FAA0001' s='E0E1B8C6D5654E670AE311EAC90500090FAA0001'/>
+<L f='E0E1B8C6D56572CD0AE311EA829800090FAA0001' s='E0E1B8C6D5654E670AE311EAC90500090FAA0001'/>
+<L f='E0E1B8C6D565B9EB0AE311EA8C4D00090FAA0001' s='E0E1B8C6D5654E670AE311EAC90500090FAA0001'/>
+<L f='E0E1B8C6D5654E690AE311EA953600090FAA0001' s='E0E1B8C6D5654E680AE311EAA2D100090FAA0001'/>
+<L f='E0E1B8C6D5654E6C0AE311EA82AE00090FAA0001' s='E0E1B8C6D5654E6B0AE311EA887A00090FAA0001'/>
+<L f='E0E1B8C6D5654E6F0AE311EAC92200090FAA0001' s='E0E1B8C6D5654E6E0AE311EACE3800090FAA0001'/>
+<L f='E0E1B8C6D56572C40AE311EABBD500090FAA0001' s='E0E1B8C6D56572C30AE311EAA3AA00090FAA0001'/>
+<L f='E0E1B8C6D56572C70AE311EAB07600090FAA0001' s='E0E1B8C6D56572C60AE311EA8FE200090FAA0001'/>
+<L f='E0E1B8C6D56572CB0AE311EAB6BC00090FAA0001' s='E0E1B8C6D56572CA0AE311EAC51100090FAA0001'/>
+<L f='E0E1B8C6D565B9EF0AE311EA90FD00090FAA0001' s='E0E1B8C6D565B9EE0AE311EAC9FA00090FAA0001'/>
+<L f='E0E1B8C6D565B9F00AE311EA882A00090FAA0001' s='E0E1B8C6D565B9EE0AE311EAC9FA00090FAA0001'/>
+<L f='E0E1B8C6D5674BE00AE311EA923A00090FAA0001' s='E0E1B8C6D565B9EE0AE311EAC9FA00090FAA0001'/>
+<L f='E0E1B8C6D5674BE10AE311EA948300090FAA0001' s='E0E1B8C6D565B9EE0AE311EAC9FA00090FAA0001'/>
+<L f='E0E1B8C6D56B4C470AE311EAC7E000090FAA0001' s='E0E1B8C6D565B9EE0AE311EAC9FA00090FAA0001'/>
+<L f='E0E1B8C6D565C0460AE311EA95A800090FAA0001' s='E0E1B8C6D565B9F00AE311EA882A00090FAA0001'/>
+<L f='E0E1B8C6D565C0470AE311EA8F6000090FAA0001' s='E0E1B8C6D565B9F00AE311EA882A00090FAA0001'/>
+<L f='E0E1B8C6D565C0490AE311EA99F400090FAA0001' s='E0E1B8C6D565B9F00AE311EA882A00090FAA0001'/>
+<L f='E0E1B8C6D565C04A0AE311EACB9D00090FAA0001' s='E0E1B8C6D565B9F00AE311EA882A00090FAA0001'/>
+<L f='E0E1B8C6D5662E880AE311EA8D0800090FAA0001' s='E0E1B8C6D565B9F00AE311EA882A00090FAA0001'/>
+<L f='E0E1B8C6D5662E890AE311EA800E00090FAA0001' s='E0E1B8C6D565B9F00AE311EA882A00090FAA0001'/>
+<L f='E0E1B8C6D5662E8B0AE311EAC9FE00090FAA0001' s='E0E1B8C6D565B9F00AE311EA882A00090FAA0001'/>
+<L f='E0E1B8C6D5662E8C0AE311EAB85E00090FAA0001' s='E0E1B8C6D565B9F00AE311EA882A00090FAA0001'/>
+<L f='E0E1B8C6D5662E8E0AE311EAC43D00090FAA0001' s='E0E1B8C6D565B9F00AE311EA882A00090FAA0001'/>
+<L f='E0E1B8C6D5662E8F0AE311EA8C5400090FAA0001' s='E0E1B8C6D565B9F00AE311EA882A00090FAA0001'/>
+<L f='E0E1B8C6D56640FC0AE311EA815C00090FAA0001' s='E0E1B8C6D565B9F00AE311EA882A00090FAA0001'/>
+<L f='E0E1B8C6D56640FD0AE311EAAE0900090FAA0001' s='E0E1B8C6D565B9F00AE311EA882A00090FAA0001'/>
+<L f='E0E1B8C6D566FA210AE311EAB7C800090FAA0001' s='E0E1B8C6D565B9F00AE311EA882A00090FAA0001'/>
+<L f='E0E1B8C6D565C0450AE311EAB9F600090FAA0001' s='E0E1B8C6D565B9F10AE311EABA5F00090FAA0001'/>
+<L f='E0E1B8C6D565C0480AE311EA81DA00090FAA0001' s='E0E1B8C6D565C0470AE311EA8F6000090FAA0001'/>
+<L f='E0E1B8C6D565C04B0AE311EAB02A00090FAA0001' s='E0E1B8C6D565C04A0AE311EACB9D00090FAA0001'/>
+<L f='E0E1B8C6D565C04C0AE311EAC29200090FAA0001' s='E0E1B8C6D565C04A0AE311EACB9D00090FAA0001'/>
+<L f='E0E1B8C6D565F0C50AE311EA9F7100090FAA0001' s='E0E1B8C6D565C04A0AE311EACB9D00090FAA0001'/>
+<L f='E0E1B8C6D565F0C60AE311EA939200090FAA0001' s='E0E1B8C6D565C04A0AE311EACB9D00090FAA0001'/>
+<L f='E0E1B8C6D565F0CA0AE311EABE3D00090FAA0001' s='E0E1B8C6D565C04A0AE311EACB9D00090FAA0001'/>
+<L f='E0E1B8C6D565F0C40AE311EABCA000090FAA0001' s='E0E1B8C6D565C04C0AE311EAC29200090FAA0001'/>
+<L f='E0E1B8C6D565F0C30AE311EA90B300090FAA0001' s='E0E1B8C6D565C04D0AE311EACD4600090FAA0001'/>
+<L f='E0E1B8C6D565F0C90AE311EAAA5B00090FAA0001' s='E0E1B8C6D565F0C60AE311EA939200090FAA0001'/>
+<L f='E0E1B8C6D565F0C80AE311EA957B00090FAA0001' s='E0E1B8C6D565F0C70AE311EACA2600090FAA0001'/>
+<L f='E0E1B8C6D5662E8A0AE311EAC9BC00090FAA0001' s='E0E1B8C6D5662E890AE311EA800E00090FAA0001'/>
+<L f='E0E1B8C6D5662E8D0AE311EA9A1B00090FAA0001' s='E0E1B8C6D5662E8C0AE311EAB85E00090FAA0001'/>
+<L f='E0E1B8C6D5662E900AE311EAA77500090FAA0001' s='E0E1B8C6D5662E8F0AE311EA8C5400090FAA0001'/>
+<L f='E0E1B8C6D56663940AE311EA956400090FAA0001' s='E0E1B8C6D56663930AE311EA865A00090FAA0001'/>
+<L f='E0E1B8C6D5668FA00AE311EAA9C500090FAA0001' s='E0E1B8C6D5668F9F0AE311EAA4BE00090FAA0001'/>
+<L f='E0E1B8C6D5668FA20AE311EABA8800090FAA0001' s='E0E1B8C6D5668FA10AE311EACB7700090FAA0001'/>
+<L f='E0E1B8C6D566EAE90AE311EA9F8C00090FAA0001' s='E0E1B8C6D566EAE80AE311EA88B000090FAA0001'/>
+<L f='E0E1B8C6D567C0F30AE311EAC38B00090FAA0001' s='E0E1B8C6D5674BE10AE311EA948300090FAA0001'/>
+<L f='E0E1B8C6D567F23C0AE311EA8FD900090FAA0001' s='E0E1B8C6D5674BE10AE311EA948300090FAA0001'/>
+<L f='E0E1B8C6D568607D0AE311EACE3200090FAA0001' s='E0E1B8C6D5674BE10AE311EA948300090FAA0001'/>
+<L f='E0E1B8C6D5688DBB0AE311EA9FAD00090FAA0001' s='E0E1B8C6D5674BE10AE311EA948300090FAA0001'/>
+<L f='E0E1B8C6D569440F0AE311EAC00800090FAA0001' s='E0E1B8C6D5674BE10AE311EA948300090FAA0001'/>
+<L f='E0E1B8C6D569790C0AE311EAAAD500090FAA0001' s='E0E1B8C6D5674BE10AE311EA948300090FAA0001'/>
+<L f='E0E1B8C6D56990020AE311EAA26600090FAA0001' s='E0E1B8C6D5674BE10AE311EA948300090FAA0001'/>
+<L f='E0E1B8C6D56990030AE311EAB6C300090FAA0001' s='E0E1B8C6D5674BE10AE311EA948300090FAA0001'/>
+<L f='E0E1B8C6D569D22B0AE311EAA57300090FAA0001' s='E0E1B8C6D5674BE10AE311EA948300090FAA0001'/>
+<L f='E0E1B8C6D569D22C0AE311EA90CB00090FAA0001' s='E0E1B8C6D5674BE10AE311EA948300090FAA0001'/>
+<L f='E0E1B8C6D569F8A80AE311EAABA800090FAA0001' s='E0E1B8C6D5674BE10AE311EA948300090FAA0001'/>
+<L f='E0E1B8C6D569F8A90AE311EAB70500090FAA0001' s='E0E1B8C6D5674BE10AE311EA948300090FAA0001'/>
+<L f='E0E1B8C6D56B30070AE311EA93E700090FAA0001' s='E0E1B8C6D5674BE10AE311EA948300090FAA0001'/>
+<L f='E0E1B8C6D567AE0E0AE311EAC8EA00090FAA0001' s='E0E1B8C6D5677D830AE311EA973D00090FAA0001'/>
+<L f='E0E1B8C6D567F23D0AE311EAC31E00090FAA0001' s='E0E1B8C6D567F23C0AE311EA8FD900090FAA0001'/>
+<L f='E0E1B8C6D568B81C0AE311EA922300090FAA0001' s='E0E1B8C6D5688DBB0AE311EA9FAD00090FAA0001'/>
+<L f='E0E1B8C6D568CB0F0AE311EAB83000090FAA0001' s='E0E1B8C6D5688DBB0AE311EA9FAD00090FAA0001'/>
+<L f='E0E1B8C6D5692EF30AE311EABD8400090FAA0001' s='E0E1B8C6D5688DBB0AE311EA9FAD00090FAA0001'/>
+<L f='E0E1B8C6D5692EF40AE311EA8F4A00090FAA0001' s='E0E1B8C6D5688DBB0AE311EA9FAD00090FAA0001'/>
+<L f='E0E1B8C6D569440E0AE311EA8C9A00090FAA0001' s='E0E1B8C6D5688DBB0AE311EA9FAD00090FAA0001'/>
+<L f='E0E1B8C6D5692EF20AE311EAC08200090FAA0001' s='E0E1B8C6D568CB0F0AE311EAB83000090FAA0001'/>
+<L f='E0E1B8C6D5692EF10AE311EA947400090FAA0001' s='E0E1B8C6D5690ABD0AE311EAB79F00090FAA0001'/>
+<L f='E0E1B8C6D569440D0AE311EA8F4C00090FAA0001' s='E0E1B8C6D5692EF40AE311EA8F4A00090FAA0001'/>
+<L f='E0E1B8C6D569440C0AE311EA934400090FAA0001' s='E0E1B8C6D569440B0AE311EAB1F400090FAA0001'/>
+<L f='E0E1B8C6D569790D0AE311EAA7DB00090FAA0001' s='E0E1B8C6D569790C0AE311EAAAD500090FAA0001'/>
+<L f='E0E1B8C6D569D22A0AE311EAC3E200090FAA0001' s='E0E1B8C6D56990030AE311EAB6C300090FAA0001'/>
+<L f='E0E1B8C6D569D22D0AE311EAB4E400090FAA0001' s='E0E1B8C6D569D22C0AE311EA90CB00090FAA0001'/>
+<L f='E0E1B8C6D56A16A80AE311EAA92600090FAA0001' s='E0E1B8C6D56A16A70AE311EA86F200090FAA0001'/>
+<L f='E0E1B8C6D56A55050AE311EA897B00090FAA0001' s='E0E1B8C6D56A3C370AE311EABA1000090FAA0001'/>
+<L f='E0E1B8C6D56AA4230AE311EA858500090FAA0001' s='E0E1B8C6D56AA4220AE311EAAFE700090FAA0001'/>
+<L f='E0E1B8C6D56AF6D20AE311EAC18400090FAA0001' s='E0E1B8C6D56AE9240AE311EA9FF900090FAA0001'/>
+<L f='E0E1B8C6D56C1FA90AE311EABC4000090FAA0001' s='E0E1B8C6D56BF1A50AE311EAC15900090FAA0001'/>
+<L f='E0E1B8C6D56C1FAA0AE311EA960C00090FAA0001' s='E0E1B8C6D56BF1A50AE311EAC15900090FAA0001'/>
+<L f='E0E1B8C6D56C886A0AE311EA954100090FAA0001' s='E0E1B8C6D56BF1A50AE311EAC15900090FAA0001'/>
+<L f='E0E1B8C6D56C886B0AE311EAA51700090FAA0001' s='E0E1B8C6D56BF1A50AE311EAC15900090FAA0001'/>
+<L f='E0E1B8C6D56CE12A0AE311EABBCE00090FAA0001' s='E0E1B8C6D56BF1A50AE311EAC15900090FAA0001'/>
+<L f='E0E1B8C6D56CE12B0AE311EA887900090FAA0001' s='E0E1B8C6D56BF1A50AE311EAC15900090FAA0001'/>
+<L f='E0E1B8C6D56D2FFD0AE311EAB09900090FAA0001' s='E0E1B8C6D56BF1A50AE311EAC15900090FAA0001'/>
+<L f='E0E1B8C6D56D2FFE0AE311EACE3C00090FAA0001' s='E0E1B8C6D56BF1A50AE311EAC15900090FAA0001'/>
+<L f='E0E1B8C6D56D862B0AE311EA8E5100090FAA0001' s='E0E1B8C6D56BF1A50AE311EAC15900090FAA0001'/>
+<L f='E0E1B8C6D56C1FAB0AE311EABD4700090FAA0001' s='E0E1B8C6D56C1FAA0AE311EA960C00090FAA0001'/>
+<L f='E0E1B8C6D56C5C9A0AE311EA889C00090FAA0001' s='E0E1B8C6D56C1FAA0AE311EA960C00090FAA0001'/>
+<L f='E0E1B8C6D56C5C9C0AE311EAAE0C00090FAA0001' s='E0E1B8C6D56C1FAA0AE311EA960C00090FAA0001'/>
+<L f='E0E1B8C6D56C5C9D0AE311EABEE100090FAA0001' s='E0E1B8C6D56C1FAA0AE311EA960C00090FAA0001'/>
+<L f='E0E1B8C6D56C5C9F0AE311EA908300090FAA0001' s='E0E1B8C6D56C1FAA0AE311EA960C00090FAA0001'/>
+<L f='E0E1B8C6D56C5C9B0AE311EAB7B000090FAA0001' s='E0E1B8C6D56C5C9A0AE311EA889C00090FAA0001'/>
+<L f='E0E1B8C6D56C5C9E0AE311EA9A8200090FAA0001' s='E0E1B8C6D56C5C9D0AE311EABEE100090FAA0001'/>
+<L f='E0E1B8C6D56C886C0AE311EA9D8700090FAA0001' s='E0E1B8C6D56C886B0AE311EAA51700090FAA0001'/>
+<L f='E0E1B8C6D56C886D0AE311EAB1CA00090FAA0001' s='E0E1B8C6D56C886B0AE311EAA51700090FAA0001'/>
+<L f='E0E1B8C6D56CBDDD0AE311EA837A00090FAA0001' s='E0E1B8C6D56C886B0AE311EAA51700090FAA0001'/>
+<L f='E0E1B8C6D56CBDDC0AE311EA9C2F00090FAA0001' s='E0E1B8C6D56C886D0AE311EAB1CA00090FAA0001'/>
+<L f='E0E1B8C6D56CFED10AE311EAB96100090FAA0001' s='E0E1B8C6D56CE12B0AE311EA887900090FAA0001'/>
+<L f='E0E1B8C6D56CFED20AE311EAA99A00090FAA0001' s='E0E1B8C6D56CE12B0AE311EA887900090FAA0001'/>
+<L f='E0E1B8C6D56D2FFC0AE311EAB4CC00090FAA0001' s='E0E1B8C6D56CE12B0AE311EA887900090FAA0001'/>
+<L f='E0E1B8C6D56CFED40AE311EA9FEA00090FAA0001' s='E0E1B8C6D56CFED30AE311EA99FA00090FAA0001'/>
+<L f='E0E1B8C6D56CFED60AE311EA835C00090FAA0001' s='E0E1B8C6D56CFED50AE311EA9A9F00090FAA0001'/>
+<L f='E0E1B8C6D56D30010AE311EA9B1300090FAA0001' s='E0E1B8C6D56D2FFE0AE311EACE3C00090FAA0001'/>
+<L f='E0E1B8C6D56D45A00AE311EACFE400090FAA0001' s='E0E1B8C6D56D2FFE0AE311EACE3C00090FAA0001'/>
+<L f='E0E1B8C6D56D79F10AE311EA870700090FAA0001' s='E0E1B8C6D56D2FFE0AE311EACE3C00090FAA0001'/>
+<L f='E0E1B8C6D56D79F20AE311EAC8AA00090FAA0001' s='E0E1B8C6D56D2FFE0AE311EACE3C00090FAA0001'/>
+<L f='E0E1B8C6D56D862A0AE311EAB2C000090FAA0001' s='E0E1B8C6D56D2FFE0AE311EACE3C00090FAA0001'/>
+<L f='E0E1B8C6D56D30000AE311EACBDD00090FAA0001' s='E0E1B8C6D56D2FFF0AE311EA8B0B00090FAA0001'/>
+<L f='E0E1B8C6D56D45A10AE311EAC68B00090FAA0001' s='E0E1B8C6D56D45A00AE311EACFE400090FAA0001'/>
+<L f='E0E1B8C6D56D79F30AE311EAC7ED00090FAA0001' s='E0E1B8C6D56D79F20AE311EAC8AA00090FAA0001'/>
+<L f='E0E1B8C6D56E36570AE311EAA46D00090FAA0001' s='E0E1B8C6D56E36560AE311EAC93E00090FAA0001'/>
+<L f='E0E1B8C6D56EAF1E0AE311EA940600090FAA0001' s='E0E1B8C6D56EAF1D0AE311EA853300090FAA0001'/>
+<L f='E0E1B8C6D58D387A0AE311EAB23300090FAA0001' s='E0E1B8C6D58CF5460AE311EAAC8F00090FAA0001'/>
+<L f='E0E1B8C6D58D387B0AE311EACAEB00090FAA0001' s='E0E1B8C6D58CF5460AE311EAAC8F00090FAA0001'/>
+<L f='E0E1B8C6D58D387E0AE311EAB3E000090FAA0001' s='E0E1B8C6D58CF5460AE311EAAC8F00090FAA0001'/>
+<L f='E0E1B8C6D58D387D0AE311EAC2E800090FAA0001' s='E0E1B8C6D58D387C0AE311EA9E9500090FAA0001'/>
+<L f='E0E1B8C6D58D8C330AE311EA843E00090FAA0001' s='E0E1B8C6D58D8C320AE311EACA8700090FAA0001'/>
+<L f='E0E1B8C6D58DA1930AE311EA9DB100090FAA0001' s='E0E1B8C6D58DA1920AE311EACA7D00090FAA0001'/>
+<L f='E0E1B8C6D58DDA1E0AE311EAB39800090FAA0001' s='E0E1B8C6D58DDA1D0AE311EAB31300090FAA0001'/>
+<L f='E0E1B8C6D58DEC0F0AE311EAC65400090FAA0001' s='E0E1B8C6D58DEC0E0AE311EA83CA00090FAA0001'/>
+<L f='E0E1B8C6D58DEC110AE311EA988D00090FAA0001' s='E0E1B8C6D58DEC100AE311EABD9500090FAA0001'/>
+<L f='E0E1B8C6D58DEC130AE311EA943100090FAA0001' s='E0E1B8C6D58DEC120AE311EAA2DA00090FAA0001'/>
+<L f='E0E1B8C6D5914E320AE311EAB58700090FAA0001' s='E0E1B8C6D591122A0AE311EA9D1700090FAA0001'/>
+<L f='E0E1B8C6D591122D0AE311EA8DB100090FAA0001' s='E0E1B8C6D591122C0AE311EA9C1A00090FAA0001'/>
+<L f='E0E1B8C6D591122F0AE311EAB0C800090FAA0001' s='E0E1B8C6D591122E0AE311EA816B00090FAA0001'/>
+<L f='E0E1B8C6D5914E340AE311EA933700090FAA0001' s='E0E1B8C6D5914E330AE311EAC3EB00090FAA0001'/>
+<L f='E0E1B8C6D5921BCB0AE311EA972700090FAA0001' s='E0E1B8C6D5921BCA0AE311EA862B00090FAA0001'/>
+<L f='E0E1B8C6D5929DCE0AE311EAB25F00090FAA0001' s='E0E1B8C6D5929DCD0AE311EAA09500090FAA0001'/>
+<L f='E0E1B8C6D592ED320AE311EAA81900090FAA0001' s='E0E1B8C6D592ED310AE311EA9B8600090FAA0001'/>
+</XSD1.dom.ChildsOfDomNode>
+<WSDL2.RefToMessageReference c='1'>
+<L f='E012BF1E09670296026A11EAA64800090FAA0001' s='E012BF1E096A3C33026A11EAB6EB00090FAA0001'/>
+<L f='E012BF1E09677DA0026A11EAB1FF00090FAA0001' s='E012BF1E096ABB5E026A11EAC8C200090FAA0001'/>
+<L f='E012BF1ED0948A6F026911EAB4C200090FAA0001' s='E012BF1ED098073B026911EA97B700090FAA0001'/>
+<L f='E012BF1ED094EB5C026911EAA5B000090FAA0001' s='E012BF1ED0983812026911EAC5D800090FAA0001'/>
+<L f='E0E1B8C6D58D8C300AE311EABF4D00090FAA0001' s='E0E1B8C6D5925DD00AE311EAB5F300090FAA0001'/>
+<L f='E0E1B8C6D58DDA1F0AE311EAB77400090FAA0001' s='E0E1B8C6D592C7090AE311EA8A5800090FAA0001'/>
+</WSDL2.RefToMessageReference>
+<WSDL2.RefToOperationForBinding c='1'>
+<L f='E012BF1E0966AA66026A11EAB2CA00090FAA0001' s='E012BF1E096A12F6026A11EA8E5E00090FAA0001'/>
+<L f='E012BF1ED093EA67026911EAB35300090FAA0001' s='E012BF1ED0979A4A026911EABA1600090FAA0001'/>
+<L f='E0E1B8C6D58CF5450AE311EABF1400090FAA0001' s='E0E1B8C6D591CF3D0AE311EABB5D00090FAA0001'/>
+</WSDL2.RefToOperationForBinding>
+<WSDL2.OperationMessages c='1'>
+<L f='E012BF1E09670296026A11EAA64800090FAA0001' s='E012BF1E0966AA66026A11EAB2CA00090FAA0001'/>
+<L f='E012BF1E09677DA0026A11EAB1FF00090FAA0001' s='E012BF1E0966AA66026A11EAB2CA00090FAA0001'/>
+<L f='E012BF1ED0948A6F026911EAB4C200090FAA0001' s='E012BF1ED093EA67026911EAB35300090FAA0001'/>
+<L f='E012BF1ED094EB5C026911EAA5B000090FAA0001' s='E012BF1ED093EA67026911EAB35300090FAA0001'/>
+<L f='E0E1B8C6D58D8C300AE311EABF4D00090FAA0001' s='E0E1B8C6D58CF5450AE311EABF1400090FAA0001'/>
+<L f='E0E1B8C6D58DDA1F0AE311EAB77400090FAA0001' s='E0E1B8C6D58CF5450AE311EABF1400090FAA0001'/>
+</WSDL2.OperationMessages>
+<WSDL2.TypesOfDescrption c='1'>
+<L f='E012BF1E0923B6DC026A11EA909D00090FAA0001' s='E012BF1E0914F6DE026A11EAC91600090FAA0001'/>
+<L f='E012BF1ED044B608026911EA934900090FAA0001' s='E012BF1ED03178BA026911EAC20500090FAA0001'/>
+<L f='E0E1B8C6D56F65AB0AE311EA8C8600090FAA0001' s='E0E1B8C6D56105070AE311EAA1EC00090FAA0001'/>
+</WSDL2.TypesOfDescrption>
+<WSDL2.InterfacesOfDescription c='1'>
+<L f='E012BF1E09667FE0026A11EA882C00090FAA0001' s='E012BF1E0914F6DE026A11EAC91600090FAA0001'/>
+<L f='E012BF1ED0938FC6026911EA889400090FAA0001' s='E012BF1ED03178BA026911EAC20500090FAA0001'/>
+<L f='E0E1B8C6D58CABF60AE311EAA44A00090FAA0001' s='E0E1B8C6D56105070AE311EAA1EC00090FAA0001'/>
+</WSDL2.InterfacesOfDescription>
+<WSDL2.BindingsOfDescription c='1'>
+<L f='E012BF1E09693340026A11EA840C00090FAA0001' s='E012BF1E0914F6DE026A11EAC91600090FAA0001'/>
+<L f='E012BF1ED0968FCE026911EA801E00090FAA0001' s='E012BF1ED03178BA026911EAC20500090FAA0001'/>
+<L f='E0E1B8C6D590BC9F0AE311EAC35600090FAA0001' s='E0E1B8C6D56105070AE311EAA1EC00090FAA0001'/>
+</WSDL2.BindingsOfDescription>
+<WSDL2.AttachedUnkownExtensibilityEntities c='1'>
+<L f='E012BF1E0914F6E0026A11EA903600090FAA0001' s='E012BF1E0914F6DE026A11EAC91600090FAA0001'/>
+<L f='E012BF1E091592DA026A11EAC8FA00090FAA0001' s='E012BF1E0914F6DE026A11EAC91600090FAA0001'/>
+<L f='E012BF1E09232A51026A11EA8CA700090FAA0001' s='E012BF1E0914F6DE026A11EAC91600090FAA0001'/>
+<L f='E012BF1E0923921F026A11EAACA200090FAA0001' s='E012BF1E0914F6DE026A11EAC91600090FAA0001'/>
+<L f='E012BF1E0966AA67026A11EA82AA00090FAA0001' s='E012BF1E0966AA66026A11EAB2CA00090FAA0001'/>
+<L f='E012BF1E09670297026A11EAA7D800090FAA0001' s='E012BF1E09670296026A11EAA64800090FAA0001'/>
+<L f='E012BF1E09673422026A11EA913600090FAA0001' s='E012BF1E09670296026A11EAA64800090FAA0001'/>
+<L f='E012BF1E09674B16026A11EAB31D00090FAA0001' s='E012BF1E09670296026A11EAA64800090FAA0001'/>
+<L f='E012BF1E09674B18026A11EA870100090FAA0001' s='E012BF1E09670296026A11EAA64800090FAA0001'/>
+<L f='E012BF1E09677DA1026A11EAB50000090FAA0001' s='E012BF1E09677DA0026A11EAB1FF00090FAA0001'/>
+<L f='E012BF1E0967902E026A11EABA8C00090FAA0001' s='E012BF1E09677DA0026A11EAB1FF00090FAA0001'/>
+<L f='E012BF1E09679030026A11EAC6F000090FAA0001' s='E012BF1E09677DA0026A11EAB1FF00090FAA0001'/>
+<L f='E012BF1E09679032026A11EAC79E00090FAA0001' s='E012BF1E09677DA0026A11EAB1FF00090FAA0001'/>
+<L f='E012BF1E09693FB1026A11EA947600090FAA0001' s='E012BF1E09693340026A11EA840C00090FAA0001'/>
+<L f='E012BF1E096A12F7026A11EA8CE600090FAA0001' s='E012BF1E096A12F6026A11EA8E5E00090FAA0001'/>
+<L f='E012BF1E096A5129026A11EAB39800090FAA0001' s='E012BF1E096A3C33026A11EAB6EB00090FAA0001'/>
+<L f='E012BF1E096ABB5F026A11EA8A6500090FAA0001' s='E012BF1E096ABB5E026A11EAC8C200090FAA0001'/>
+<L f='E012BF1ED0325347026911EAB90300090FAA0001' s='E012BF1ED03178BA026911EAC20500090FAA0001'/>
+<L f='E012BF1ED033BED1026911EA8B8800090FAA0001' s='E012BF1ED03178BA026911EAC20500090FAA0001'/>
+<L f='E012BF1ED0431BBD026911EAB83E00090FAA0001' s='E012BF1ED03178BA026911EAC20500090FAA0001'/>
+<L f='E012BF1ED043E5A2026911EAC38100090FAA0001' s='E012BF1ED03178BA026911EAC20500090FAA0001'/>
+<L f='E012BF1ED093EA68026911EAA37A00090FAA0001' s='E012BF1ED093EA67026911EAB35300090FAA0001'/>
+<L f='E012BF1ED0948A70026911EAC9DE00090FAA0001' s='E012BF1ED0948A6F026911EAB4C200090FAA0001'/>
+<L f='E012BF1ED094949E026911EABD7F00090FAA0001' s='E012BF1ED0948A6F026911EAB4C200090FAA0001'/>
+<L f='E012BF1ED09494A0026911EACADB00090FAA0001' s='E012BF1ED0948A6F026911EAB4C200090FAA0001'/>
+<L f='E012BF1ED094EB5A026911EA996100090FAA0001' s='E012BF1ED0948A6F026911EAB4C200090FAA0001'/>
+<L f='E012BF1ED0950A79026911EAC42200090FAA0001' s='E012BF1ED094EB5C026911EAA5B000090FAA0001'/>
+<L f='E012BF1ED0950A7A026911EACD4200090FAA0001' s='E012BF1ED094EB5C026911EAA5B000090FAA0001'/>
+<L f='E012BF1ED0950A7C026911EA90FA00090FAA0001' s='E012BF1ED094EB5C026911EAA5B000090FAA0001'/>
+<L f='E012BF1ED0950A7E026911EAA95400090FAA0001' s='E012BF1ED094EB5C026911EAA5B000090FAA0001'/>
+<L f='E012BF1ED096E4E0026911EAA67500090FAA0001' s='E012BF1ED0968FCE026911EA801E00090FAA0001'/>
+<L f='E012BF1ED097BF2B026911EAA21B00090FAA0001' s='E012BF1ED0979A4A026911EABA1600090FAA0001'/>
+<L f='E012BF1ED098073C026911EAA02400090FAA0001' s='E012BF1ED098073B026911EA97B700090FAA0001'/>
+<L f='E012BF1ED0983813026911EABB5F00090FAA0001' s='E012BF1ED0983812026911EAC5D800090FAA0001'/>
+<L f='E0E1B8C6D561DA8A0AE311EA81F000090FAA0001' s='E0E1B8C6D56105070AE311EAA1EC00090FAA0001'/>
+<L f='E0E1B8C6D563BFC40AE311EAAAD800090FAA0001' s='E0E1B8C6D56105070AE311EAA1EC00090FAA0001'/>
+<L f='E0E1B8C6D56E36540AE311EAA89D00090FAA0001' s='E0E1B8C6D56105070AE311EAA1EC00090FAA0001'/>
+<L f='E0E1B8C6D56EAF1D0AE311EA853300090FAA0001' s='E0E1B8C6D56105070AE311EAA1EC00090FAA0001'/>
+<L f='E0E1B8C6D58CF5460AE311EAAC8F00090FAA0001' s='E0E1B8C6D58CF5450AE311EABF1400090FAA0001'/>
+<L f='E0E1B8C6D58D8C310AE311EABB2B00090FAA0001' s='E0E1B8C6D58D8C300AE311EABF4D00090FAA0001'/>
+<L f='E0E1B8C6D58D8C320AE311EACA8700090FAA0001' s='E0E1B8C6D58D8C300AE311EABF4D00090FAA0001'/>
+<L f='E0E1B8C6D58DA1920AE311EACA7D00090FAA0001' s='E0E1B8C6D58D8C300AE311EABF4D00090FAA0001'/>
+<L f='E0E1B8C6D58DDA1D0AE311EAB31300090FAA0001' s='E0E1B8C6D58D8C300AE311EABF4D00090FAA0001'/>
+<L f='E0E1B8C6D58DEC0D0AE311EAC96100090FAA0001' s='E0E1B8C6D58DDA1F0AE311EAB77400090FAA0001'/>
+<L f='E0E1B8C6D58DEC0E0AE311EA83CA00090FAA0001' s='E0E1B8C6D58DDA1F0AE311EAB77400090FAA0001'/>
+<L f='E0E1B8C6D58DEC100AE311EABD9500090FAA0001' s='E0E1B8C6D58DDA1F0AE311EAB77400090FAA0001'/>
+<L f='E0E1B8C6D58DEC120AE311EAA2DA00090FAA0001' s='E0E1B8C6D58DDA1F0AE311EAB77400090FAA0001'/>
+<L f='E0E1B8C6D591122A0AE311EA9D1700090FAA0001' s='E0E1B8C6D590BC9F0AE311EAC35600090FAA0001'/>
+<L f='E0E1B8C6D5921BC80AE311EABA9100090FAA0001' s='E0E1B8C6D591CF3D0AE311EABB5D00090FAA0001'/>
+<L f='E0E1B8C6D5929DCB0AE311EA99C600090FAA0001' s='E0E1B8C6D5925DD00AE311EAB5F300090FAA0001'/>
+<L f='E0E1B8C6D592C70A0AE311EABD9600090FAA0001' s='E0E1B8C6D592C7090AE311EA8A5800090FAA0001'/>
+</WSDL2.AttachedUnkownExtensibilityEntities>
+<WSDL2.BindingForInterface c='1'>
+<L f='E012BF1E09667FE0026A11EA882C00090FAA0001' s='E012BF1E09693340026A11EA840C00090FAA0001'/>
+<L f='E012BF1ED0938FC6026911EA889400090FAA0001' s='E012BF1ED0968FCE026911EA801E00090FAA0001'/>
+<L f='E0E1B8C6D58CABF60AE311EAA44A00090FAA0001' s='E0E1B8C6D590BC9F0AE311EAC35600090FAA0001'/>
+</WSDL2.BindingForInterface>
+<WSDL2.TypeOfBinding c='1'>
+<L f='E012BF1E09693341026A11EAC8EF00090FAA0001' s='E012BF1E09693340026A11EA840C00090FAA0001'/>
+<L f='E012BF1ED096BF5E026911EA994A00090FAA0001' s='E012BF1ED0968FCE026911EA801E00090FAA0001'/>
+<L f='E0E1B8C6D590D3200AE311EAB16D00090FAA0001' s='E0E1B8C6D590BC9F0AE311EAC35600090FAA0001'/>
+</WSDL2.TypeOfBinding>
+<WSDL2.ReferenceToElement c='1'>
+<L f='E012BF1E09670296026A11EAA64800090FAA0001' s='local:E012BF1ED073D915026911EAA5A200090FAA0001'/>
+<L f='E012BF1E09677DA0026A11EAB1FF00090FAA0001' s='local:E012BF1ED08A3A54026911EA98E400090FAA0001'/>
+<L f='E012BF1ED0948A6F026911EAB4C200090FAA0001' s='local:E012BF1ED073D915026911EAA5A200090FAA0001'/>
+<L f='E012BF1ED094EB5C026911EAA5B000090FAA0001' s='local:E012BF1ED08A3A54026911EA98E400090FAA0001'/>
+<L f='E0E1B8C6D58D8C300AE311EABF4D00090FAA0001' s='local:E0E1B8C6D584176D0AE311EA85A700090FAA0001'/>
+<L f='E0E1B8C6D58DDA1F0AE311EAB77400090FAA0001' s='local:E0E1B8C6D5844D3B0AE311EA989400090FAA0001'/>
+</WSDL2.ReferenceToElement>
+<WSDL2.InterfaceOperations c='1'>
+<L f='E012BF1E0966AA66026A11EAB2CA00090FAA0001' s='E012BF1E09667FE0026A11EA882C00090FAA0001'/>
+<L f='E012BF1ED093EA67026911EAB35300090FAA0001' s='E012BF1ED0938FC6026911EA889400090FAA0001'/>
+<L f='E0E1B8C6D58CF5450AE311EABF1400090FAA0001' s='E0E1B8C6D58CABF60AE311EAA44A00090FAA0001'/>
+</WSDL2.InterfaceOperations>
+<WSDL2.BindingMessageReferences c='1'>
+<L f='E012BF1E096A3C33026A11EAB6EB00090FAA0001' s='E012BF1E096A12F6026A11EA8E5E00090FAA0001'/>
+<L f='E012BF1E096ABB5E026A11EAC8C200090FAA0001' s='E012BF1E096A12F6026A11EA8E5E00090FAA0001'/>
+<L f='E012BF1ED098073B026911EA97B700090FAA0001' s='E012BF1ED0979A4A026911EABA1600090FAA0001'/>
+<L f='E012BF1ED0983812026911EAC5D800090FAA0001' s='E012BF1ED0979A4A026911EABA1600090FAA0001'/>
+<L f='E0E1B8C6D5925DD00AE311EAB5F300090FAA0001' s='E0E1B8C6D591CF3D0AE311EABB5D00090FAA0001'/>
+<L f='E0E1B8C6D592C7090AE311EA8A5800090FAA0001' s='E0E1B8C6D591CF3D0AE311EABB5D00090FAA0001'/>
+</WSDL2.BindingMessageReferences>
+<WSDL2.OperationPattern c='1'>
+<L f='E012BF1E0967C1B4026A11EA979900090FAA0001' s='E012BF1E0966AA66026A11EAB2CA00090FAA0001'/>
+<L f='E012BF1ED09533F6026911EA97D100090FAA0001' s='E012BF1ED093EA67026911EAB35300090FAA0001'/>
+<L f='E0E1B8C6D58E12820AE311EA922F00090FAA0001' s='E0E1B8C6D58CF5450AE311EABF1400090FAA0001'/>
+</WSDL2.OperationPattern>
+<WSDL2.BindingOperations c='1'>
+<L f='E012BF1E096A12F6026A11EA8E5E00090FAA0001' s='E012BF1E09693340026A11EA840C00090FAA0001'/>
+<L f='E012BF1ED0979A4A026911EABA1600090FAA0001' s='E012BF1ED0968FCE026911EA801E00090FAA0001'/>
+<L f='E0E1B8C6D591CF3D0AE311EABB5D00090FAA0001' s='E0E1B8C6D590BC9F0AE311EAC35600090FAA0001'/>
+</WSDL2.BindingOperations>
+<WSDL2.InlinedSchemas c='1'>
+<L f='local:E012BF1E0923F833026A11EACCC400090FAA0001' s='E012BF1E0914F6DE026A11EAC91600090FAA0001'/>
+<L f='local:E012BF1E092454CF026A11EAB94600090FAA0001' s='E012BF1E0914F6DE026A11EAC91600090FAA0001'/>
+<L f='local:E012BF1E09636D64026A11EA88F100090FAA0001' s='E012BF1E0914F6DE026A11EAC91600090FAA0001'/>
+<L f='local:E012BF1ED045D0DE026911EACE0200090FAA0001' s='E012BF1ED03178BA026911EAC20500090FAA0001'/>
+<L f='local:E012BF1ED046455B026911EABBE100090FAA0001' s='E012BF1ED03178BA026911EAC20500090FAA0001'/>
+<L f='local:E012BF1ED08A021D026911EABEC500090FAA0001' s='E012BF1ED03178BA026911EAC20500090FAA0001'/>
+<L f='local:E0E1B8C6D57089D60AE311EAB0F400090FAA0001' s='E0E1B8C6D56105070AE311EAA1EC00090FAA0001'/>
+<L f='local:E0E1B8C6D570FE7F0AE311EAC7CA00090FAA0001' s='E0E1B8C6D56105070AE311EAA1EC00090FAA0001'/>
+</WSDL2.InlinedSchemas>
+</Partition>

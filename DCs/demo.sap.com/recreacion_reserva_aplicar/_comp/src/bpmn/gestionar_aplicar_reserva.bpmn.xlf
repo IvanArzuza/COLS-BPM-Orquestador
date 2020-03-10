@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<file tool="MOIN S2X File Generator" original="self" source-language="en" product-name="MOIN S2X File Generator" datatype="s2x">
+<header>
+<skl>
+</skl>
+<phase-group>
+</phase-group>
+<s2x xmlns="http://www.sap.com">
+<dtr>
+<dc></dc>
+<rel></rel>
+<sc></sc>
+</dtr>
+<giltDirectives>
+<develContact></develContact>
+<domain></domain>
+<collection></collection>
+<originalLocale xml:lang="en"/>
+<maxLength>255</maxLength>
+</giltDirectives>
+</s2x>
+</header>
+<body>
+<group restype="generaltext">
+<trans-unit id="2C2B65CF026C11EACA2500090FAA0001" resname="ba8ba3215a723cfd8dbf30cc8c4e5ebb" maxwidth="255" translate="no"><source>Reserva - Estado</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8BFEEBDE026C11EACEE800090FAA0001" resname="46acb967003537f799c445449f2a5b92" maxwidth="255" translate="no"><source>Reserva estado = False</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8ECB8646026B11EAB0BE00090FAA0001" resname="796b5f125f6333588c5c9f5d53ff513f" maxwidth="255" translate="no"><source>Consultar reserva</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8ECC0191026B11EA916400090FAA0001" resname="97ae3e4a476c313d81215a203c89fcf9" maxwidth="255" translate="no"><source>Automated 0_InputMapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8ECC3D6D026B11EA887300090FAA0001" resname="a4f02816877d36d39d4e5c29921621e7" maxwidth="255" translate="no"><source>Automated 0_OutputMapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="1E88A790027311EAA86A00090FAA0001" resname="c66d021d80fe34e2917b75eae4257807" maxwidth="255" translate="no"><source>Homologar codigo reserva</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="1E894EA2027311EA9D2800090FAA0001" resname="597f4f43ffd63609b97f26937ddddf55" maxwidth="255" translate="no"><source>Mapping 0_InputMapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="1E8993CD027311EA8FEB00090FAA0001" resname="7814072680c73f5c94970fce04028dde" maxwidth="255" translate="no"><source>Mapping 0_OutputMapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="1E8C476F027311EA85FA00090FAA0001" resname="13840787f7e031a2a11463d06366ed20" maxwidth="255" translate="no"><source>Reserva estado = True</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="7843520A023911EA8C0B00090FAA0001" resname="4bee24d97ca732f6b867bd13fc2f0f60" maxwidth="255" translate="no"><source>ConsultaReserva_Req</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="A95291FE023911EA92ED00090FAA0001" resname="9b3f6e0febc53898968c4801bb571e2a" maxwidth="255" translate="no"><source>ConsultaReserva_Res</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="E11BF70A024011EACEBC00090FAA0001" resname="45938680bf2932339262f3872a16423d" maxwidth="255" translate="no"><source>End - Gestionar Reserva</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="E11BF70E024011EA9C2B00090FAA0001" resname="848181db21283dca9455e0ba7c664a3f" maxwidth="255" translate="no"><source>Message End 0_InputMapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="DB4FF012071E11EAA086547C7E8EAE14" resname="48b68a5d646734469be8248128ccaa31" maxwidth="255" translate="no"><source>CodigoHotel</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8CAF9F00D3EC11E9BE4800090FAA0001" resname="68affea7bfb037d7b8ec6e54226ffdc9" maxwidth="255" translate="yes"><source>Gestionar_Aplicar_Reserva</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8CB05694D3EC11E98ECC00090FAA0001" resname="1239b4f0433f3564a93e8b65adc41baf" maxwidth="255" translate="no"><source>Gestionar_Aplicar_Reserva</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8CB48FFAD3EC11E9C39D00090FAA0001" resname="2686df99f9b8341ba7425d260b3217a2" maxwidth="255" translate="no"><source>TextVariables</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8CB5AA34D3EC11E9B7B600090FAA0001" resname="c98e8400dae239c39e464dee1472c08d" maxwidth="255" translate="no"><source>TextVariables_Mapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8CB96095D3EC11E984DB00090FAA0001" resname="43b980285aa3319d8952aa9de6723341" maxwidth="255" translate="no"><source>ProcessInstanceAttributes</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8CBB52A8D3EC11E9A25200090FAA0001" resname="7dd4b89a0b4b3f0ea7c84f4ae0ecadd5" maxwidth="255" translate="no"><source>Administrators</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8CBB7E62D3EC11E9B0A700090FAA0001" resname="ef40561185e132c8af9c1d9ff6c22fb5" maxwidth="255" translate="no"><source>Administrators_Mapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8CD7BA84D3EC11E9B89200090FAA0001" resname="3c48aa78c83c3484afba658c5639e1d1" maxwidth="255" translate="no"><source>Gestionar_Aplicar_Reserva</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8CD94D91D3EC11E9AA1300090FAA0001" resname="c202dd89f8893a6c924c57eb9110a71d" maxwidth="255" translate="no"><source>Gestionar_Aplicar_Reserva_PotentialOwners</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8CD969A3D3EC11E99CC100090FAA0001" resname="e3427618dafa37b5b8fdbb83ba7766d7" maxwidth="255" translate="no"><source>Default_PotentialOwners_Mapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8CE5B667D3EC11E9B62200090FAA0001" resname="1c8cfd6031853113aba038a6b24a758c" maxwidth="255" translate="no"><source>Gestionar_Aplicar_Reserva_ExcludedOwners</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8CE5B66AD3EC11E9B24400090FAA0001" resname="cfc12f7e5c5a313f82c42185c7195b5a" maxwidth="255" translate="no"><source>Default_ExcludedOwners_Mapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8D2E9552D3EC11E9ABC500090FAA0001" resname="a68ab012b81839de8cea2d98a5cc3e0c" maxwidth="255" translate="no"><source>Gestionar Reserva - Aplicar</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8D2F04D4D3EC11E98DAC00090FAA0001" resname="64f0a0f9a1283918baaa17f421aa6d07" maxwidth="255" translate="yes"><source>Gestionar - Aplicar Reserva</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8D30A7E9D3EC11E9B74500090FAA0001" resname="2ebe41513f1a330a9ba016139dc82712" maxwidth="255" translate="no"><source>TextVariables</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8D30D50FD3EC11E9AD4700090FAA0001" resname="3e30f510b4e231fda21ca9e3d56fed53" maxwidth="255" translate="no"><source>TextVariables_Mapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8D3283B4D3EC11E9BEBD00090FAA0001" resname="0aaae10bb9f83fe1b0be4cbc9a6b84f7" maxwidth="255" translate="no"><source>ProcessInstanceAttributes</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8D33A807D3EC11E9845400090FAA0001" resname="6806225c0e013ad982c786d9fad76d5e" maxwidth="255" translate="no"><source>Administrators</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8D33C16CD3EC11E9A58700090FAA0001" resname="b0f9e46400c23aadb3278392022dd9cf" maxwidth="255" translate="no"><source>Administrators_Mapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8D3E3638D3EC11E9818000090FAA0001" resname="009551e401e63609a00c8bf15385730e" maxwidth="255" translate="no"><source>Flujo</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8D3EE01DD3EC11E98DF200090FAA0001" resname="b211e3348fcf38d1b73c69807b7dd174" maxwidth="255" translate="no"><source>Flujo_PotentialOwners</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8D3EE020D3EC11E9CAB300090FAA0001" resname="dd8eb2d17d14347f80c878c7de0d1d40" maxwidth="255" translate="no"><source>Flujo__Estructuras_PotentialOwners_Mapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8D49E888D3EC11E98A1600090FAA0001" resname="1fe543f0d170334980967cc6afc701ae" maxwidth="255" translate="no"><source>Flujo_ExcludedOwners</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8D49E88BD3EC11E9913600090FAA0001" resname="bfbbe04e53e43e7eafc5b4d42f73e42d" maxwidth="255" translate="no"><source>Flujo__Estructuras_ExcludedOwners_Mapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8D557423D3EC11E9B5C900090FAA0001" resname="220c27477c9531ba85086c0b1b7531c9" maxwidth="255" translate="no"><source>Start - Gestionar Reserva</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8D5632B7D3EC11E99BC600090FAA0001" resname="5d4dfa03769939719401c6a5d04828d2" maxwidth="255" translate="no"><source>Start_OutputMapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="39B42CE70AE511EACAAE00090FAA0001" resname="276ba466802f3d1ca491a21884afe046" maxwidth="255" translate="no"><source>AplicarReserva_Req</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="4817E4EB0AE511EABA0D00090FAA0001" resname="8999e82f6e663e7ca21851f9ea57593b" maxwidth="255" translate="no"><source>AplicarReserva_Res</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="9B42E632D3EC11E9989600090FAA0001" resname="b469888b470239b68d2a15dcac643de2" maxwidth="255" translate="no"><source>Estructuras</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="9B45DF39D3EC11E9A98E00090FAA0001" resname="c41c8b5347e63074960ccac2c498adab" maxwidth="255" translate="no"><source>Estructuras_PotentialOwners</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="9B461300D3EC11E9AA5800090FAA0001" resname="847cb6313c233cbbb4de34c22fa6bf30" maxwidth="255" translate="no"><source>Lane_0_PotentialOwners_Mapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="9B6034FAD3EC11E99F6200090FAA0001" resname="b8f31f791d493c399c838a816110e5ca" maxwidth="255" translate="no"><source>Estructuras_ExcludedOwners</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="9B6034FDD3EC11E9851500090FAA0001" resname="1b7777aabe9b3c4ba57483127f1ed02d" maxwidth="255" translate="no"><source>Lane_0_ExcludedOwners_Mapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="07E0B72C0AD811EAC15C00090FAA0001" resname="ca18167791c732f7b5249259bbbae62f" maxwidth="255" translate="no"><source>Codigo no homologado</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="07E15BC00AD811EA880400090FAA0001" resname="93ae28bfd709371da4fc2fc883f6d459" maxwidth="255" translate="no"><source>Artificial Sequence Connector (End - Gestionar Reserva)</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="07F16D700AD811EAA8F000090FAA0001" resname="1a3304fef2c335c2afa7e3f1db2c65dc" maxwidth="255" translate="no"><source>Artificial Uncontrolled Join (End - Gestionar Reserva)</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="6CA05F3D0AD911EAB94600090FAA0001" resname="23a1bbedf07230b294f037bd9e29ed78" maxwidth="255" translate="no"><source>Aplicar reserva</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="6CA13AE90AD911EACE5300090FAA0001" resname="0f12c637006e33e38c793a09bd4bb108" maxwidth="255" translate="no"><source>Automated 0_InputMapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="6CA13AEB0AD911EAA2A200090FAA0001" resname="7be79182cf363979b63b727f3dfc6947" maxwidth="255" translate="no"><source>Automated 0_OutputMapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="6D4746F10AD911EA891200090FAA0001" resname="f0732579ddf234329846bb9f27c425bc" maxwidth="255" translate="no"><source>Codigo homologado</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="EC6480480AD711EA942D00090FAA0001" resname="e7a04a38a3bf32ca99bc8636aa49b097" maxwidth="255" translate="no"><source>Reserva - Confirmar</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+</group>
+<group restype="description">
+<trans-unit id="BB2F713A026C11EA8A2300090FAA0001" resname="0e06a22c2e4338e99a7d65cbf28323cc" maxwidth="16380" translate="yes"><source>Campo EsOperacionExitosa trae false</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="41C1CE65027311EAA38900090FAA0001" resname="219deda16b1831c390d861c47e98947e" maxwidth="16380" translate="yes"><source>Campo EsOperacionExitosa trae true</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8CBB52A9D3EC11E9C5FE00090FAA0001" resname="b5e86ff9eb2c33ea927d1fe663a040af" maxwidth="16380" translate="no"><source>Role for Admins</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="8D33A808D3EC11E99BB300090FAA0001" resname="229211e6874c3cf398a86ef96009363b" maxwidth="16380" translate="no"><source>Role for Admins</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="07E15BC10AD811EAAD2F00090FAA0001" resname="00f1e97561d6378a858844dcdf526a98" maxwidth="16380" translate="no"><source>Artificial Sequence Connector (End - Gestionar Reserva)</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="07F17C4C0AD811EACC0E00090FAA0001" resname="5684d4bf1d963d3d864ba62169e0d227" maxwidth="16380" translate="no"><source>Artificial Uncontrolled Join (End - Gestionar Reserva)</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+</group>
+</body>
+</file>
+</xliff>

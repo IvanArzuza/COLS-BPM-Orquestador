@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Partition xmlns:m='http://xml.sap.com/moin'>
+<C n='sap.com/com/sap/ide/es/config/mc/model' i='1' v='2.0.0'/>
+<M c='1' q='mc.logicalsystem.QName' i='471DAFAC55EC9E6C814111DCA447003005C6B92C'/>
+<M c='1' q='mc.servicereferences.ServiceReference' i='471DAFAC55EE250E814111DC8ECA003005C6B92C'/>
+<M c='1' q='mc.servicereferences.serviceref_logicalSystem' i='471DAFAC55EFABA2814111DCC1B9003005C6B92C' se='1' ce='-1' oe='-1'/>
+<M c='1' q='mc.servicereferences.serviceref_authenticationProfile' i='471DAFAC55EFABA5814111DCA3E1003005C6B92C' se='1' ce='-1' oe='-1'/>
+<M c='1' q='mc.servicereferences.serviceref_qname' i='471DAFAC55F13240814111DCC062003005C6B92C' se='1' ce='1' oe='-1'/>
+<M c='1' q='mc.servicereferences.ServiceReferenceCustomAttributes' i='E071FFE67B8562C5384611E09E32002710A58A9C'/>
+<M c='1' q='mc.servicereferences.ref_CustomAttributes' i='E071FFE6FAC645EF384611E08198002710A58A9C' se='1' ce='-1' oe='-1'/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E000054C12996B74026A11EACDE700090FAA0001' key='senderPartyName' value=''/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E000054C12999692026A11EAA83200090FAA0001' key='senderServiceName' value='BPM'/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E000054CDD7BBD2D026911EAB91D00090FAA0001' key='senderPartyName' value=''/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E000054CDD7BCB00026911EAA81600090FAA0001' key='senderServiceName' value='BPM'/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E00EA3B7241CD871023811EA8BEC00090FAA0001' key='senderPartyName' value=''/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E00EA3B7241D08D4023811EA8A5800090FAA0001' key='senderServiceName' value='BPM'/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E0116CBDCD31B363DAE711E987C400090FAA0001' key='senderPartyName' value=''/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E0116CBDCD31B364DAE711E9A1E900090FAA0001' key='senderServiceName' value='BPM'/>
+<mc.logicalsystem.QName m:c='1' m:i='E016575C090B8307026A11EA852E00090FAA0001' name='BPM_ConsultaReservas_Out' namespace='urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM'/>
+<mc.servicereferences.ServiceReference m:c='1' m:i='E016575C090B8D46026A11EAC19A00090FAA0001' id='baba9bff-17bb-4b68-ada4-085f06e3fe78' type='WS' bindingType='XI' scdlBindingType='xi'/>
+<mc.logicalsystem.QName m:c='1' m:i='E016575CD00C4E05026911EAAF2500090FAA0001' name='ConsultaReservas_In' namespace='urn:colsubsidio.com:recreacionyturismo:gestionreservas:bpm'/>
+<mc.servicereferences.ServiceReference m:c='1' m:i='E016575CD00CEE3E026911EAAC1B00090FAA0001' id='fda610dd-1853-4143-ae87-d0378395fde2' type='WS' bindingType='XI' scdlBindingType='xi'/>
+<mc.logicalsystem.QName m:c='1' m:i='E016575CD4A437680AE311EA919000090FAA0001' name='AplicarCargoReserva_Out' namespace='urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM'/>
+<mc.servicereferences.ServiceReference m:c='1' m:i='E016575CD4A45E420AE311EAB4FF00090FAA0001' id='4f8b9846-2e72-40d6-bb87-5318def6c1a6' type='WS' bindingType='XI' scdlBindingType='xi'/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E01DFA6E78B9B6AAD4DC11E9BB6100090FAA0001' key='senderPartyName' value=''/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E01DFA6E78B9B6ABD4DC11E99FA500090FAA0001' key='senderServiceName' value='BPM'/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E01F046650499911DAE711E9C81900090FAA0001' key='senderPartyName' value=''/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E01F04665049CF10DAE711E9857E00090FAA0001' key='senderServiceName' value='BPM'/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E029666BFD29AAE701A111EA97A500090FAA0001' key='senderPartyName' value=''/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E029666BFD29E18B01A111EAAC3B00090FAA0001' key='senderServiceName' value='BPM'/>
+<mc.logicalsystem.QName m:c='1' m:i='E0367719020BD29BD40311E9BCF100090FAA0001' name='SampleTimer' namespace='http://sap.com/glx/sampletimer/'/>
+<mc.servicereferences.ServiceReference m:c='1' m:i='E0367719020C154CD40311E9ACAD00090FAA0001' id='9fb0a741-b5b5-44bd-a397-de13d5100727' type='WS' bindingType='WS' scdlBindingType='ws'/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E03D847140315151D3FE11E988DE00090FAA0001' key='senderPartyName' value=''/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E03D847140315152D3FE11E9CD4200090FAA0001' key='senderServiceName' value='BPM'/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E0559EB2D0106EE8D4DC11E9B21000090FAA0001' key='senderPartyName' value=''/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E0559EB2D0106EE9D4DC11E9BA1F00090FAA0001' key='senderServiceName' value='BPM'/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E0932211AACB747EDAE711E9CCE900090FAA0001' key='senderPartyName' value=''/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E0932211AACB9603DAE711E9A68E00090FAA0001' key='senderServiceName' value='BPM'/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E0E14F86E8637B690AE311EAA96500090FAA0001' key='senderPartyName' value=''/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E0E14F86E863A1930AE311EA8ABD00090FAA0001' key='senderServiceName' value='BPM'/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E0E1B8C61D0FFF02D3EC11E98E4900090FAA0001' key='senderPartyName' value=''/>
+<mc.servicereferences.ServiceReferenceCustomAttributes m:c='1' m:i='E0E1B8C61D1095DCD3EC11E9A62000090FAA0001' key='senderServiceName' value='BPM'/>
+<mc.servicereferences.serviceref_logicalSystem c='1'>
+<L f='local:E036771910D85A45D3EC11E9B22100090FAA0001' s='E016575C090B8D46026A11EAC19A00090FAA0001'/>
+<L f='local:E036771910D85A45D3EC11E9B22100090FAA0001' s='E016575CD00CEE3E026911EAAC1B00090FAA0001'/>
+<L f='local:E036771910D85A45D3EC11E9B22100090FAA0001' s='E016575CD4A45E420AE311EAB4FF00090FAA0001'/>
+<L f='local:4925559F5D230461B6FD11DD82620018717335EB' s='E0367719020C154CD40311E9ACAD00090FAA0001'/>
+</mc.servicereferences.serviceref_logicalSystem>
+<mc.servicereferences.serviceref_authenticationProfile c='1'>
+<L f='local:E036771910EF5EB0D3EC11E9868300090FAA0001' s='E016575C090B8D46026A11EAC19A00090FAA0001'/>
+<L f='local:E036771910EF5EB0D3EC11E9868300090FAA0001' s='E016575CD00CEE3E026911EAAC1B00090FAA0001'/>
+<L f='local:E036771910EF5EB0D3EC11E9868300090FAA0001' s='E016575CD4A45E420AE311EAB4FF00090FAA0001'/>
+<L f='local:E036771910EF5EB0D3EC11E9868300090FAA0001' s='E0367719020C154CD40311E9ACAD00090FAA0001'/>
+</mc.servicereferences.serviceref_authenticationProfile>
+<mc.servicereferences.serviceref_qname c='1'>
+<L f='E016575C090B8307026A11EA852E00090FAA0001' s='E016575C090B8D46026A11EAC19A00090FAA0001'/>
+<L f='E016575CD00C4E05026911EAAF2500090FAA0001' s='E016575CD00CEE3E026911EAAC1B00090FAA0001'/>
+<L f='E016575CD4A437680AE311EA919000090FAA0001' s='E016575CD4A45E420AE311EAB4FF00090FAA0001'/>
+<L f='E0367719020BD29BD40311E9BCF100090FAA0001' s='E0367719020C154CD40311E9ACAD00090FAA0001'/>
+</mc.servicereferences.serviceref_qname>
+<mc.servicereferences.ref_CustomAttributes c='1'>
+<L f='E000054C12996B74026A11EACDE700090FAA0001' s='E016575C090B8D46026A11EAC19A00090FAA0001'/>
+<L f='E000054C12999692026A11EAA83200090FAA0001' s='E016575C090B8D46026A11EAC19A00090FAA0001'/>
+<L f='E000054CDD7BBD2D026911EAB91D00090FAA0001' s='E016575CD00CEE3E026911EAAC1B00090FAA0001'/>
+<L f='E000054CDD7BCB00026911EAA81600090FAA0001' s='E016575CD00CEE3E026911EAAC1B00090FAA0001'/>
+<L f='E0E14F86E8637B690AE311EAA96500090FAA0001' s='E016575CD4A45E420AE311EAB4FF00090FAA0001'/>
+<L f='E0E14F86E863A1930AE311EA8ABD00090FAA0001' s='E016575CD4A45E420AE311EAB4FF00090FAA0001'/>
+</mc.servicereferences.ref_CustomAttributes>
+</Partition>

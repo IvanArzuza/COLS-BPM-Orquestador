@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Partition xmlns:m='http://xml.sap.com/moin'>
+<C n='sap.com/com/sap/ide/es/config/mc/model' i='1' v='2.0.0'/>
+<C n='sap.com/glx/ide' i='2' v='2.0.0'/>
+<C n='sap.com/tc/moin/textverticalization' i='3' v='2.0.0'/>
+<M c='2' q='Galaxy.Rule.Expression' i='46F2595D9C50C47E676C11DCCC45001321CBD1B1'/>
+<M c='1' q='mc.logicalsystem.LogicalSystem' i='471DAFAC55EC9E66814111DCC42E003005C6B92C'/>
+<Galaxy.Rule.Expression m:c='2' m:i='E016575CA9EB88B3DF0111E9C0A800090FAA0001' stringExpression=''/>
+<mc.logicalsystem.LogicalSystem m:c='1' m:i='E036771910D85A45D3EC11E9B22100090FAA0001' name='ServiceGroup_XI' origin='' guid='0aeb364e-9534-4666-8352-47120ba03cc9' isLocalProviderSystem='false'>
+<displayName maxWidth='120' originalText='ServiceGroup_XI' resType='label' translate='false' transUnitId='10D79CDBD3EC11E9A08800090FAA0001' resName='0aeb364e-9534-4666-8352-47120ba03cc9.consgroup.name'/>
+<description maxWidth='120' originalText='Servicios con adaptador SOAP XI' resType='description' translate='true' transUnitId='10D75ECED3EC11E9B1D600090FAA0001' resName='0aeb364e-9534-4666-8352-47120ba03cc9.consgroup.description'/>
+</mc.logicalsystem.LogicalSystem>
+</Partition>

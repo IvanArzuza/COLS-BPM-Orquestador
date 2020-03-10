@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<wsdl:definitions xmlns:p1="urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM" xmlns:p2="urn:colsubsidio.com:legados:recaudos" xmlns:p3="urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp" xmlns:p4="urn:colsubsidio.com:legados:opera:recaudos" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" name="BPM_ConsultaReservas_Out" targetNamespace="urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM">
+  <wsdl:documentation/>
+  <wsp:UsingPolicy wsdl:required="true"/>
+  <ifw:properties xmlns:ifw="urn:com-sap:ifr:v2:wsdl">
+    <ifw:category>ifmmessif</ifw:category>
+    <ifw:VersionID>b87610e0024611ea8295000000836292</ifw:VersionID>
+    <ifw:lifeCycleInfo>
+      <objectState/>
+      <objectstatus value="A"/>
+      <personresponsible value="tecivarz"/>
+      <changed by="tecivarz" on="1573231463091"/>
+    </ifw:lifeCycleInfo>
+    <ifw:runtimeVersion uri="urn:sap-com:soap:runtime:application:client"/>
+    <ifw:communicationProfile uri="prf_dt_if_com_stateless"/>
+    <ifw:securityProfile uri="prf_dt_if_sec_basic"/>
+    <ifw:interfacePattern p2p="true"/>
+    <ifw:isSensitiveData>false</ifw:isSensitiveData>
+    <ifw:classifications>
+      <ifw:classification name="ObjectType" namespace="http://uddi.sap.com/classification" uddikey="uddi:uddi.sap.com:categorization:object-type" valueCode="ifmmessif"/>
+      <ifw:classification name="ObjectID" namespace="http://uddi.sap.com/classification" uddikey="uddi:uddi.sap.com:categorization:object-id" valueCode="5b5d80f5d0ce3aac8c25b60a6dd42dfe"/>
+    </ifw:classifications>
+    <ifw:additionalAttributes/>
+    <ifw:methods>
+      <ifw:method name="BPM_ConsultaReservas_Out">
+        <ifw:isSynchron>true</ifw:isSynchron>
+        <ifw:isIdempotent>false</ifw:isIdempotent>
+        <ifw:isInbound>false</ifw:isInbound>
+        <ifw:interfaceCategory>outbound</ifw:interfaceCategory>
+        <ifw:communicationProfile uri="prf_dt_op_com_sync"/>
+        <ifw:contextobjects/>
+      </ifw:method>
+    </ifw:methods>
+    <ifw:messages>
+      <ifw:message name="p3.PartidaConsulta_Request">
+        <ifw:messType>ifmmessage</ifw:messType>
+        <ifw:keyElements>
+          <ifw:elem id="NAME">PartidaConsulta_Request</ifw:elem>
+          <ifw:elem id="NAMESPACE">urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp</ifw:elem>
+        </ifw:keyElements>
+        <ifw:technicalNamespace>urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp</ifw:technicalNamespace>
+        <ifw:VersionID>cbc58a13b55711e9a4c3000000836292</ifw:VersionID>
+        <ifw:xmlNamespace>urn:colsubsidio.com:legados:recaudos</ifw:xmlNamespace>
+        <ifw:dataType name="PartidaConsulta_Req" namespace="urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp" swcvId="fe48eb20b30911e9a8dbe523c0a85b07" uri="name=PartidaConsulta_Req~namespace=urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp~swcvId=fe48eb20b30911e9a8dbe523c0a85b07"/>
+      </ifw:message>
+      <ifw:message name="p3.ReservaConsulta_Response">
+        <ifw:messType>ifmmessage</ifw:messType>
+        <ifw:keyElements>
+          <ifw:elem id="NAME">ReservaConsulta_Response</ifw:elem>
+          <ifw:elem id="NAMESPACE">urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp</ifw:elem>
+        </ifw:keyElements>
+        <ifw:technicalNamespace>urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp</ifw:technicalNamespace>
+        <ifw:VersionID>d8c4c798b55911e9af15000000836292</ifw:VersionID>
+        <ifw:xmlNamespace>urn:colsubsidio.com:legados:opera:recaudos</ifw:xmlNamespace>
+        <ifw:dataType name="ReservaConsulta_Resp" namespace="urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp" swcvId="fe48eb20b30911e9a8dbe523c0a85b07" uri="name=ReservaConsulta_Resp~namespace=urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp~swcvId=fe48eb20b30911e9a8dbe523c0a85b07"/>
+      </ifw:message>
+    </ifw:messages>
+    <ifw:matchingInterfaces/>
+    <ifw:genericProperties>
+      <ifw:swcvinfo>
+        <ifw:guid>fe48eb20b30911e9a8dbe523c0a85b07</ifw:guid>
+        <ifw:name>COL_I_RECREACIONYTURISMO_S, 1.0 of colsubsidio.com</ifw:name>
+      </ifw:swcvinfo>
+      <ifw:folder>
+        <ifw:guid>6fd7b5fed3fb11e9899e000000836292</ifw:guid>
+      </ifw:folder>
+      <ifw:languages>
+        <ifw:language internalCode="EN" original="true"/>
+      </ifw:languages>
+      <ifw:documentation type="I">
+        <name>_ID_5b5d80f5d0ce3aac8c25b60a6dd42dfe_ifmmessif</name>
+        <namespace>urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM</namespace>
+      </ifw:documentation>
+    </ifw:genericProperties>
+  </ifw:properties>
+  <wsp:Policy wsu:Id="OP_BPM_ConsultaReservas_Out"/>
+  <wsdl:types>
+    <xsd:schema xmlns="urn:colsubsidio.com:legados:recaudos" xmlns:p75="urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="urn:colsubsidio.com:legados:recaudos">
+      <xsd:import namespace="urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp"/>
+      <xsd:element name="PartidaConsulta_Request" type="p75:PartidaConsulta_Req"/>
+    </xsd:schema>
+    <xsd:schema xmlns="urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp">
+      <xsd:complexType name="Obligaciones">
+        <xsd:annotation>
+          <xsd:documentation xml:lang="EN">Lista de obligaciones</xsd:documentation>
+        </xsd:annotation>
+        <xsd:sequence>
+          <xsd:element maxOccurs="unbounded" name="Obligacion" type="Obligacion"/>
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="ReservaConsulta_Resp">
+        <xsd:sequence>
+          <xsd:element name="PartidaConsulta_Resp" type="PartidaConsulta_Resp"/>
+          <xsd:element name="Reserva_Resp" type="Reserva_Resp"/>
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="PartidaConsulta_Resp">
+        <xsd:annotation>
+          <xsd:documentation xml:lang="EN">Respuesta de Solicitud de Consulta de Partidas Abiertas</xsd:documentation>
+        </xsd:annotation>
+        <xsd:sequence>
+          <xsd:element name="TipoDocumentoCliente">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="2"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="NumeroDocumentoCliente">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="20"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" name="NombreCliente">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="40"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" name="ApellidoCliente">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="40"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" name="Obligaciones" type="Obligaciones"/>
+          <xsd:element name="MensajeRespuestaBaseDTO" type="MensajeRespuestaBaseDTO"/>
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="Reserva_Resp">
+        <xsd:sequence>
+          <xsd:element name="IdentificacionInternaCliente" type="xsd:string"/>
+          <xsd:element name="NumeroReservaInterno" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="EmailCliente" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="CodigoHotel" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="CodigoChainHotel" type="xsd:string"/>
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="ConsultaMultiservicios">
+        <xsd:annotation>
+          <xsd:documentation xml:lang="EN">Estructura con campos que identifican la consulta por tarjeta multiservicios.</xsd:documentation>
+        </xsd:annotation>
+        <xsd:sequence>
+          <xsd:element name="NumTarjetaMultiservicios">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="40"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="ConsultaReferencia">
+        <xsd:annotation>
+          <xsd:documentation xml:lang="EN">Estructura con campos que identifican la consulta por referencia de pago.</xsd:documentation>
+        </xsd:annotation>
+        <xsd:sequence>
+          <xsd:element name="ReferenciaUnica">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="24"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" name="Referencia2">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="24"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="TipoMoneda">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="5"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="ValorFactura">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:decimal">
+                <xsd:totalDigits value="16"/>
+                <xsd:fractionDigits value="2"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="ValorRecaudar">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:decimal">
+                <xsd:totalDigits value="16"/>
+                <xsd:fractionDigits value="2"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="FecVencimientoObligacion" type="xsd:date"/>
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="PartidaConsulta_Req">
+        <xsd:annotation>
+          <xsd:documentation xml:lang="EN">Solicitud de Consulta de Partidas Abiertas</xsd:documentation>
+        </xsd:annotation>
+        <xsd:sequence>
+          <xsd:element name="TipoConsulta">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="2"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="IdentificacionRecaudador" type="IdentificacionRecaudador"/>
+          <xsd:element minOccurs="0" name="ConsultaMultiservicios" type="ConsultaMultiservicios"/>
+          <xsd:element minOccurs="0" name="ConsultaIdentificacion" type="ConsultaIdentificacion"/>
+          <xsd:element minOccurs="0" name="ConsultaReferencia" type="ConsultaReferencia"/>
+          <xsd:element name="MensajeBaseDTO" type="MensajeBaseDTO"/>
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="IdentificacionRecaudador">
+        <xsd:annotation>
+          <xsd:documentation xml:lang="EN">Estructura con campos que identifican la aplicación que recauda.</xsd:documentation>
+        </xsd:annotation>
+        <xsd:sequence>
+          <xsd:element name="CodigoRecaudador">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="2"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="CanalRecaudo">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="2"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="NumeroLocalizacion">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="20"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="JornadaPago">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="1"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="NumeroConvenio">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="20"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="TerminalRecaudo">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="30"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="MensajeBaseDTO">
+        <xsd:annotation>
+          <xsd:documentation xml:lang="EN">Estructura que sigue los lineamientos de Colsubsidio para la publicación de servicios web.</xsd:documentation>
+        </xsd:annotation>
+        <xsd:sequence>
+          <xsd:element name="Canal" type="xsd:short"/>
+          <xsd:element minOccurs="0" name="IdentificadorProceso" nillable="true" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="IdentificadorSesion" nillable="true" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="Host" nillable="true" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="NombreOperacion" nillable="true" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="OrigenCliente" nillable="true" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="Usuario" nillable="true" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="Version" nillable="true" type="xsd:string"/>
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="MensajeRespuestaBaseDTO">
+        <xsd:annotation>
+          <xsd:documentation xml:lang="EN">Estructura que sigue los lineamientos de Colsubsidio para la publicación de servicios web.</xsd:documentation>
+        </xsd:annotation>
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="CodigoRespuesta" nillable="true" type="xsd:string"/>
+          <xsd:element name="EsOperacionExitosa" type="xsd:boolean"/>
+          <xsd:element minOccurs="0" name="IdentificadorProceso" nillable="true" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="MensajeRespuesta" nillable="true" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="MensajeRespuestaOriginal" nillable="true" type="xsd:string"/>
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="ConsultaIdentificacion">
+        <xsd:annotation>
+          <xsd:documentation xml:lang="EN">Estructura con campos que identifican la consulta por identificación del cliente.</xsd:documentation>
+        </xsd:annotation>
+        <xsd:sequence>
+          <xsd:element name="TipoDocumentoCliente">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="2"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="NumeroDocumentoCliente">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="20"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="Obligacion">
+        <xsd:annotation>
+          <xsd:documentation xml:lang="EN">Lista de cada una de la obligaciones</xsd:documentation>
+        </xsd:annotation>
+        <xsd:sequence>
+          <xsd:element name="TipoObligacion">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="2"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="ReferenciaUnica">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="24"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="ConceptoRecaudo">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="200"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="FechaVencimiento" type="xsd:date"/>
+          <xsd:element name="EstadoObligacion">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="1"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="ValorRecaudo1">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:decimal">
+                <xsd:totalDigits value="16"/>
+                <xsd:fractionDigits value="2"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" name="ValorRecaudo2">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:decimal">
+                <xsd:totalDigits value="16"/>
+                <xsd:fractionDigits value="2"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element minOccurs="0" name="CodigoSedeColsubsidio">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="10"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+        </xsd:sequence>
+      </xsd:complexType>
+    </xsd:schema>
+    <xsd:schema xmlns="urn:colsubsidio.com:legados:opera:recaudos" xmlns:p75="urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="urn:colsubsidio.com:legados:opera:recaudos">
+      <xsd:import namespace="urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp"/>
+      <xsd:element name="ReservaConsulta_Response" type="p75:ReservaConsulta_Resp"/>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="p3.PartidaConsulta_Request">
+    <wsdl:documentation>Solicitud de Consulta de Partidas Abiertas</wsdl:documentation>
+    <wsdl:part element="p2:PartidaConsulta_Request" name="PartidaConsulta_Request"/>
+  </wsdl:message>
+  <wsdl:message name="p3.ReservaConsulta_Response">
+    <wsdl:documentation/>
+    <wsdl:part element="p4:ReservaConsulta_Response" name="ReservaConsulta_Response"/>
+  </wsdl:message>
+  <wsdl:portType name="BPM_ConsultaReservas_Out">
+    <wsdl:documentation/>
+    <wsdl:operation name="BPM_ConsultaReservas_Out">
+      <wsdl:documentation/>
+      <wsp:Policy>
+        <wsp:PolicyReference URI="#OP_BPM_ConsultaReservas_Out"/>
+      </wsp:Policy>
+      <wsdl:input message="p1:p3.PartidaConsulta_Request"/>
+      <wsdl:output message="p1:p3.ReservaConsulta_Response"/>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BPM_ConsultaReservas_OutBinding" type="p1:BPM_ConsultaReservas_Out">
+    <soap:binding xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="BPM_ConsultaReservas_Out">
+      <soap:operation xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" soapAction="http://sap.com/xi/WebService/soap1.1"/>
+      <wsdl:input>
+        <soap:body xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+</wsdl:definitions>

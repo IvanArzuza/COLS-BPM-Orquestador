@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<wsdl:definitions xmlns:p1="urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM" xmlns:p2="urn:colsubsidio.com:erp:aplicarcargo" xmlns:p3="urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" name="AplicarCargoReserva_Out" targetNamespace="urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM">
+  <wsdl:documentation/>
+  <wsp:UsingPolicy wsdl:required="true"/>
+  <ifw:properties xmlns:ifw="urn:com-sap:ifr:v2:wsdl">
+    <ifw:category>ifmmessif</ifw:category>
+    <ifw:VersionID>1e86fb21da4d11e9865e000000836292</ifw:VersionID>
+    <ifw:lifeCycleInfo>
+      <objectState/>
+      <objectstatus value="A"/>
+      <personresponsible value="tecivarz"/>
+      <changed by="tecivarz" on="1568836174280"/>
+    </ifw:lifeCycleInfo>
+    <ifw:runtimeVersion uri="urn:sap-com:soap:runtime:application:client"/>
+    <ifw:communicationProfile uri="prf_dt_if_com_stateless"/>
+    <ifw:securityProfile uri="prf_dt_if_sec_basic"/>
+    <ifw:interfacePattern p2p="true"/>
+    <ifw:isSensitiveData>false</ifw:isSensitiveData>
+    <ifw:classifications>
+      <ifw:classification name="ObjectType" namespace="http://uddi.sap.com/classification" uddikey="uddi:uddi.sap.com:categorization:object-type" valueCode="ifmmessif"/>
+      <ifw:classification name="ObjectID" namespace="http://uddi.sap.com/classification" uddikey="uddi:uddi.sap.com:categorization:object-id" valueCode="0b1f55e855273d95a4b714594fbe8fe2"/>
+    </ifw:classifications>
+    <ifw:additionalAttributes/>
+    <ifw:methods>
+      <ifw:method name="AplicarCargoReserva_Out">
+        <ifw:isSynchron>true</ifw:isSynchron>
+        <ifw:isIdempotent>false</ifw:isIdempotent>
+        <ifw:isInbound>false</ifw:isInbound>
+        <ifw:interfaceCategory>outbound</ifw:interfaceCategory>
+        <ifw:communicationProfile uri="prf_dt_op_com_sync"/>
+        <ifw:contextobjects/>
+      </ifw:method>
+    </ifw:methods>
+    <ifw:messages>
+      <ifw:message name="p3.AplicarCargoReserva_Response">
+        <ifw:messType>ifmmessage</ifw:messType>
+        <ifw:keyElements>
+          <ifw:elem id="NAME">AplicarCargoReserva_Response</ifw:elem>
+          <ifw:elem id="NAMESPACE">urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp</ifw:elem>
+        </ifw:keyElements>
+        <ifw:technicalNamespace>urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp</ifw:technicalNamespace>
+        <ifw:VersionID>6d8c7c67b47c11e99610000000836292</ifw:VersionID>
+        <ifw:xmlNamespace>urn:colsubsidio.com:erp:aplicarcargo</ifw:xmlNamespace>
+        <ifw:dataType name="MensajeRespuestaBaseDTO" namespace="urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp" swcvId="fe48eb20b30911e9a8dbe523c0a85b07" uri="name=MensajeRespuestaBaseDTO~namespace=urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp~swcvId=fe48eb20b30911e9a8dbe523c0a85b07"/>
+      </ifw:message>
+      <ifw:message name="p3.AplicarCargoReserva_Request">
+        <ifw:messType>ifmmessage</ifw:messType>
+        <ifw:keyElements>
+          <ifw:elem id="NAME">AplicarCargoReserva_Request</ifw:elem>
+          <ifw:elem id="NAMESPACE">urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp</ifw:elem>
+        </ifw:keyElements>
+        <ifw:technicalNamespace>urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp</ifw:technicalNamespace>
+        <ifw:VersionID>3a20babab47c11e9aac3000000836292</ifw:VersionID>
+        <ifw:xmlNamespace>urn:colsubsidio.com:erp:aplicarcargo</ifw:xmlNamespace>
+        <ifw:dataType name="AplicarCargoReserva_Req" namespace="urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp" swcvId="fe48eb20b30911e9a8dbe523c0a85b07" uri="name=AplicarCargoReserva_Req~namespace=urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp~swcvId=fe48eb20b30911e9a8dbe523c0a85b07"/>
+      </ifw:message>
+    </ifw:messages>
+    <ifw:matchingInterfaces/>
+    <ifw:genericProperties>
+      <ifw:swcvinfo>
+        <ifw:guid>fe48eb20b30911e9a8dbe523c0a85b07</ifw:guid>
+        <ifw:name>COL_I_RECREACIONYTURISMO_S, 1.0 of colsubsidio.com</ifw:name>
+      </ifw:swcvinfo>
+      <ifw:folder>
+        <ifw:guid>ebf48878da4c11e9ac9b000000836292</ifw:guid>
+      </ifw:folder>
+      <ifw:languages>
+        <ifw:language internalCode="EN" original="true"/>
+      </ifw:languages>
+      <ifw:documentation type="I">
+        <name>_ID_0b1f55e855273d95a4b714594fbe8fe2_ifmmessif</name>
+        <namespace>urn:colsubsidio.com:recreacionyturismo:gestionreservas:BPM</namespace>
+      </ifw:documentation>
+    </ifw:genericProperties>
+  </ifw:properties>
+  <wsp:Policy wsu:Id="OP_AplicarCargoReserva_Out"/>
+  <wsdl:types>
+    <xsd:schema xmlns="urn:colsubsidio.com:erp:aplicarcargo" xmlns:p75="urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="urn:colsubsidio.com:erp:aplicarcargo">
+      <xsd:import namespace="urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp"/>
+      <xsd:element name="AplicarCargoReserva_Request" type="p75:AplicarCargoReserva_Req"/>
+      <xsd:element name="AplicarCargoReserva_Response" type="p75:MensajeRespuestaBaseDTO"/>
+    </xsd:schema>
+    <xsd:schema xmlns="urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="urn:colsubsidio.com:recreacionyturismo:gestionreservas:mapp">
+      <xsd:complexType name="AplicarCargoReserva_Req">
+        <xsd:sequence>
+          <xsd:element name="CodigoHotel">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="15"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="CodigoChainHotel">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="15"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="NumeroInternoReserva">
+            <xsd:simpleType>
+              <xsd:restriction base="xsd:string">
+                <xsd:maxLength value="15"/>
+              </xsd:restriction>
+            </xsd:simpleType>
+          </xsd:element>
+          <xsd:element name="Cargo">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="Cuenta" type="xsd:string"/>
+                <xsd:element name="Valor" type="xsd:decimal"/>
+              </xsd:sequence>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="IdentificadorCargo">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="Descripcion" type="xsd:string"/>
+                <xsd:element name="DescripcionDetallada" type="xsd:string"/>
+                <xsd:element name="TerminalRecaudo" type="xsd:string"/>
+              </xsd:sequence>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="MensajeBaseDTO" type="MensajeBaseDTO"/>
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="MensajeBaseDTO">
+        <xsd:annotation>
+          <xsd:documentation xml:lang="EN">Estructura que sigue los lineamientos de Colsubsidio para la publicación de servicios web.</xsd:documentation>
+        </xsd:annotation>
+        <xsd:sequence>
+          <xsd:element name="Canal" type="xsd:short"/>
+          <xsd:element minOccurs="0" name="IdentificadorProceso" nillable="true" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="IdentificadorSesion" nillable="true" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="Host" nillable="true" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="NombreOperacion" nillable="true" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="OrigenCliente" nillable="true" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="Usuario" nillable="true" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="Version" nillable="true" type="xsd:string"/>
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="MensajeRespuestaBaseDTO">
+        <xsd:annotation>
+          <xsd:documentation xml:lang="EN">Estructura que sigue los lineamientos de Colsubsidio para la publicación de servicios web.</xsd:documentation>
+        </xsd:annotation>
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="CodigoRespuesta" nillable="true" type="xsd:string"/>
+          <xsd:element name="EsOperacionExitosa" type="xsd:boolean"/>
+          <xsd:element minOccurs="0" name="IdentificadorProceso" nillable="true" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="MensajeRespuesta" nillable="true" type="xsd:string"/>
+          <xsd:element minOccurs="0" name="MensajeRespuestaOriginal" nillable="true" type="xsd:string"/>
+        </xsd:sequence>
+      </xsd:complexType>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="p3.AplicarCargoReserva_Request">
+    <wsdl:documentation/>
+    <wsdl:part element="p2:AplicarCargoReserva_Request" name="AplicarCargoReserva_Request"/>
+  </wsdl:message>
+  <wsdl:message name="p3.AplicarCargoReserva_Response">
+    <wsdl:documentation/>
+    <wsdl:part element="p2:AplicarCargoReserva_Response" name="AplicarCargoReserva_Response"/>
+  </wsdl:message>
+  <wsdl:portType name="AplicarCargoReserva_Out">
+    <wsdl:documentation/>
+    <wsdl:operation name="AplicarCargoReserva_Out">
+      <wsdl:documentation/>
+      <wsp:Policy>
+        <wsp:PolicyReference URI="#OP_AplicarCargoReserva_Out"/>
+      </wsp:Policy>
+      <wsdl:input message="p1:p3.AplicarCargoReserva_Request"/>
+      <wsdl:output message="p1:p3.AplicarCargoReserva_Response"/>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="AplicarCargoReserva_OutBinding" type="p1:AplicarCargoReserva_Out">
+    <soap:binding xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="AplicarCargoReserva_Out">
+      <soap:operation xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" soapAction="http://sap.com/xi/WebService/soap1.1"/>
+      <wsdl:input>
+        <soap:body xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+</wsdl:definitions>

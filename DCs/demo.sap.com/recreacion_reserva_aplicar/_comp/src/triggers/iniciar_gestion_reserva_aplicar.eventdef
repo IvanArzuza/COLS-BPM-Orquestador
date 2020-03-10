@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Partition xmlns:m='http://xml.sap.com/moin'>
+<C n='sap.com/glx/ide' i='1' v='2.0.0'/>
+<C n='sap.com/tc/moin/textverticalization' i='2' v='2.0.0'/>
+<C n='sap.com/tc/moin/util' i='3' v='1.0.0'/>
+<M c='1' q='Galaxy.Workflow.MessageEventDefinition' i='47BEE014D666B539E15411DCB9A7001321CBD1B1'/>
+<M c='1' q='Galaxy.Workflow.MessageEventDefinitionHasOperation' i='47C2D91202ED4EB5E3B311DCC463001558C33B4F' se='1' ce='-1' oe='-1'/>
+<M c='3' q='properties.PropertyBag' i='493E63563C546320C5EC11DD9396001999375840'/>
+<properties.PropertyBag m:c='3' m:i='E08ED147B9529BBBD3FA11E9C32A00090FAA0001' id='PartitionCreationInfo'>
+<properties key='creatorId' value='com.sap.glx.ide'/>
+<properties key='creatorVersion' value='2.0.0'/>
+</properties.PropertyBag>
+<Galaxy.Workflow.MessageEventDefinition m:c='1' m:i='E0C4897FB9522BCCD3FA11E987FC00090FAA0001' nameTranslatable='false' documentationTranslatable='true'>
+<name maxWidth='255' originalText='Iniciar_Gestion_Reserva_Aplicar' resType='generaltext' translate='false' transUnitId='B9525956D3FA11E9B71700090FAA0001'/>
+<documentation maxWidth='16380' originalText='' resType='description' translate='true' transUnitId='B9526C5AD3FA11E9934200090FAA0001'/>
+</Galaxy.Workflow.MessageEventDefinition>
+<Galaxy.Workflow.MessageEventDefinitionHasOperation c='1'>
+<L f='local:E012BF1ED093EA67026911EAB35300090FAA0001' s='E0C4897FB9522BCCD3FA11E987FC00090FAA0001'/>
+</Galaxy.Workflow.MessageEventDefinitionHasOperation>
+</Partition>

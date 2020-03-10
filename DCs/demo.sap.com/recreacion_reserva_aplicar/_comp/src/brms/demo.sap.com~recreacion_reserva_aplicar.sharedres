@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruleset activatehigherpriorityrule="true" aliasname="" effectivedate="Always" expirationdate="" groupingreason="" guid="RS3da8d870d5aa11e985c600090faa0001" isreusable="false" mainflowguid="" mainflowname="" name="demo.sap.com~recreacion_reserva_aplicar.sharedres" persistent="false" projectname="demo.sap.com~recreacion_reserva_aplicar" type="SimpleRuleset" varaliasname="" version="1">
+  <reusedresources/>
+</ruleset>
